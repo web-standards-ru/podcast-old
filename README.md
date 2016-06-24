@@ -6,4 +6,4 @@
 - Вадим Макеев
 - Алексей Симоненко
 
-Слушайте нас на SoundCloud, в iTunes или подписывайтесь на RSS.
+Слушайте нас на [SoundCloud](https://soundcloud.com/web-standards), в [iTunes](https://itunes.apple.com/ru/podcast/veb-standarty/id1080500016) или подписывайтесь на [RSS](http://feeds.soundcloud.com/users/soundcloud:users:202737209/sounds.rss).
