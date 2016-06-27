@@ -4,40 +4,20 @@
 
 Обсуждайте в Слаке http://slack.web-standards.ru, в канале #​podcast
 
-00:17 SPB Frontend
+00:17 События
 
 - SPB Frontend — https://vk.com/spb_frontend
 - Видео с SPB Frontend — https://youtu.be/BVDxZ48poKo
-
-00:53 Яндекс.Субботник
-
 - Я.Субботник по фронтенду — https://events.yandex.ru/events/yasubbotnik/27-feb-2016/
 - Лог текстовой трансляции с Яндекс.Субботника — https://github.com/web-standards-ru/web-standards-up/blob/master/2016-02-27_ya-subbotnik.md
-
-02:02 PiterCSS
-
 - PiterCSS №2 — https://pitercss.timepad.ru/event/298243/
-
-02:30 CodeFest
-
 - CodeFest 2016 — http://2016.codefest.ru/
-
-02:44 DUMP
-
 - DUMP 2016 — http://dump-conf.ru/
-
-03:11 Стачка
-
 - Стачка 2016 — http://nastachku.ru/
 
-03:25 GitHub без иконочных шрифтов
+03:25 Использование SVG и GitHub без иконочных шрифтов
 
 - Delivering Octicons with SVG — https://github.com/blog/2112-delivering-octicons-with-svg
-
-06:56 Способы вставки SVG-иконок
-
-08:49 Гигантские иконки без стилей
-
 - https://twitter.com/pepelsbey/status/703223926541983744
 
 09:52 Google Resizer
@@ -59,10 +39,7 @@
 
 20:35 Про селектор :root
 
-24:36 Эссе про новую веб-типографику
+24:36 Типографика
 
 - The New Web Typography — https://robinrendle.com/essays/new-web-typography/
-
-40:55 Роберт Бринхерст, «Основы стиля в типографике»
-
 - "Книга Основы стиля в типографике" — http://store.artlebedev.ru/books/design/typography/osnovy-stilya-v-tipografike/
