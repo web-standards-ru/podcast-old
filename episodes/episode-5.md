@@ -1,59 +1,68 @@
 # Выпуск №5
 
-- TODO: описание выпуска.
-- TODO: развернуть ссылки из Твиттера.
+Обзор событий, SVG и иконочные шрифты, Google Resizer, background-clip, object-fit, object-position, Sass и ES2015, :root, типографика.
 
 Обсуждайте в Слаке http://slack.web-standards.ru, в канале #​podcast
 
 00:17 SPB Frontend
-https://vk.com/spb_frontend
-https://youtu.be/BVDxZ48poKo
+
+- SPB Frontend — https://vk.com/spb_frontend
+- Видео с SPB Frontend — https://youtu.be/BVDxZ48poKo
 
 00:53 Яндекс.Субботник
-https://events.yandex.ru/events/yasubbotnik/27-feb-2016/
-https://twitter.com/webstandards_ru/status/704229648700461057
+
+- Я.Субботник по фронтенду — https://events.yandex.ru/events/yasubbotnik/27-feb-2016/
+- Лог текстовой трансляции с Яндекс.Субботника — https://github.com/web-standards-ru/web-standards-up/blob/master/2016-02-27_ya-subbotnik.md
 
 02:02 PiterCSS
-https://pitercss.timepad.ru/event/298243/
+
+- PiterCSS №2 — https://pitercss.timepad.ru/event/298243/
 
 02:30 CodeFest
-http://2016.codefest.ru/
+
+- CodeFest 2016 — http://2016.codefest.ru/
 
 02:44 DUMP
-http://dump-conf.ru/
+
+- DUMP 2016 — http://dump-conf.ru/
 
 03:11 Стачка
-http://nastachku.ru/
+
+- Стачка 2016 — http://nastachku.ru/
 
 03:25 GitHub без иконочных шрифтов
-https://twitter.com/webstandards_ru/status/702065716317573120
+
+- Delivering Octicons with SVG — https://github.com/blog/2112-delivering-octicons-with-svg
 
 06:56 Способы вставки SVG-иконок
 
 08:49 Гигантские иконки без стилей
-https://twitter.com/pepelsbey/status/703223926541983744
+
+- https://twitter.com/pepelsbey/status/703223926541983744
 
 09:52 Google Resizer
-https://twitter.com/webstandards_ru/status/703127377627340801
+
+- Introducing resizer — https://design.google.com/articles/introducing-resizer/
 
 10:46 Переводы CSS Live
 
-Свойство background-clip и его применения
-https://twitter.com/webstandards_ru/status/702825389245276160
-
-Краткий обзор object-fit и object-position
-https://twitter.com/webstandards_ru/status/703142485581656064
+- Свойство background-clip и его применения — http://css-live.ru/articles-css/background-clip-use-cases.html
+- Краткий обзор object-fit и object-position — http://css-live.ru/articles/kratkij-obzor-object-fit-i-object-position.html
 
 15:10 Знаете Sass? Значит знаете и ES2015!
-https://twitter.com/webstandards_ru/status/702424414231633920
+
+-  You Know Sass, You Know ES2015 — https://una.im/sass-es2015/
 
 18:50 CSS Snap Size
-https://twitter.com/webstandards_ru/status/702130801220128770
+
+- CSS Snap Size, черновик спецификации для вертикального ритма со свойством snap-height — https://drafts.csswg.org/css-snap-size/
 
 20:35 Про селектор :root
 
 24:36 Эссе про новую веб-типографику
-https://twitter.com/webstandards_ru/status/702145936559050752
+
+- The New Web Typography — https://robinrendle.com/essays/new-web-typography/
 
 40:55 Роберт Бринхерст, «Основы стиля в типографике»
-http://store.artlebedev.ru/books/design/typography/osnovy-stilya-v-tipografike/
+
+- "Книга Основы стиля в типографике" — http://store.artlebedev.ru/books/design/typography/osnovy-stilya-v-tipografike/
