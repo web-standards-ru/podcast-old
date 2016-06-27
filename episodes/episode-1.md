@@ -1,6 +1,6 @@
 # Выпуск №1
 
-Chrome 48, Firefox 44, Sass вместе с PostCSS, минимально необходимые шрифты, HTTPS и коты во фронтенде.
+Chrome 48, Firefox 44, Sass вместе с PostCSS, минимально необходимые шрифты, HTTPS, коты во фронтенде.
 
 Обсуждайте в Слаке http://slack.web-standards.ru, в канале #​podcast
 
