@@ -1,15 +1,12 @@
 # Выпуск №1
 
-Chrome 48, Firefox 44, Sass вместе с PostCSS, минимально необходимые шрифты, HTTPS и коты во фронтенде.
+Chrome 48, Firefox 44, Sass вместе с PostCSS, минимально необходимые шрифты, HTTPS, коты во фронтенде.
 
 Обсуждайте в Слаке http://slack.web-standards.ru, в канале #​podcast
 
-00:50 Chrome 48
+00:50 Обновление Chrome и Firefox
 
 - Chrome 48 — https://youtu.be/TebeVxw95RI
-
-02:30 Firefox 44
-
 - Firefox 44 — http://tanalin.com/blog/2016/01/firefox-44/
 
 08:06 PhantomJS 2.1

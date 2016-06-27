@@ -4,12 +4,9 @@ PiterCSS №1, Frontend Union Conf, Grunt 1.0 RC1, npm-скрипты, ES6, Gith
 
 Обсуждайте в Слаке http://slack.web-standards.ru, в канале #​podcast
 
-00:25 Прошедший PiterCSS
+00:25 События
 
 - PiterCSS №1 — https://pitercss.timepad.ru/event/289721/
-
-02:05 Frontend Union Conf в Вильнюсе
-
 - Frontend Union Conf 2016 — https://www.papercall.io/func2016
 
 05:52 Выход Grunt 1.0 RC1
@@ -29,7 +26,7 @@ PiterCSS №1, Frontend Union Conf, Grunt 1.0 RC1, npm-скрипты, ES6, Gith
 
 - Проблемы роста GitHub: Увольнение ключевых сотрудников, смена руководства и зарождение «культуры страха» — https://vc.ru/p/github-qrowth-problems
 
-42:07 Подкасты RadioJS и Code
+42:07 Подкасты
 
 - RadioJSPodcastPro — https://soundcloud.com/radiojspodcast
 - Code Podcast — https://soundcloud.com/podcastcode

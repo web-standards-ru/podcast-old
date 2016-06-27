@@ -4,24 +4,15 @@
 
 Обсуждайте в Слаке http://slack.web-standards.ru, в канале #​podcast
 
-00:13 Rolling Scopes
+00:13 События
 
 - The Rolling Scopes Conference — https://2016.conf.rollingscopes.com/
 - Видео с The Rolling Scopes Conference — https://www.youtube.com/channel/UCUgmHbk1rTFaf4GGKQ1OXfQ
-
-00:36 MoscowJS
-
 - MoscowJS — https://corp.mail.ru/ru/press/events/171/
-
-00:47 Субботник
-
 - Я.Субботник по фронтенду — https://events.yandex.ru/events/yasubbotnik/27-feb-2016
-
-00:56 PiterCSS 2
-
 - PiterCSS — http://pitercss.ru
 
-01:37 VS Code, ST, Atom
+01:37 Редакторы и плагины
 
 - Используем VS Code для Веб-разработки — https://habr.ru/p/276825/
 - Why I love Visual Studio Code for CSS / HTML development — http://generatedcontent.org/post/139138022310/why-i-love-visual-studio-code-for-css-html
