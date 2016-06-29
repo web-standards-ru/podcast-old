@@ -1,43 +1,43 @@
 # Выпуск №4
 
-- TODO: описание выпуска.
-- TODO: развернуть ссылки из Твиттера.
+События, редакторы кода, разработка на мобильных устройствах, верстка писем, CSS-переменные, управление загрузкой CSS.
 
 Обсуждайте в Слаке http://slack.web-standards.ru, в канале #​podcast
 
-00:13 Rolling Scopes
-https://twitter.com/webstandards_ru/status/700981953168670720
+00:13 События
 
-00:36 MoscowJS
-https://twitter.com/webstandards_ru/status/700590674643701760
+- The Rolling Scopes Conference — https://2016.conf.rollingscopes.com/
+- Видео с The Rolling Scopes Conference — https://www.youtube.com/channel/UCUgmHbk1rTFaf4GGKQ1OXfQ
+- MoscowJS — https://corp.mail.ru/ru/press/events/171/
+- Я.Субботник по фронтенду — https://events.yandex.ru/events/yasubbotnik/27-feb-2016
+- PiterCSS — http://pitercss.ru
 
-00:47 Субботник
-https://events.yandex.ru/events/yasubbotnik/27-feb-2016
+01:37 Редакторы и плагины
 
-00:56 PiterCSS 2
-http://pitercss.ru
-
-01:37 VS Code, ST, Atom
-https://twitter.com/webstandards_ru/status/699217947689164800
-https://twitter.com/webstandards_ru/status/699216609437679617
-
-Hayaku — http://hayakubundle.com
-CSSComb — http://csscomb.com
+- Используем VS Code для Веб-разработки — https://habr.ru/p/276825/
+- Why I love Visual Studio Code for CSS / HTML development — http://generatedcontent.org/post/139138022310/why-i-love-visual-studio-code-for-css-html
+- Hayaku — http://hayakubundle.com
+- CSSComb — http://csscomb.com
 
 12:01 Разработка на мобильных
-https://twitter.com/webstandards_ru/status/700693342368178176
+
+- Prompt 2 — https://panic.com/prompt/
 
 22:45 Вёрстка писем
-https://twitter.com/webstandards_ru/status/697344270072684544
-https://twitter.com/webstandards_ru/status/699956492338925568
+
+- Using Flexbox in an Email — https://emails.hteumeuleu.com/using-flexbox-in-an-email-4b1aa7a69886#.6k05138ss
+- The Fab Four technique to create Responsive Emails without Media Queries — https://medium.freecodecamp.com/the-fab-four-technique-to-create-responsive-emails-without-media-queries-baf11fdfa848#.cobtfqh0c
 Punched card coding — https://youtu.be/xhUfiOSOk3g
 
 34:16 CSS-переменные
-https://twitter.com/webstandards_ru/status/700273568429576192
-http://css-live.ru/articles/about-native-css-variables.html
+
+- Theme switcher using CSS custom properties — https://justmarkup.com/log/2016/02/theme-switcher-using-css-custom-properties/
+- Почему я в восторге от «родных» CSS-переменных — http://css-live.ru/articles/about-native-css-variables.html
 Tab Atkins, The Future of CSS — https://vimeo.com/32135328
 
 47:20 Альтернативная подгрузка стилей
-https://twitter.com/webstandards_ru/status/699926289336049664
+
+- [ENG] Control CSS loading with custom properties — https://jakearchibald.com/2016/css-loading-with-custom-props/
+- [RUS] Управление загрузкой CSS с помощью пользовательских свойств — http://css-live.ru/articles/upravlenie-zagruzkoj-css-s-pomoshhyu-polzovatelskix-svojstv.html
 
 52:15 Примеры использования calc()
