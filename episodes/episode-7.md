@@ -3,7 +3,7 @@
 - TODO: описание выпуска.
 - TODO: развернуть ссылки из Твиттера.
 
-Обсуждайте в Слаке http://slack.web-standards.ru, в канале #​podcast
+[Обсуждайте в Слаке](http://slack.web-standards.ru), в канале #​podcast.
 
 00:18 День рождения SPB Frontend, встреча 15 марта
 https://vk.com/spb_frontend_birthday_150316

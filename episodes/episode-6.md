@@ -3,7 +3,7 @@
 - TODO: описание выпуска.
 - TODO: развернуть ссылки из Твиттера.
 
-Обсуждайте в Слаке http://slack.web-standards.ru, в канале #​podcast
+[Обсуждайте в Слаке](http://slack.web-standards.ru), в канале #​podcast.
 
 01:02 Флексбокс — кандидат в рекомендации
 https://twitter.com/webstandards_ru/status/705029925053599744
@@ -23,7 +23,7 @@ https://twitter.com/webstandards_ru/status/706833584557068288
 13:47 CSSO 1.6 с картами кода
 https://twitter.com/webstandards_ru/status/704245834335047680
 
-18:37 Почему rel="preload" круче prefetch
+18:37 Почему `rel="preload"` круче `prefetch`
 https://twitter.com/webstandards_ru/status/704320254193836032
 
 26:19 HTTP/2: готовимся к переходу
