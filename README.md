@@ -30,5 +30,6 @@
 [20-й выпуск](episodes/episode-20.md)
 [21-й выпуск](episodes/episode-21.md)
 [22-й выпуск](episodes/episode-22.md)
+
 ---
 Распространяется под лицензией [СС BY-NC-ND 4.0](LICENSE.md).
