@@ -26,8 +26,8 @@
 22:45 Вёрстка писем
 
 - Using Flexbox in an Email — https://emails.hteumeuleu.com/using-flexbox-in-an-email-4b1aa7a69886#.6k05138ss
-- The Fab Four technique to create Responsive Emails without Media Queries — https://medium.freecodecamp.com/the-fab-four-technique-to-create-responsive-emails-without-media-queries-baf11fdfa848#.cobtfqh0c
-Punched card coding — https://youtu.be/xhUfiOSOk3g
+- The Fab Four technique to create Responsive Emails without Media Queries — https://medium.freecodecamp.com/the-fab-four-technique-to-create-responsive-emails-without-media-queries-baf11fdfa848
+- Punched card coding — https://youtu.be/xhUfiOSOk3g
 
 34:16 CSS-переменные
 
@@ -37,7 +37,7 @@ Tab Atkins, The Future of CSS — https://vimeo.com/32135328
 
 47:20 Альтернативная подгрузка стилей
 
-- [ENG] Control CSS loading with custom properties — https://jakearchibald.com/2016/css-loading-with-custom-props/
-- [RUS] Управление загрузкой CSS с помощью пользовательских свойств — http://css-live.ru/articles/upravlenie-zagruzkoj-css-s-pomoshhyu-polzovatelskix-svojstv.html
+- Control CSS loading with custom properties — https://jakearchibald.com/2016/css-loading-with-custom-props/
+- Управление загрузкой CSS с помощью пользовательских свойств — http://css-live.ru/articles/upravlenie-zagruzkoj-css-s-pomoshhyu-polzovatelskix-svojstv.html
 
-52:15 Примеры использования calc()
+52:15 Примеры использования `calc()`

@@ -1,6 +1,6 @@
 # Выпуск №3
 
-PiterCSS №1, Frontend Union Conf, Grunt 1.0 RC1, npm-скрипты, ES6, Github и другие подкасты. 
+PiterCSS №1, Frontend Union Conf, Grunt 1.0 RC1, npm-скрипты, ES6, Github и другие подкасты.
 
 Обсуждайте в Слаке http://slack.web-standards.ru, в канале #​podcast
 
@@ -9,13 +9,13 @@ PiterCSS №1, Frontend Union Conf, Grunt 1.0 RC1, npm-скрипты, ES6, Gith
 - PiterCSS №1 — https://pitercss.timepad.ru/event/289721/
 - Frontend Union Conf 2016 — https://www.papercall.io/func2016
 
-05:52 Выход Grunt 1.0 RC1
+05:52 Обновился Grunt
 
 - Grunt 1.0.0 rc1 released — http://gruntjs.com/blog/2016-02-11-grunt-1.0.0-rc1-released
 
 17:07 Увлечение npm-скриптами
 
-- Nordic.js 2015 • Kate Hudson - Advanced front-end automation with npm scripts — https://youtu.be/0RYETb9YVrk
+- Advanced front-end automation with npm scripts — https://youtu.be/0RYETb9YVrk
 
 20:18 Особенности const и let из ES6
 

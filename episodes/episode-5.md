@@ -26,20 +26,20 @@
 
 10:46 Переводы CSS Live
 
-- Свойство background-clip и его применения — http://css-live.ru/articles-css/background-clip-use-cases.html
-- Краткий обзор object-fit и object-position — http://css-live.ru/articles/kratkij-obzor-object-fit-i-object-position.html
+- Свойство `background-clip` и его применения — http://css-live.ru/articles-css/background-clip-use-cases.html
+- Краткий обзор `object-fit` и `object-position` — http://css-live.ru/articles/kratkij-obzor-object-fit-i-object-position.html
 
 15:10 Знаете Sass? Значит знаете и ES2015!
 
--  You Know Sass, You Know ES2015 — https://una.im/sass-es2015/
+- You Know Sass, You Know ES2015 — https://una.im/sass-es2015/
 
 18:50 CSS Snap Size
 
 - CSS Snap Size, черновик спецификации для вертикального ритма со свойством snap-height — https://drafts.csswg.org/css-snap-size/
 
-20:35 Про селектор :root
+20:35 Про селектор `:root`
 
 24:36 Типографика
 
 - The New Web Typography — https://robinrendle.com/essays/new-web-typography/
-- "Книга Основы стиля в типографике" — http://store.artlebedev.ru/books/design/typography/osnovy-stilya-v-tipografike/
+- Основы стиля в типографике — http://store.artlebedev.ru/books/design/typography/osnovy-stilya-v-tipografike/
