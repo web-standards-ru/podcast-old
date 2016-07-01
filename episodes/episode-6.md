@@ -1,6 +1,6 @@
 # Выпуск №6
 
-Флексбоксы, CSSO, `preload` vs `prefetch`, HTTP/2, SVG, bem
+Флексбоксы, CSSO, `preload` vs `prefetch`, HTTP/2, SVG, bem.
 
 [Обсуждайте в Слаке](http://slack.web-standards.ru), в канале #​podcast.
 
