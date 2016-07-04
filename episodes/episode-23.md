@@ -8,7 +8,7 @@ HTML 5.1, Dreamweaver, Гудини, ссылки, безопасность и �
 
 - [OdessaJS 2—3 июля](http://odessajs.org/)
 - [FrontTalks 17—18 сентября](https://events.yandex.ru/events/yagosti/17-18-september-2016/)
-- [JSconf EU](http://2017.jsconf.eu/) и [CSSconf EU](http://2017.cssconf.eu/) 5—7 мая 2016
+- [JSconf EU](http://2017.jsconf.eu/) и [CSSconf EU](http://2017.cssconf.eu/) 5—7 мая 2017
 - [Frontend Mix 7 июля](https://events.yandex.ru/events/meetings/7-july-2016/)
 - [Яндекс.Субботник 9 июля](https://events.yandex.ru/events/yasubbotnik/09-july-2016/)
 
