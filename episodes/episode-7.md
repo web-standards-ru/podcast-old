@@ -1,62 +1,62 @@
 # Выпуск №7
 
-- TODO: описание выпуска.
-- TODO: развернуть ссылки из Твиттера.
+Ожирение сайтов, реклама, jQuery и JavaScript, картинки.
 
 [Обсуждайте в Слаке](http://slack.web-standards.ru), в канале #​podcast.
 
-00:18 День рождения SPB Frontend, встреча 15 марта
-https://vk.com/spb_frontend_birthday_150316
+00:18 События
 
-00:34 OdessaJS 2—3 июля
-https://twitter.com/webstandards_ru/status/707118771916435456
-
-00:49 Текстовые трансляции с конференций
-https://twitter.com/webstandards_up
-https://github.com/web-standards-ru/web-standards-up
+- [День рождения SPB Frontend](https://vk.com/spb_frontend_birthday_150316)
+- [OdessaJS](https://twitter.com/OdessaJS/status/706957901395415040)
+- [Текстовые трансляции с конференций, дополнение к @webstandards_ru](https://twitter.com/webstandards_up)
+- [Логи трансляций](https://github.com/web-standards-ru/web-standards-up)
 
 01:58 Кризис ожирения сайтов
-https://twitter.com/webstandards_ru/status/707506864251129856
 
-07:47 Блокировщики рекламы
+- [Кризис ожирения сайтов](https://habrahabr.ru/post/278655/)
 
-11:36 Встроенный блокировщик в Opera
-https://geektimes.ru/post/272404/
+07:47 Реклама
 
-20:59 Хорошая и плохая реклама
-https://twitter.com/webstandards_ru/status/709348393596936192
+- [Вышел браузер Opera со встроенным блокировщиком рекламы](https://geektimes.ru/post/272404/)
+- [A Never-Ending Story On Ad-Blockers](https://www.smashingmagazine.com/2016/03/never-ending-story-ad-blockers/)
 
-30:39 Новинки Firefox 45
-https://twitter.com/webstandards_ru/status/707491140006760449
+30:39 Новинки браузеров
 
-32:37 Видео про новинки Chrome 49
-https://twitter.com/webstandards_ru/status/707582350172037120
+- [Firefox 45](http://tanalin.com/blog/2016/03/firefox-45/)
+- [Chrome 49](https://youtu.be/GNP-_ncY3ZA)
 
 35:16 Background Sync
-https://developers.google.com/web/updates/2015/12/background-sync
+
+- [Introducing Background Sync](https://developers.google.com/web/updates/2015/12/background-sync)
 
 36:45 Статус Grid Layout в Blink
-https://twitter.com/webstandards_ru/status/707853521077542913
+
+- [CSS Grid Layout. Current Status and Future Plans](https://groups.google.com/a/chromium.org/forum/#!msg/blink-dev/y221wJxoh84/qU_el0JRAwAJ)
 
 38:57 Любовное письмо к jQuery
-https://twitter.com/webstandards_ru/status/707143845440581632
+
+- [Любовное письмо к jQuery](http://css-live.ru/articles/lyubovnoe-pismo-k-jquery.html)
 
 42:02 Давайте полегче с JavaScript
-https://twitter.com/webstandards_ru/status/707566644130930688
+
+- [Maybe we could tone down the JavaScript](https://eev.ee/blog/2016/03/06/maybe-we-could-tone-down-the-javascript/)
 
 48:32 HTML, что дальше?
-https://twitter.com/webstandards_ru/status/707913939942842369
+
+- [HTML: What’s Next?](https://www.w3.org/blog/2016/03/html-whats-next/)
 
 51:20 Оформление поломанных картинок
-https://twitter.com/webstandards_ru/status/707898823251726336
 
-Generated and Replaced Content — https://www.w3.org/TR/css3-content/
-Pseudo-Elements — https://drafts.csswg.org/css-pseudo-4/
+- [Styling Broken Images](https://bitsofco.de/styling-broken-images/)
+- [Generated and Replaced Content](https://www.w3.org/TR/css3-content/)
+- [Pseudo-Elements](https://drafts.csswg.org/css-pseudo-4/)
 
 55:42 WTF Opera Mini?!
-http://operamini.tips/
+
+- [Opera Mini Tips](http://operamini.tips/)
 
 56:48 Полифил для object-fit на SVG
-https://twitter.com/webstandards_ru/status/707174055653277697
+
+- [object-fit polyfill](http://codepen.io/jonneal/pen/EKPONK)
 
 58:11 Зовём Андрея Ситника
