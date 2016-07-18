@@ -42,8 +42,8 @@ Atom, доступность, загрузка шрифтов, промисы, �
 ## 29:10 Кто такой Антон Виноградов?
 
 - [Антон Виноградов](https://www.facebook.com/awinogradov)
-- [Данила Ковчий](https://events.yandex.ru/lib/people/403/)
-- [Антон Шеин](https://events.yandex.ru/lib/people/3421690/)
+- [Данила Ковчий](https://events.yandex.ru/lib/people/403/) и [Антон Шеин](https://events.yandex.ru/lib/people/3421690/)
+- [Роман Шамин](https://github.com/romashamin?tab=repositories) из «Злых марсиан» и его плагины для Sketch
 - [Design Prosmotr](http://designprosmotr.ru/)
 - [О чём смеются верстальщики](https://www.youtube.com/watch?v=lW4uzJp6uIg)
 - [Школа дизайна Яндекса](https://www.youtube.com/playlist?list=PLLkvpHo_HuBMU_fM4v-VS5VbUi9QuKyDR)
