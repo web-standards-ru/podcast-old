@@ -42,7 +42,7 @@
 39:49 Как дела в Adobe
 
 - [Dmitry Baranovskiy’s Web Log](http://dmitry.baranovskiy.com/)
-- [Эдо́уби](https://ru.wikipedia.org/wiki/Adobe_Systems)
+- [Эдоуби](https://ru.wikipedia.org/wiki/Adobe_Systems)
 - [Snap.svg](http://snapsvg.io/)
 - [Raphaël](https://github.com/DmitryBaranovskiy/raphael)
 - [Adobe Experience Design (XD)](http://www.adobe.com/products/experience-design.html)
