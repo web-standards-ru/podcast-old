@@ -2,7 +2,7 @@
 
 Релизы Firefox, Chromium и jQuery, практический CSS, типографика на SVG, чёртов открытый веб и как дела в Adobe рассказывает Дмитрий Барановский.
 
-[Обсуждайте в Слаке](http://slack.web-standards.ru), в канале #​podcast.
+[Слушайте на SoundCloud](https://soundcloud.com/web-standards/episode-20), [обсуждайте в Слаке](https://web-standards.slack.com/messages/podcast/).
 
 00:13 События
 
