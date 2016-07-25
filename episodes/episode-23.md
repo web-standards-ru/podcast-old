@@ -2,7 +2,7 @@
 
 HTML 5.1, Dreamweaver, Гудини, ссылки, безопасность и наставничество.
 
-[Обсуждайте в Слаке](http://slack.web-standards.ru), в канале #​podcast.
+[Слушайте на SoundCloud](https://soundcloud.com/web-standards/episode-23), [обсуждайте в Слаке](https://web-standards.slack.com/messages/podcast/).
 
 00:12 События
 

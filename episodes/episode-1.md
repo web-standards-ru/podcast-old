@@ -2,7 +2,7 @@
 
 Chrome 48, Firefox 44, Sass вместе с PostCSS, минимально необходимые шрифты, HTTPS, коты во фронтенде.
 
-[Обсуждайте в Слаке](http://slack.web-standards.ru), в канале #​podcast.
+[Слушайте на SoundCloud](https://soundcloud.com/web-standards/pilot-1), [обсуждайте в Слаке](https://web-standards.slack.com/messages/podcast/).
 
 00:50 Новинки браузеров
 

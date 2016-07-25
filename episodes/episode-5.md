@@ -2,7 +2,7 @@
 
 Обзор событий, SVG и иконочные шрифты, Google Resizer, background-clip, object-fit, object-position, Sass и ES2015, :root, типографика.
 
-[Обсуждайте в Слаке](http://slack.web-standards.ru), в канале #​podcast.
+[Слушайте на SoundCloud](https://soundcloud.com/web-standards/episode-5), [обсуждайте в Слаке](https://web-standards.slack.com/messages/podcast/).
 
 ## 00:17 События
 

@@ -2,7 +2,7 @@
 
 Экономия батареи, оптимизация графики, прозрачность в HEX, !important можно, таблицы, полифилы.
 
-[Обсуждайте в Слаке](http://slack.web-standards.ru), в канале #​podcast.
+[Слушайте на SoundCloud](https://soundcloud.com/web-standards/episode-16), [обсуждайте в Слаке](https://web-standards.slack.com/messages/podcast/).
 
 00:15 События
 

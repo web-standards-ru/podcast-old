@@ -2,7 +2,7 @@
 
 Bash на Windows, обновления Safari, правильный фронтенд, нужны ли препроцессоры, ES2016.
 
-[Обсуждайте в Слаке](http://slack.web-standards.ru), в канале #​podcast.
+[Слушайте на SoundCloud](https://soundcloud.com/web-standards/episode-10), [обсуждайте в Слаке](https://web-standards.slack.com/messages/podcast/).
 
 00:12 События
 
