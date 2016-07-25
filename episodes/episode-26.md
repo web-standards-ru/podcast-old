@@ -23,6 +23,7 @@ Chrome 52, Safari и MathML, `font-display`, WebP и WebM, HyperTerm, книги
 
 - [Release Notes for Safari Technology Preview Release 9](https://webkit.org/blog/6800/release-notes-for-safari-technology-preview-release-9/)
 - [Improvements in MathML Rendering](https://webkit.org/blog/6803/improvements-in-mathml-rendering/)
+- [MathML is a failed web standard](https://www.peterkrautzberger.org/0186/)
 
 ## 14:12 `font-display` в Firefox
 
