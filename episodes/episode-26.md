@@ -1,6 +1,6 @@
 # Выпуск №26
 
-Chrome 52, Safari и MathML, font-display, WebP и WebM, HyperTerm, книги, путь фронтендера.
+Chrome 52, Safari и MathML, `font-display`, WebP и WebM, HyperTerm, книги, путь фронтендера.
 
 [Обсуждайте в Слаке](http://slack.web-standards.ru), в канале #​podcast.
 
