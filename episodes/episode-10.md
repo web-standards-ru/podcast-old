@@ -39,4 +39,4 @@ Bash на Windows, обновления Safari, правильный фронт�
 52:40 Новости про новости
 
 - [Завели Телеграм](https://telegram.me/webstandards_ru)
-- [Убиваем Гугл+](https://plus.google.com/+Web-standardsRu/posts)
+- [Убиваем Google+](https://plus.google.com/+Web-standardsRu/posts)
