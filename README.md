@@ -8,7 +8,7 @@
 - Вадим Макеев
 - Алексей Симоненко
 
-Слушайте нас на [SoundCloud](https://soundcloud.com/web-standards), в [iTunes](https://itunes.apple.com/ru/podcast/veb-standarty/id1080500016) или подписывайтесь на [RSS](http://feeds.soundcloud.com/users/soundcloud:users:202737209/sounds.rss).
+Слушайте нас на [SoundCloud](https://soundcloud.com/web-standards), в [iTunes](https://itunes.apple.com/ru/podcast/veb-standarty/id1080500016), подписывайтесь на [RSS](http://feeds.soundcloud.com/users/soundcloud:users:202737209/sounds.rss) и [обсуждайте в Слаке](https://web-standards.slack.com/messages/podcast/).
 
 ---
 Распространяется под лицензией [СС BY-NC-ND 4.0](LICENSE.md).
