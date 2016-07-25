@@ -2,7 +2,7 @@
 
 Safari TP8, Servo, цвета в вебе, сетки, доступность, портфолио.
 
-[Обсуждайте в Слаке](http://slack.web-standards.ru), в канале #​podcast.
+[Слушайте на SoundCloud](https://soundcloud.com/web-standards/episode-24), [обсуждайте в Слаке](https://web-standards.slack.com/messages/podcast/).
 
 ## 00:14 События
 

@@ -2,7 +2,7 @@
 
 Статьи для новичков, Reset или Normalize, jQuery и Bootstrap для дилетантов и админок, атомарный CSS, программирование на CSS, сервис-воркеры в Safari.
 
-[Обсуждайте в Слаке](http://slack.web-standards.ru), в канале #​podcast.
+[Слушайте на SoundCloud](https://soundcloud.com/web-standards/episode-18), [обсуждайте в Слаке](https://web-standards.slack.com/messages/podcast/).
 
 00:13 События
 

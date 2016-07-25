@@ -2,7 +2,7 @@
 
 Новый IE, npm-гейт, проблемы npm, Андрей Ситник и PostCSS.
 
-[Обсуждайте в Слаке](http://slack.web-standards.ru), в канале #​podcast.
+[Слушайте на SoundCloud](https://soundcloud.com/web-standards/episode-9), [обсуждайте в Слаке](https://web-standards.slack.com/messages/podcast/).
 
 00:09 Андрей Ситник
 

@@ -2,7 +2,7 @@
 
 Chrome 52, Safari и MathML, `font-display`, WebP и WebM, HyperTerm, книги, путь фронтендера.
 
-[Обсуждайте в Слаке](http://slack.web-standards.ru), в канале #​podcast.
+[Слушайте на SoundCloud](https://soundcloud.com/web-standards/episode-26), [обсуждайте в Слаке](https://web-standards.slack.com/messages/podcast/).
 
 ## 00:13 События
 

@@ -2,7 +2,7 @@
 
 PiterCSS №1, Frontend Union Conf, Grunt 1.0 RC1, npm-скрипты, ES6, Github и другие подкасты.
 
-[Обсуждайте в Слаке](http://slack.web-standards.ru), в канале #​podcast.
+[Слушайте на SoundCloud](https://soundcloud.com/web-standards/episode-3), [обсуждайте в Слаке](https://web-standards.slack.com/messages/podcast/).
 
 00:25 События
 
