@@ -14,7 +14,7 @@
 04:01 Семантика и БЭМ
 
 - [Осмысленный CSS: описывайте стилями свою логику](http://css-live.ru/articles/osmyslennyj-css-opisyvajte-stilyami-svoyu-logiku.html)
-- [БЭМантика: пишите осмысленные стили без повторов](http://css-live.ru/articles/bemantika-pishite-osmyslennye-stili-bez-povtorov.html)
+- [Бэмантика: пишите осмысленные стили без повторов](http://css-live.ru/articles/bemantika-pishite-osmyslennye-stili-bez-povtorov.html)
 - [More Meaningful CSS](http://snook.ca/archives/html_and_css/more-meaningful-css)
 - [Семантика или смерть](https://events.yandex.ru/lib/talks/1520/)
 - [MIND, библиотека доступных элементов интерфейса eBay](http://ianmcburnie.github.io/mindpatterns/)
