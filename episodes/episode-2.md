@@ -2,7 +2,7 @@
 
 БЭМ, Gulp, флексы, гриды, планы Edge на год, Firefox OS всё.
 
-[Обсуждайте в Слаке](http://slack.web-standards.ru), в канале #​podcast.
+[Слушайте на SoundCloud](https://soundcloud.com/web-standards/episode-2), [обсуждайте в Слаке](https://web-standards.slack.com/messages/podcast/).
 
 00:28 События
 

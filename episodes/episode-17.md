@@ -2,7 +2,7 @@
 
 Семантика и БЭМ, CSS для новичков, клиенты для Git, JS-модули в Edge, Google I/O.
 
-[Обсуждайте в Слаке](http://slack.web-standards.ru), в канале #​podcast.
+[Слушайте на SoundCloud](https://soundcloud.com/web-standards/episode-17), [обсуждайте в Слаке](https://web-standards.slack.com/messages/podcast/).
 
 00:13 События
 
@@ -14,7 +14,7 @@
 04:01 Семантика и БЭМ
 
 - [Осмысленный CSS: описывайте стилями свою логику](http://css-live.ru/articles/osmyslennyj-css-opisyvajte-stilyami-svoyu-logiku.html)
-- [БЭМантика: пишите осмысленные стили без повторов](http://css-live.ru/articles/bemantika-pishite-osmyslennye-stili-bez-povtorov.html)
+- [Бэмантика: пишите осмысленные стили без повторов](http://css-live.ru/articles/bemantika-pishite-osmyslennye-stili-bez-povtorov.html)
 - [More Meaningful CSS](http://snook.ca/archives/html_and_css/more-meaningful-css)
 - [Семантика или смерть](https://events.yandex.ru/lib/talks/1520/)
 - [MIND, библиотека доступных элементов интерфейса eBay](http://ianmcburnie.github.io/mindpatterns/)

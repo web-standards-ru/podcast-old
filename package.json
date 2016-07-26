@@ -1,0 +1,9 @@
+{
+  "private": true,
+  "scripts": {
+    "test": "./node_modules/.bin/yaspeller ./episodes"
+  },
+  "dependencies": {
+    "yaspeller": "^2.8.2"
+  }
+}

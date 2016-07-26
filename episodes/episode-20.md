@@ -2,7 +2,7 @@
 
 Релизы Firefox, Chromium и jQuery, практический CSS, типографика на SVG, чёртов открытый веб и как дела в Adobe рассказывает Дмитрий Барановский.
 
-[Обсуждайте в Слаке](http://slack.web-standards.ru), в канале #​podcast.
+[Слушайте на SoundCloud](https://soundcloud.com/web-standards/episode-20), [обсуждайте в Слаке](https://web-standards.slack.com/messages/podcast/).
 
 00:13 События
 
@@ -42,7 +42,7 @@
 39:49 Как дела в Adobe
 
 - [Dmitry Baranovskiy’s Web Log](http://dmitry.baranovskiy.com/)
-- [Эдо́уби](https://ru.wikipedia.org/wiki/Adobe_Systems)
+- [Эдоуби](https://ru.wikipedia.org/wiki/Adobe_Systems)
 - [Snap.svg](http://snapsvg.io/)
 - [Raphaël](https://github.com/DmitryBaranovskiy/raphael)
 - [Adobe Experience Design (XD)](http://www.adobe.com/products/experience-design.html)

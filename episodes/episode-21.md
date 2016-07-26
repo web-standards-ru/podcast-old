@@ -2,7 +2,7 @@
 
 Отчёт с PiterCSS, Google Fonts и шрифты, CSS в Фейсбуке, нюансы флексов, ретина, кнопки или ссылки, Apple Pay в Safari.
 
-[Обсуждайте в Слаке](http://slack.web-standards.ru), в канале #​podcast.
+[Слушайте на SoundCloud](https://soundcloud.com/web-standards/episode-21), [обсуждайте в Слаке](https://web-standards.slack.com/messages/podcast/).
 
 00:13 События
 

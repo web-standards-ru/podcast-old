@@ -2,7 +2,7 @@
 
 Ожирение сайтов, реклама, jQuery и JavaScript, картинки.
 
-[Обсуждайте в Слаке](http://slack.web-standards.ru), в канале #​podcast.
+[Слушайте на SoundCloud](https://soundcloud.com/web-standards/episode-7), [обсуждайте в Слаке](https://web-standards.slack.com/messages/podcast/).
 
 00:18 События
 
