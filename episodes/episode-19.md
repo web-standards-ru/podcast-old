@@ -2,7 +2,7 @@
 
 Семантика CSS и HTML, содержимое в CSS, полезное для SVG, веб и приложения.
 
-[Обсуждайте в Слаке](http://slack.web-standards.ru), в канале #​podcast.
+[Слушайте на SoundCloud](https://soundcloud.com/web-standards/episode-19), [обсуждайте в Слаке](https://web-standards.slack.com/messages/podcast/).
 
 00:13 События
 
