@@ -2,7 +2,7 @@
 
 Видео в iOS, ChakraCore конкурент V8, доступные модальные окна, таблицы и формы, чехарда с цветовыми функциями CSS.
 
-[Слушайте на SoundCloud](https://soundcloud.com/web-standards/episode-N), [обсуждайте в Слаке](https://web-standards.slack.com/messages/podcast/).
+[Слушайте на SoundCloud](https://soundcloud.com/web-standards/episode-27), [обсуждайте в Слаке](https://web-standards.slack.com/messages/podcast/).
 
 ## 00:26 События
 
