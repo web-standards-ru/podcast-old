@@ -1,6 +1,6 @@
 # Выпуск №27
 
-Видео в iOS, ChakraCore конкурент V8, доступные модальные окна, таблицы и формы, чехарда с цветовыми функциями CSS.
+_1 августа 2016:_ Видео в iOS, ChakraCore конкурент V8, доступные модальные окна, таблицы и формы, чехарда с цветовыми функциями CSS.
 
 [Слушайте на SoundCloud](https://soundcloud.com/web-standards/episode-27), [обсуждайте в Слаке](https://web-standards.slack.com/messages/podcast/).
 

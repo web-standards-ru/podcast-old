@@ -1,6 +1,6 @@
 # Выпуск №20
 
-Релизы Firefox, Chromium и jQuery, практический CSS, типографика на SVG, чёртов открытый веб и как дела в Adobe рассказывает Дмитрий Барановский.
+_14 июня 2016:_ Релизы Firefox, Chromium и jQuery, практический CSS, типографика на SVG, чёртов открытый веб и как дела в Adobe рассказывает Дмитрий Барановский.
 
 [Слушайте на SoundCloud](https://soundcloud.com/web-standards/episode-20), [обсуждайте в Слаке](https://web-standards.slack.com/messages/podcast/).
 

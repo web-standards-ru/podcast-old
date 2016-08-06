@@ -1,6 +1,6 @@
 # Выпуск №16
 
-Экономия батареи, оптимизация графики, прозрачность в HEX, !important можно, таблицы, полифилы.
+_15 мая 2016:_ Экономия батареи, оптимизация графики, прозрачность в HEX, `!important` можно, таблицы, полифилы.
 
 [Слушайте на SoundCloud](https://soundcloud.com/web-standards/episode-16), [обсуждайте в Слаке](https://web-standards.slack.com/messages/podcast/).
 

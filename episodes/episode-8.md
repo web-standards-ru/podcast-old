@@ -1,6 +1,6 @@
 # Выпуск №8
 
-Адаптивная типографика, инлайнить ли шрифты, обновления браузеров, голый CSS, React.
+_21 марта 2016:_ Адаптивная типографика, инлайнить ли шрифты, обновления браузеров, голый CSS, React.
 
 [Слушайте на SoundCloud](https://soundcloud.com/web-standards/episode-8), [обсуждайте в Слаке](https://web-standards.slack.com/messages/podcast/).
 

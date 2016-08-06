@@ -1,6 +1,6 @@
 # Выпуск №2
 
-БЭМ, Gulp, флексы, гриды, планы Edge на год, Firefox OS всё.
+_8 февраля 2016:_ БЭМ, Gulp, флексы, гриды, планы Edge на год, Firefox OS всё.
 
 [Слушайте на SoundCloud](https://soundcloud.com/web-standards/episode-2), [обсуждайте в Слаке](https://web-standards.slack.com/messages/podcast/).
 

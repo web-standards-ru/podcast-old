@@ -1,6 +1,6 @@
 # Выпуск №7
 
-Ожирение сайтов, реклама, jQuery и JavaScript, картинки.
+_14 марта 2016:_ Ожирение сайтов, реклама, jQuery и JavaScript, картинки.
 
 [Слушайте на SoundCloud](https://soundcloud.com/web-standards/episode-7), [обсуждайте в Слаке](https://web-standards.slack.com/messages/podcast/).
 

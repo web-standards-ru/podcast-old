@@ -1,6 +1,6 @@
 # Выпуск №19
 
-Семантика CSS и HTML, содержимое в CSS, полезное для SVG, веб и приложения.
+_8 июня 2016:_ Семантика CSS и HTML, содержимое в CSS, полезное для SVG, веб и приложения.
 
 [Слушайте на SoundCloud](https://soundcloud.com/web-standards/episode-19), [обсуждайте в Слаке](https://web-standards.slack.com/messages/podcast/).
 

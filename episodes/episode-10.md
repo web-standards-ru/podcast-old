@@ -1,6 +1,6 @@
 # Выпуск №10
 
-Bash на Windows, обновления Safari, правильный фронтенд, нужны ли препроцессоры, ES2016.
+_5 апреля 2016:_ Bash на Windows, обновления Safari, правильный фронтенд, нужны ли препроцессоры, ES2016.
 
 [Слушайте на SoundCloud](https://soundcloud.com/web-standards/episode-10), [обсуждайте в Слаке](https://web-standards.slack.com/messages/podcast/).
 

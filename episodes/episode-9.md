@@ -1,6 +1,6 @@
 # Выпуск №9
 
-Новый IE, npm-гейт, проблемы npm, Андрей Ситник и PostCSS.
+_28 марта 2016:_ Новый IE, npm-гейт, проблемы npm, Андрей Ситник и PostCSS.
 
 [Слушайте на SoundCloud](https://soundcloud.com/web-standards/episode-9), [обсуждайте в Слаке](https://web-standards.slack.com/messages/podcast/).
 

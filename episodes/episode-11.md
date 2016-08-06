@@ -1,6 +1,6 @@
 # Выпуск №11
 
-TODO: описание выпуска.
+_11 апреля 2016:_ TODO: описание выпуска.
 
 [Слушайте на SoundCloud](https://soundcloud.com/web-standards/episode-11), [обсуждайте в Слаке](https://web-standards.slack.com/messages/podcast/).
 

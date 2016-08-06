@@ -1,6 +1,6 @@
 # Выпуск №6
 
-Флексбоксы, CSSO, `preload` и `prefetch`, HTTP/2, SVG, БЭМ.
+_9 марта 2016:_ Флексбоксы, CSSO, `preload` и `prefetch`, HTTP/2, SVG, БЭМ.
 
 [Слушайте на SoundCloud](https://soundcloud.com/web-standards/episode-6), [обсуждайте в Слаке](https://web-standards.slack.com/messages/podcast/).
 

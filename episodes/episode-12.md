@@ -1,6 +1,6 @@
 # Выпуск №12
 
-Тестирование, фолбеки, @​apply, PWA, версии CSS, семантика.
+_19 апреля 2016:_ Тестирование, фолбеки, `@​apply`, PWA, версии CSS, семантика.
 
 [Слушайте на SoundCloud](https://soundcloud.com/web-standards/episode-12), [обсуждайте в Слаке](https://web-standards.slack.com/messages/podcast/).
 

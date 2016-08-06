@@ -1,6 +1,6 @@
 # Выпуск №13
 
-SpiderNode, VPN, методологии CSS, Stylelint и CSSX, параллакс, доступность.
+_25 апреля 2016:_ SpiderNode, VPN, методологии CSS, Stylelint и CSSX, параллакс, доступность.
 
 [Слушайте на SoundCloud](https://soundcloud.com/web-standards/episode-13), [обсуждайте в Слаке](https://web-standards.slack.com/messages/podcast/).
 

@@ -1,6 +1,6 @@
 # Выпуск №23
 
-## HTML 5.1, Dreamweaver, Гудини, ссылки, безопасность и наставничество.
+_4 июля 2016:_ HTML 5.1, Dreamweaver, Гудини, ссылки, безопасность и наставничество.
 
 [Слушайте на SoundCloud](https://soundcloud.com/web-standards/episode-23), [обсуждайте в Слаке](https://web-standards.slack.com/messages/podcast/).
 

@@ -1,6 +1,6 @@
 # Выпуск №15
 
-События летом, новинки Chromium, блокировка рекламы, Pointer Events, расширения, веб-компоненты и CSS-модули.
+_10 мая 2016:_ События летом, новинки Chromium, блокировка рекламы, Pointer Events, расширения, веб-компоненты и CSS-модули.
 
 [Слушайте на SoundCloud](https://soundcloud.com/web-standards/episode-15), [обсуждайте в Слаке](https://web-standards.slack.com/messages/podcast/).
 

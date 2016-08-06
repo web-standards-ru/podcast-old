@@ -1,6 +1,6 @@
 # Выпуск №21
 
-Отчёт с PiterCSS, Google Fonts и шрифты, CSS в Фейсбуке, нюансы флексов, ретина, кнопки или ссылки, Apple Pay в Safari.
+_20 июня 2016:_ Отчёт с PiterCSS, Google Fonts и шрифты, CSS в Фейсбуке, нюансы флексов, ретина, кнопки или ссылки, Apple Pay в Safari.
 
 [Слушайте на SoundCloud](https://soundcloud.com/web-standards/episode-21), [обсуждайте в Слаке](https://web-standards.slack.com/messages/podcast/).
 
