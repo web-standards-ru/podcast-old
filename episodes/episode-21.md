@@ -1,10 +1,10 @@
 # Выпуск №21
 
-Отчёт с PiterCSS, Google Fonts и шрифты, CSS в Фейсбуке, нюансы флексов, ретина, кнопки или ссылки, Apple Pay в Safari.
+_20 июня 2016:_ Отчёт с PiterCSS, Google Fonts и шрифты, CSS в Фейсбуке, нюансы флексов, ретина, кнопки или ссылки, Apple Pay в Safari.
 
 [Слушайте на SoundCloud](https://soundcloud.com/web-standards/episode-21), [обсуждайте в Слаке](https://web-standards.slack.com/messages/podcast/).
 
-00:13 События
+## 00:13 События
 
 - [HTML Special и CSS Day](http://cssday.nl/2016)
 - [Лог с HTML Special](https://github.com/web-standards-ru/web-standards-up/blob/master/2016-06-16_htmlspecial.md)
@@ -13,12 +13,12 @@
 - [PiterCSS №5](https://pitercss.timepad.ru/event/340787/)
 - [Видео с PiterCSS](https://youtu.be/qFeCi6E3e14)
 
-06:49 Шрифты
+## 06:49 Шрифты
 
 - [Google Fonts](https://fonts.google.com/)
 - [Паттерны загрузки веб-шрифтов](http://web-standards.ru/articles/web-font-loading-patterns/)
 
-13:39 Практика
+## 13:39 Практика
 
 - [Что должен знать HTML-верстальщик?](http://krekotun.ru/ui-developer-skills)
 - [Improving CSS quality at Facebook and beyond](https://code.facebook.com/posts/879890885467584/improving-css-quality-at-facebook-and-beyond)
@@ -27,7 +27,7 @@
 - [Pixel Density, Demystified](https://medium.com/p/a4db63ba2922)
 - [Anchors vs Buttons](https://bitsofco.de/anchors-vs-buttons/)
 
-37:44 Новинки Safari
+## 37:44 Новинки Safari
 
 - [Safari 10.0](https://developer.apple.com/library/prerelease/content/releasenotes/General/WhatsNewInSafari/Articles/Safari_10_0.html)
 - [Apple Pay JS](https://developer.apple.com/reference/applepayjs)
