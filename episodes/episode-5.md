@@ -1,6 +1,6 @@
 # Выпуск №5
 
-Обзор событий, SVG и иконочные шрифты, Google Resizer, background-clip, object-fit, object-position, Sass и ES2015, :root, типографика.
+_1 марта 2016:_ Обзор событий, SVG и иконочные шрифты, Google Resizer, `background-clip`, `object-fit`, `object-position`, Sass и ES2015, `:root`, типографика.
 
 [Слушайте на SoundCloud](https://soundcloud.com/web-standards/episode-5), [обсуждайте в Слаке](https://web-standards.slack.com/messages/podcast/).
 
