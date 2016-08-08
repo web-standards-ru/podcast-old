@@ -52,7 +52,7 @@ _8 августа 2016:_ Новинки браузеров, триумф EdgeHTM
 
 - [Firefox: `background-clip: text`](https://twitter.com/simevidas/status/731354943626481666)
 - [CSS Fill and Stroke](https://drafts.fxtf.org/paint/)
-- Презентация «[Позвольте представить: SVG](https://wsd.events/2014/06/28/pres/meet-svg/)» и [статьи Юли Бухваловой](http://css.yoksel.ru/tags/#svg)
+- [Позвольте представить: SVG](https://wsd.events/2014/06/28/pres/meet-svg/), [Оживляем текст](https://wsd.events/2015/06/20/pres/text-alive/) и [статьи Юли Бухваловой](http://css.yoksel.ru/tags/#svg)
 
 ## 48:37 Адаптивная вёрстка
 
