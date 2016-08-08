@@ -1,6 +1,6 @@
 # Выпуск №N
 
-Описание.
+_1 января 1970:_ Описание.
 
 [Слушайте на SoundCloud](https://soundcloud.com/web-standards/episode-N), [обсуждайте в Слаке](https://web-standards.slack.com/messages/podcast/).
 
