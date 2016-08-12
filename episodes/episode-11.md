@@ -1,6 +1,10 @@
-# Выпуск №11
+# Выпуск №11. 11 апреля 2016
 
-_11 апреля 2016:_ TODO: описание выпуска.
+TODO: описание выпуска.
+
+- Ольга Алексашенко
+- Вадим Макеев
+- Алексей Симоненко
 
 [Слушайте на SoundCloud](https://soundcloud.com/web-standards/episode-11), [обсуждайте в Слаке](https://web-standards.slack.com/messages/podcast/).
 

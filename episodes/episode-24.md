@@ -1,6 +1,10 @@
-# Выпуск №24
+# Выпуск №24. 11 июля 2016
 
-_11 июля 2016:_ Safari TP8, Servo, цвета в вебе, сетки, доступность, портфолио.
+Safari TP8, Servo, цвета в вебе, сетки, доступность, портфолио.
+
+- Ольга Алексашенко
+- Вадим Макеев
+- Алексей Симоненко
 
 [Слушайте на SoundCloud](https://soundcloud.com/web-standards/episode-24), [обсуждайте в Слаке](https://web-standards.slack.com/messages/podcast/).
 
