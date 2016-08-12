@@ -2,8 +2,8 @@
 
 Как сделать конференцию, путь разработчика, релизы CSSO и Grunt, Tofino, новинки Edge, эмоджи или эмодзи?
 
-- Ольга Алексашенко
 - Вадим Макеев
+- Олег Мохов
 - Алексей Симоненко
 
 [Слушайте на SoundCloud](https://soundcloud.com/web-standards/episode-11), [обсуждайте в Слаке](https://web-standards.slack.com/messages/podcast/).
