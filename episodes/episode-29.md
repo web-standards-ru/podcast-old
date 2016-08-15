@@ -21,6 +21,7 @@
 - [Thoughts on Flash](http://www.apple.com/hotnews/thoughts-on-flash/)
 - [Clippy](https://github.com/mojombo/clippy)
 - [Introducing sIFR: The Healthy Alternative to Browser Text](https://mikeindustries.com/blog/archive/2004/08/sifr)
+- [Appear.in, видеочат в браузере](https://appear.in/)
 
 ## 15:08 Samsung Internet
 
