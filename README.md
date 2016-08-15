@@ -1,4 +1,4 @@
-# Подкаст «Веб-стандарты»
+# Подкаст «Веб-стандарты» [![Build Status](https://travis-ci.org/web-standards-ru/podcast.svg?branch=master)](https://travis-ci.org/web-standards-ru/podcast)
 
 Подкаст с новостями фронтенда за минувшую неделю.
 
