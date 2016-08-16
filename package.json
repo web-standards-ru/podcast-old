@@ -1,9 +1,11 @@
 {
   "private": true,
   "scripts": {
-    "test": "yaspeller ./episodes"
+    "test": "yaspeller ./episodes",
+    "demark": "demarked ./episodes/episode-$NUM.md"
   },
   "dependencies": {
+    "demarked": "^0.0.3",
     "yaspeller": "^2.8.2"
   }
 }
