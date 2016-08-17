@@ -1,6 +1,10 @@
-# Выпуск №10
+# Выпуск №10. 5 апреля 2016
 
-_5 апреля 2016:_ Bash на Windows, обновления Safari, правильный фронтенд, нужны ли препроцессоры, ES2016.
+Bash на Windows, обновления Safari, правильный фронтенд, нужны ли препроцессоры, ES2016.
+
+- Ольга Алексашенко
+- Вадим Макеев
+- Алексей Симоненко
 
 [Слушайте на SoundCloud](https://soundcloud.com/web-standards/episode-10), [обсуждайте в Слаке](https://web-standards.slack.com/messages/podcast/).
 

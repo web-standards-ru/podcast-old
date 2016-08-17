@@ -1,6 +1,10 @@
-# Выпуск №3
+# Выпуск №3. 16 февраля 2016
 
-_16 февраля 2016:_ PiterCSS №1, Frontend Union Conf, Grunt 1.0 RC1, npm-скрипты, ES6, Github и другие подкасты.
+PiterCSS №1, Frontend Union Conf, Grunt 1.0 RC1, npm-скрипты, ES6, Github и другие подкасты.
+
+- Вадим Макеев
+- Андрей Саломатин
+- Алексей Симоненко
 
 [Слушайте на SoundCloud](https://soundcloud.com/web-standards/episode-3), [обсуждайте в Слаке](https://web-standards.slack.com/messages/podcast/).
 

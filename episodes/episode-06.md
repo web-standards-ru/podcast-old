@@ -1,6 +1,10 @@
-# Выпуск №6
+# Выпуск №6. 9 марта 2016
 
-_9 марта 2016:_ Флексбоксы, CSSO, `preload` и `prefetch`, HTTP/2, SVG, БЭМ.
+Флексбоксы, CSSO, `preload` и `prefetch`, HTTP/2, SVG, БЭМ и шаблонизация.
+
+- Вадим Макеев
+- Слава Олиянчук
+- Алексей Симоненко
 
 [Слушайте на SoundCloud](https://soundcloud.com/web-standards/episode-6), [обсуждайте в Слаке](https://web-standards.slack.com/messages/podcast/).
 
