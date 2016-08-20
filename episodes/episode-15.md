@@ -1,6 +1,10 @@
-# Выпуск №15
+# Выпуск №15. 10 мая 2016
 
-_10 мая 2016:_ События летом, новинки Chromium, блокировка рекламы, Pointer Events, расширения, веб-компоненты и CSS-модули.
+События летом, новинки Chromium, блокировка рекламы, Pointer Events, расширения, веб-компоненты и CSS-модули.
+
+- Ольга Алексашенко
+- Вадим Макеев
+- Алексей Симоненко
 
 [Слушайте на SoundCloud](https://soundcloud.com/web-standards/episode-15), [обсуждайте в Слаке](https://web-standards.slack.com/messages/podcast/).
 

@@ -1,6 +1,10 @@
-# Выпуск №1
+# Выпуск №1. 1 февраля 2016
 
-_1 февраля 2016:_ Chrome 48, Firefox 44, Sass вместе с PostCSS, минимально необходимые шрифты, HTTPS, коты во фронтенде.
+Chrome 48, Firefox 44, Sass вместе с PostCSS, минимально необходимые шрифты, HTTPS, коты во фронтенде.
+
+- Ольга Алексашенко
+- Вадим Макеев
+- Алексей Симоненко
 
 [Слушайте на SoundCloud](https://soundcloud.com/web-standards/pilot-1), [обсуждайте в Слаке](https://web-standards.slack.com/messages/podcast/).
 

@@ -1,6 +1,10 @@
-# Выпуск №7
+# Выпуск №7. 14 марта 2016
 
-_14 марта 2016:_ Ожирение сайтов, реклама, jQuery и JavaScript, картинки.
+Ожирение сайтов, реклама, jQuery и JavaScript, картинки.
+
+- Ольга Алексашенко
+- Вадим Макеев
+- Алексей Симоненко
 
 [Слушайте на SoundCloud](https://soundcloud.com/web-standards/episode-7), [обсуждайте в Слаке](https://web-standards.slack.com/messages/podcast/).
 
