@@ -1,6 +1,10 @@
-# Выпуск №13
+# Выпуск №13. 25 апреля 2016
 
-_25 апреля 2016:_ SpiderNode, VPN, методологии CSS, Stylelint и CSSX, параллакс, доступность.
+SpiderNode, VPN, методологии CSS, Stylelint и CSSX, параллакс, доступность.
+
+- Ольга Алексашенко
+- Вадим Макеев
+- Алексей Симоненко
 
 [Слушайте на SoundCloud](https://soundcloud.com/web-standards/episode-13), [обсуждайте в Слаке](https://web-standards.slack.com/messages/podcast/).
 

@@ -1,6 +1,10 @@
-# Выпуск №22
+# Выпуск №22. 27 июня 2016
 
-_27 июня 2016:_ Покупка Joyent, Element Queries, React в Mail.Ru, стандарты и семантика, собеседования, как верстальщику стать замтехдира c Андреем Суминым из Mail.Ru.
+Покупка Joyent, Element Queries, React в Mail.Ru, стандарты и семантика, собеседования, путь верстальщика.
+
+- Вадим Макеев
+- Алексей Симоненко
+- Андрей Сумин
 
 [Слушайте на SoundCloud](https://soundcloud.com/web-standards/episode-22), [обсуждайте в Слаке](https://web-standards.slack.com/messages/podcast/).
 

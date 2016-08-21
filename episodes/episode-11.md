@@ -1,6 +1,10 @@
-# Выпуск №11
+# Выпуск №11. 11 апреля 2016
 
-_11 апреля 2016:_ TODO: описание выпуска.
+Как сделать конференцию, путь разработчика, релизы CSSO и Grunt, Tofino, новинки Edge, эмоджи или эмодзи?
+
+- Вадим Макеев
+- Олег Мохов
+- Алексей Симоненко
 
 [Слушайте на SoundCloud](https://soundcloud.com/web-standards/episode-11), [обсуждайте в Слаке](https://web-standards.slack.com/messages/podcast/).
 

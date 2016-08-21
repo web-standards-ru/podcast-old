@@ -1,6 +1,10 @@
-# Выпуск №N
+# Выпуск №N. 1 января 1970
 
-_1 января 1970:_ Описание.
+Описание.
+
+- Ольга Алексашенко
+- Вадим Макеев
+- Алексей Симоненко
 
 [Слушайте на SoundCloud](https://soundcloud.com/web-standards/episode-N), [обсуждайте в Слаке](https://web-standards.slack.com/messages/podcast/).
 

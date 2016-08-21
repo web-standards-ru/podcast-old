@@ -1,6 +1,10 @@
-# Выпуск №18
+# Выпуск №18. 30 мая 2016
 
-_30 мая 2016:_ Статьи для новичков, Reset или Normalize, jQuery и Bootstrap для дилетантов и админок, атомарный CSS, программирование на CSS, сервис-воркеры в Safari.
+Статьи для новичков, Reset или Normalize, jQuery и Bootstrap для дилетантов и админок, атомарный CSS, программирование на CSS, сервис-воркеры в Safari.
+
+- Ольга Алексашенко
+- Вадим Макеев
+- Алексей Симоненко
 
 [Слушайте на SoundCloud](https://soundcloud.com/web-standards/episode-18), [обсуждайте в Слаке](https://web-standards.slack.com/messages/podcast/).
 

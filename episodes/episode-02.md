@@ -1,6 +1,10 @@
-# Выпуск №2
+# Выпуск №2. 8 февраля 2016
 
-_8 февраля 2016:_ БЭМ, Gulp, флексы, гриды, планы Edge на год, Firefox OS всё.
+БЭМ, Gulp, флексы, гриды, планы Edge на год, Firefox OS всё.
+
+- Ольга Алексашенко
+- Вадим Макеев
+- Алексей Симоненко
 
 [Слушайте на SoundCloud](https://soundcloud.com/web-standards/episode-2), [обсуждайте в Слаке](https://web-standards.slack.com/messages/podcast/).
 

@@ -1,6 +1,10 @@
-# Выпуск №17
+# Выпуск №17. 23 мая 2016
 
-_23 мая 2016:_ Семантика и БЭМ, CSS для новичков, клиенты для Git, JS-модули в Edge, Google I/O.
+Семантика и БЭМ, CSS для новичков, клиенты для Git, JS-модули в Edge, Google I/O.
+
+- Ольга Алексашенко
+- Вадим Макеев
+- Алексей Симоненко
 
 [Слушайте на SoundCloud](https://soundcloud.com/web-standards/episode-17), [обсуждайте в Слаке](https://web-standards.slack.com/messages/podcast/).
 
