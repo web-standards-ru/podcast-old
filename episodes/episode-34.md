@@ -68,6 +68,6 @@
 - [CSSO](https://github.com/css/csso)
 - [Gonzales](https://github.com/css/gonzales)
 - [Rework](https://github.com/reworkcss/rework)
+- [CSSTree](https://github.com/csstree/csstree)
 - [CSSTree Validator](https://csstree.github.io/docs/validator.html)
-- [CSSTree Syntax](https://csstree.github.io/docs/syntax.html)
 - [CSSOM](https://drafts.csswg.org/cssom/)
