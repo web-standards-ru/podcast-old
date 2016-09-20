@@ -41,7 +41,7 @@
 ## 26:13 Вариативные шрифты
 
 - [Variable fonts, a new kind of font for flexible design](http://blog.typekit.com/2016/09/14/variable-fonts-a-new-kind-of-font-for-flexible-design/)
-- [Introducing OpenType Variable Fonts](https://medium.com/@tiro/https-medium-com-tiro-introducing-opentype-variable-fonts-12ba6cd2369)
+- [Introducing OpenType Variable Fonts](https://medium.com/p/12ba6cd2369)
 
 ## 30:23 Веб-шрифты в 2016
 
