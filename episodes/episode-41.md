@@ -71,4 +71,4 @@ HTML 5.1, async, вариативные шрифты, календарик, оп
 - [JavaScript Guessing Game](https://javascript-game.firebaseapp.com/)
 - [HTML parser quiz](https://html5te.st/quiz/)
 - [HTML Minifier](http://kangax.github.io/html-minifier/)
-- [<enki/>](https://www.enki.com)
+- [`<enki/>`](https://www.enki.com)
