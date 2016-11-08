@@ -8,7 +8,7 @@ HTML 5.1, async, вариативные шрифты, календарик, оп
 
 [Слушайте на SoundCloud](https://soundcloud.com/web-standards/episode-41), [обсуждайте в Слаке](https://web-standards.slack.com/messages/podcast/).
 
-## 00:00 События
+## 00:17 События
 
 - [Видео с FrontTalks](https://www.youtube.com/playlist?list=PLKaafC45L_SRke8G1qiE0ZTJovI0FYKRw)
 - [Pitercss №7 16 ноября](https://pitercss.timepad.ru/event/394145/)
