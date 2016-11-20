@@ -55,7 +55,7 @@ Opera DevRel всё, Safari TP18, Firefox 50, CSS-шлюзы, инлайновы
 - [Grid Kiss](https://github.com/sylvainpolletvillard/postcss-grid-kiss)
 - [Opera Mini server upgrade](https://dev.opera.com/blog/opera-mini-server-upgrade/)
 
-## 45:48 Новый DL
+## 45:48 Новый `<dl>`
 
 - [DIV официально разрешён внутри DL](http://tanalin.com/blog/2016/11/div-dl-dt-dd/)
 
