@@ -20,6 +20,7 @@ Chrome 55, отладка гридов, парсер URL, PWA как APK, `@supp
 
 - [Chrome 55: Async and Await, Pointer Events, Persistent Storage](https://youtu.be/OC7tgJP1D4s)
 - [Now shipping Node v7, with preliminary support for `async/await`!](https://twitter.com/zeithq/status/802633638298861568)
+- [V8 Release 5.6](http://v8project.blogspot.ru/2016/12/v8-release-56.html)
 - [www-style: scroll anchoring](https://lists.w3.org/Archives/Public/www-style/2016Dec/0010.html)
 
 ## 11:10 Отладка гридов в Firefox
