@@ -16,7 +16,7 @@
 | [11](episodes/episode-11.md) | [12](episodes/episode-12.md) | [13](episodes/episode-13.md) | [14](episodes/episode-14.md)   | [15](episodes/episode-15.md)   | [16](episodes/episode-16.md) | [17](episodes/episode-17.md) | [18](episodes/episode-18.md) | [19](episodes/episode-19.md) | [20](episodes/episode-20.md)   |
 | [21](episodes/episode-21.md) | [22](episodes/episode-22.md) | [23](episodes/episode-23.md) | [24](episodes/episode-24.md) ≡ | [25](episodes/episode-25.md) ≡ | [26](episodes/episode-26.md) | [27](episodes/episode-27.md) | [28](episodes/episode-28.md) | [29](episodes/episode-29.md) | [30](episodes/episode-30.md)   |
 | [31](episodes/episode-31.md) | [32](episodes/episode-32.md) | [33](episodes/episode-33.md) | [34](episodes/episode-34.md)   | [35](episodes/episode-35.md)   | [36](episodes/episode-36.md) | [37](episodes/episode-37.md) | [38](episodes/episode-38.md) | [39](episodes/episode-39.md) | [40](episodes/episode-40.md)   |
-| [41](episodes/episode-41.md) | [42](episodes/episode-42.md) | [43](episodes/episode-43.md) | [44](episodes/episode-44.md)   | [45](episodes/episode-45.md)   |                              |                              |                              |                              |                                |
+| [41](episodes/episode-41.md) | [42](episodes/episode-42.md) | [43](episodes/episode-43.md) | [44](episodes/episode-44.md)   | [45](episodes/episode-45.md)   | [46](episodes/episode-46.md) |                              |                              |                              |                                |
 
 ≡ — выпуск с расшифровкой.
 
