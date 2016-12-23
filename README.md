@@ -21,7 +21,7 @@
 ≡ — выпуск с расшифровкой.
 
 ---
-Распространяется под лицензией [СС BY-NC-ND 4.0](LICENSE.
+Распространяется под лицензией [СС BY-NC-ND 4.0](LICENSE.md)
 
 [01]: episodes/episode-01.md
 [02]: episodes/episode-02.md
