@@ -1,6 +1,6 @@
 # Выпуск №49. 31 декабря 2016
 
-Описание.
+Итоги года: события, доклады, браузеры, проекты, тренды и прогнозы по фронтенду на 2017.
 
 - Ольга Алексашенко
 - Вадим Макеев
@@ -15,7 +15,7 @@
 - [Frontend Union Conf](http://frontend-union.co/)
 - [pitercss_conf, 16 июня 2017](https://pitercss.com/)
 - [Prosmotr](http://designprosmotr.ru/)
-- [OdessaJS](http://odessajs.org/)
+- [Видео с OdessaJS](https://youtu.be/WX-I3lyiUGE?list=PLUF1zRLAgrPET1qRvSeKCraJxsjHZUSjw)
 - [Видео с KharkivJS](https://youtu.be/mNxMCPRETDk?list=PLnkLrCUX4Qh435vUFpNTUSJILQK27_akH)
 - [Видео с FrontTalks](https://youtu.be/jeg-RpXjdZ4?list=PLKaafC45L_SRke8G1qiE0ZTJovI0FYKRw)
 
@@ -26,11 +26,10 @@
 
 ## 17:52 Доклады года
 
-- [Как я перестал верить технологиям](https://youtu.be/f4uXBpP_xxY)
-- [Алексей Симоненко: Как я перестал верить технологиям](https://youtu.be/p5g4giWmcvE)
-- [Дмитрий Попов: Как незрячие люди видят ваш сайт (PDF)](https://wsd.events/2016/11/26/pres/how-blind-see.pdf)
-- [Вячеслав Егоров: Производительность JavaScript через подзорную трубу]
-- [Вадим Макеев: Я и ИоТ](https://youtu.be/LuLB6xj1rpQ)
+- [Как я перестал верить технологиям, Алексей Симоненко](https://youtu.be/p5g4giWmcvE)
+- [Как незрячие люди видят ваш сайт, Дмитрий Попов (PDF)](https://wsd.events/2016/11/26/pres/how-blind-see.pdf)
+- [Производительность JavaScript через подзорную трубу, Вячеслав Егоров](https://youtu.be/HPFARivHJRY)
+- [Я и ИоТ, Вадим Макеев](https://youtu.be/LuLB6xj1rpQ)
 
 ## 25:30 Веб-стандарты
 
