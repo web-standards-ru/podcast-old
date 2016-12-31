@@ -66,7 +66,7 @@
 [46]: episodes/episode-46.md
 [47]: episodes/episode-47.md
 [48]: episodes/episode-48.md
-[48]: episodes/episode-49.md
+[49]: episodes/episode-49.md
 
 ≡ — выпуск с расшифровкой.
 
