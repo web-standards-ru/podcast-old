@@ -40,7 +40,7 @@
 - [SVG-градиенты](http://css.yoksel.ru/svg-gradients/)
 - [SVG 2 new features](https://github.com/w3c/svgwg/wiki/SVG-2-new-features)
 - [Глава из «Practical SVG» Криса Койера](http://alistapart.com/article/practical-svg)
-- [Генератор спрайтов с фолбеком на PNG](https://github.com/yoksel/svg-fallback)
+- [Генератор спрайтов с фолбэком на PNG](https://github.com/yoksel/svg-fallback)
 
 ## 49:33 Курсор для кнопки
 
