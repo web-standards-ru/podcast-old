@@ -1,6 +1,6 @@
 # Выпуск №12. 19 апреля 2016
 
-Тестирование, фолбеки, `@​apply`, PWA, версии CSS, семантика.
+Тестирование, фолбэки, `@​apply`, PWA, версии CSS, семантика.
 
 - Ольга Алексашенко
 - Вадим Макеев
@@ -22,7 +22,7 @@
 - [Автоматизация регрессионного тестирования CSS](http://prgssr.ru/development/avtomatizaciya-regressionnogo-testirovaniya-css-2016.html)
 - [Doing nothing for visual regression testing](https://sc5.io/posts/visual-regression-testing/)
 
-## 07:38 Фолбек для флекса
+## 07:38 фолбэк для флекса
 
 - [Почти полное руководство по флексбоксу без самого флексбокса](https://habr.ru/p/281254/)
 - [Инлайновый контекст форматирования](http://css-live.ru/articles/obzor-inlajnovyj-kontekst-formatirovaniya.html)
