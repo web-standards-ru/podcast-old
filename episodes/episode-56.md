@@ -12,7 +12,7 @@
 
 - [Видео с KyivJS](https://youtu.be/VUyqHzF1yXM?list=PLxw9RJPDS60rSfHr_srQ2xgqBgjeYBUhe)
 - [Pitercss №10 в Питере 21 февраля](https://pitercss.timepad.ru/event/442550/)
-- [MinskJS в Минске 1 марта](https://pitercss.timepad.ru/event/442550/)
+- [MinskJS в Минске 1 марта](https://www.facebook.com/events/648975141952649/)
 - [Moscowcss №1 в Москве 2 марта](https://moscowcss.timepad.ru/event/443474/)
 - [MinskCSS в Минске 30 марта](https://twitter.com/MinskCSS/status/828605877598945280)
 - [React Amsterdam 21 апреля](https://react.amsterdam/)
