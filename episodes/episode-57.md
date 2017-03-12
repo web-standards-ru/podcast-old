@@ -25,7 +25,7 @@ Safari TP24, браузеры в 2017, кастомные свойства, make
 ## 08:43 Как работают браузеры в 2017
 
 - [Optimising the front end for the browser](https://dev.to/sanjsanj/optimising-the-front-end-for-thebrowser)
-- [Оптимизация фронтенда под браузеры](https://habrahabr.ru/company/badoo/blog/322988/) - перевод статьи в блоге компании Badoo на Хабре
+- [Оптимизация фронтенда под браузеры](https://habrahabr.ru/company/badoo/blog/322988/)
 - [How Browsers Work (2011)](https://www.html5rocks.com/en/tutorials/internals/howbrowserswork/)
 
 ## 18:56 Кастомные свойства
