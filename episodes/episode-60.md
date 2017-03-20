@@ -24,6 +24,7 @@
 
 - [CSSO 3.0.0](https://github.com/css/csso/releases/tag/v3.0.0)
 - [Real Web CSS](https://github.com/csstree/real-web-css)
+- [CSS Tree Validator](https://atom.io/packages/csstree-validator)
 
 ## 07:40 CSS Peeper
 
