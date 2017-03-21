@@ -12,7 +12,7 @@
 
 - [Node.js SPb №3 31 марта](https://rossinno.timepad.ru/event/457207/)
 - [Moscowcss №2 6 апреля](https://moscowcss.timepad.ru/event/457567/)
-- [Pitercss №11 21 апреля](https://pitercss.timepad.ru/event/457274/)
+- [Pitercss №11 21 марта](https://pitercss.timepad.ru/event/457274/)
 - [FrontDays в Тольятти 20 мая](https://frontdays.ru/)
 - [OdessaJS в Одессе 1—2 июля](http://odessajs.org/)
 
