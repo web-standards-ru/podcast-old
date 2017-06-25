@@ -1,12 +1,12 @@
 # Подкаст «Веб-стандарты» [![Build Status](https://travis-ci.org/web-standards-ru/podcast.svg?branch=master)](https://travis-ci.org/web-standards-ru/podcast)
 
-Подкаст с новостями фронтенда за минувшую неделю.
+Подкаст с новостями фронтенда за минувшую неделю.
 
 - Ольга Алексашенко
 - Вадим Макеев
 - Алексей Симоненко
 
-Слушайте нас на [SoundCloud](https://soundcloud.com/web-standards), в [iTunes](https://itunes.apple.com/ru/podcast/veb-standarty/id1080500016), подписывайтесь на [RSS](http://feeds.soundcloud.com/users/soundcloud:users:202737209/sounds.rss) и [обсуждайте в Слаке](https://web-standards.slack.com/messages/podcast/).
+Слушайте нас на [SoundCloud](https://soundcloud.com/web-standards), в [iTunes](https://itunes.apple.com/ru/podcast/veb-standarty/id1080500016), подписывайтесь на [RSS](http://feeds.soundcloud.com/users/soundcloud:users:202737209/sounds.rss) и [обсуждайте в Слаке](https://web-standards.slack.com/messages/podcast/).
 
 ## Выпуски
 
@@ -19,7 +19,7 @@
 | [41][]   | [42][] | [43][] | [44][]   | [45][]   | [46][]   | [47][]   | [48][] | [49][] | [50][]   |
 | [51][]   | [52][] | [53][] | [54][]   | [55][]   | [56][]   | [57][] ≡ | [58][] | [59][] | [60][]   |
 | [61][]   | [62][] | [63][] | [64][]   | [65][]   | [66][]   | [67][]   | [68][] | [69][] | [70][]   |
-| [71][]   |        |        |          |          |          |          |        |        |          |
+| [71][]   | [72][] | [73][] |          |          |          |          |        |        |          |
 
 [01]: episodes/episode-01.md
 [02]: episodes/episode-02.md
@@ -92,8 +92,10 @@
 [69]: episodes/episode-69.md
 [70]: episodes/episode-70.md
 [71]: episodes/episode-71.md
+[72]: episodes/episode-72.md
+[73]: episodes/episode-73.md
 
-≡ — выпуск с расшифровкой.
+≡ — выпуск с расшифровкой.
 
 ---
 Распространяется под лицензией [СС BY-NC-ND 4.0](LICENSE.md).
