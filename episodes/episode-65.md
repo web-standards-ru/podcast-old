@@ -8,7 +8,7 @@ Firefox, Safari, Chrome, асинхронность и ES, PhantomJS всё, с�
 
 [Слушайте на SoundCloud](https://soundcloud.com/web-standards/episode-65), [обсуждайте в Слаке](https://web-standards.slack.com/messages/podcast/).
 
-## 01:10 События
+## События (01:10)
 
 - [KharkivCSS 22 апреля](http://kharkivcss.org/)
 - [Видео со SPA Meetup №3](https://habr.ru/p/326524/)
@@ -20,28 +20,28 @@ Firefox, Safari, Chrome, асинхронность и ES, PhantomJS всё, с�
 - [MinskJS №2 18 мая](https://minskjs.timepad.ru/event/479052/)
 - [Антон Шеин на pitercss_conf](https://pitercss.com/#AntonShein)
 
-## 05:07 Firefox 53
+## Firefox 53 (05:07)
 
 - [Firefox 53 для разработчиков](http://tanalin.com/blog/2017/04/firefox-53/)
 
-## 09:59 Safari TP
+## Safari TP (09:59)
 
 - [Safari Technology Preview 28](https://webkit.org/blog/7516/release-notes-for-safari-technology-preview-28/)
 
-## 11:58 Chrome 58
+## Chrome 58 (11:58)
 
 - [Chrome 58](https://developers.google.com/web/updates/2017/04/nic58)
 
-## 13:12 Асинхронные итераторы
+## Асинхронные итераторы (13:12)
 
 - [Async iterators and generators](https://jakearchibald.com/2017/async-iterators-and-generators/)
 
-## 21:28 PhantomJS всё
+## PhantomJS всё (21:28)
 
 - [PhantomJS: Stepping down as maintainer](https://groups.google.com/d/msg/phantomjs/9aI5d-LDuNE/5Z3SMZrqAQAJ)
 - [Chrome Status: Headless mode](https://www.chromestatus.com/features/5678767817097216)
 
-## 50:21 Спор о веб-компонентах
+## Спор о веб-компонентах (50:21)
 
 - [Ремы, емы и почему отказ от них — не проблема](https://medium.com/p/3b2b1e785787)
 - [Невыполненные обещания веб-компонентов](https://medium.com/p/6b8641b390cb)
@@ -53,7 +53,7 @@ Firefox, Safari, Chrome, асинхронность и ES, PhantomJS всё, с�
 - [Зависимости в компонентном вебе](http://andrew-r.ru/notes/?go=all/deps-in-component-web/)
 - [Новость и холивар вокруг](https://twitter.com/webstandards_ru/status/853926074111209472)
 
-## 21:28 PhantomJS всё
+## PhantomJS всё (21:28)
 
 **Вадим.**
 Когда мы записывали последний выпуск, пришла неожиданная новость, что PhantomJS всё, и, может быть, мы немножечко увлеклись и драматизировали, но мы увидели твой анонс, что ты отходишь от должности мейнтейнера PhantomJS.  Можешь ты немножечко рассказать, откуда это всё взялось, почему так произошло и что будет дальше с PhantomJS?

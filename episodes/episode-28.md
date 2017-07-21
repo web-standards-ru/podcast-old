@@ -8,57 +8,57 @@
 
 [Слушайте на SoundCloud](https://soundcloud.com/web-standards/episode-28), [обсуждайте в Слаке](https://web-standards.slack.com/messages/podcast/).
 
-## 00:13 События
+## События (00:13)
 
 - [FrontTalks](http://fronttalks.ru/) 17—18 сентября
 - [Расписание WSD](https://wsd.events/#calendar)
 - [Встречи PiterCSS](https://pitercss.timepad.ru/events/)
 
-## 02:02 Chromium 52 и Opera 39
+## Chromium 52 и Opera 39 (02:02)
 
 - [What’s new in Chromium 52 and Opera 39](https://dev.opera.com/blog/opera-39/)
 - [CSS-изоляция](http://css-live.ru/articles/css-izolyaciya.html)
 
-## 06:35 Firefox 48
+## Firefox 48 (06:35)
 
 - [Марат Таналин про Firefox 48](http://tanalin.com/blog/2016/08/firefox-48/)
 - [WebExtensions API](https://developer.mozilla.org/en-US/Add-ons/WebExtensions/API)
 
-## 09:25 EdgeHTML 14
+## EdgeHTML 14 (09:25)
 
 - [Introducing EdgeHTML 14 with the Windows 10 Anniversary Update](https://blogs.windows.com/msedgedev/2016/08/04/introducing-edgehtml-14/)
 - [100% API доступности HTML5 в Edge](http://www.html5accessibility.com/)
 - [Edge обошёл Firefox на HTML5 Test](http://html5test.com/results/desktop.html)
 
-## 21:44 Safari TP10
+## Safari TP10 (21:44)
 
 - [Safari Technology Preview Release 10](https://webkit.org/blog/6823/release-notes-for-safari-technology-preview-release-10/)
 
-## 22:55 Будущее сервис-воркеров
+## Будущее сервис-воркеров (22:55)
 
 - [Service worker meeting notes](https://jakearchibald.com/2016/service-worker-meeting-notes/)
 - [The state of Web Components](https://hacks.mozilla.org/2015/06/the-state-of-web-components/)
 
-## 27:44 Чистый SVG
+## Чистый SVG (27:44)
 
 - [High Performance SVGs](https://css-tricks.com/high-performance-svgs/)
 
-## 37:31 Безопасный SVG
+## Безопасный SVG (37:31)
 
 - [SVG uploads in WordPress (the Inconvenient Truth)](https://bjornjohansen.no/svg-in-wordpress)
 - [Safe SVG](https://wordpress.org/plugins/safe-svg/)
 
-## 40:24 CSS-демки
+## CSS-демки (40:24)
 
 - [Индикатор прокрутки на CSS](http://codepen.io/MadeByMike/pen/ZOrEmr?editors=0100) и [как сделано](https://twitter.com/MikeRiethmuller/status/760935509996756994)
 
-## 44:49 Заливка текста
+## Заливка текста (44:49)
 
 - [Firefox: `background-clip: text`](https://twitter.com/simevidas/status/731354943626481666)
 - [CSS Fill and Stroke](https://drafts.fxtf.org/paint/)
 - [Позвольте представить: SVG](https://wsd.events/2014/06/28/pres/meet-svg/), [Оживляем текст](https://wsd.events/2015/06/20/pres/text-alive/) и [статьи Юли Бухваловой](http://css.yoksel.ru/tags/#svg)
 
-## 48:37 Адаптивная вёрстка
+## Адаптивная вёрстка (48:37)
 
 - [Яндекс: делать ли мобильную версию?](https://habrahabr.ru/company/yandex/blog/307064/)
 - [Комментарий разработчика](https://habrahabr.ru/company/yandex/blog/307064/#comment_9733376)
@@ -66,31 +66,31 @@
 
 ---
 
-## 00:13 События
+## События (00:13)
 
 TODO
 
-## 02:02 Chromium 52 и Opera 39
+## Chromium 52 и Opera 39 (02:02)
 
 TODO
 
-## 06:35 Firefox 48
+## Firefox 48 (06:35)
 
 TODO
 
-## 09:25 EdgeHTML 14
+## EdgeHTML 14 (09:25)
 
 TODO
 
-## 21:44 Safari TP10
+## Safari TP10 (21:44)
 
 TODO
 
-## 22:55 Будущее сервис-воркеров
+## Будущее сервис-воркеров (22:55)
 
 TODO
 
-## 27:44 Чистый SVG
+## Чистый SVG (27:44)
 
 **Вадим.** На этой неделе была пара интересных статей про SVG. Первая от Сары Дрэснер. Она [в блоге CSS-Tricks опубликовала](https://css-tricks.com/high-performance-svgs/ "High Performance SVGs") способ, или даже не способ, а вообще подход к тому, как нужно работать с SVG, чтобы они были быстрыми. Грубо говоря — кривые должны быть чистыми, чтобы в них не было мусора. Когда мы оптимизируем с помощью какого-нибудь SVGO, мы пытаемся работать с существующей информацией. Мы можем каким-то образом комбинировать кривые. Мы можем вычищать всякие лишние теги, которые не оказывают никакого влияния на финальный рендеринг. Но почистить кривые автоматически — сложновато. Их нужно рисовать чистыми.
 
@@ -126,7 +126,7 @@ TODO
 
 **Вадим.** А я в таких ситуациях просто открываю этот векторный объект в иллюстраторе. Можно как-то пробросить в иллюстратор всё это. Если это вставленый объект — можно по нему даблкликнуть, и он откроется в иллюстраторе. А в принципе можно скопировать кривую в иллюстратор и оттуда получить иконку. Ну да, лучше конечно наладить процесс.
 
-## 37:31 Безопасный SVG
+## Безопасный SVG (37:31)
 
 **Вадим.** Мы тут все страшно рады, что SVG существует, что его всё больше и больше в вебе. Но есть один момент, который расстраивает — это то, что SVG не считается таким же форматом графики, как растр. Смотрите, вот у вас есть прекрасная версия вашего логотипа или даже аватарки вашей. Векторная красивая аватарка. Вы идёте в какой-нибудь Twitter и загружаете её, а Twitter говорит: «SVG? Нет, никакого SVG! Только PNG, GIF-дедуля или JPEG». Да он даже WebP не съест — «а что это такое?» В итоге получается, что все сайты и сервисы страшно консервативны с точки зрения форматов графики, хотя поддержать новые казалось бы ничего не стоит. И ладно растр — WebP ещё поддержать можно, если попросить. А с SVG другая история.
 
@@ -136,7 +136,7 @@ TODO
 
 **Лёша.** Вот-вот, делайте все как Лёша.
 
-## 40:24 CSS-демки
+## CSS-демки (40:24)
 
 **Лёша.** На этой неделе была замечательная демка, в которой человек показал как можно с помощью обычных палок из веб-технологий собрать индикатор скролл-бара. Дело в том, что я не смог оценить всю красоту этого способа, поскольку я открыл его на iPhone и он там не работал. А вам как этот способ?
 
@@ -152,10 +152,10 @@ TODO
 
 **Вадим.** Но это ещё немножко говорит о состоянии с инструментами сейчас, что у нас всё настолько заинструментировано, что чтобы завести что-то в браузере, нужно: скачайте NodeJS, установите зависимости, запустите Gulp и тогда, если у вас нормальная операционная система и у вас всё завелось, то у вас получится эта несчастная демка.
 
-## 44:49 Заливка текста
+## Заливка текста (44:49)
 
 TODO
 
-## 48:37 Адаптивная вёрстка
+## Адаптивная вёрстка (48:37)
 
 TODO

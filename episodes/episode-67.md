@@ -7,7 +7,7 @@
 
 [Слушайте на SoundCloud](https://soundcloud.com/web-standards/episode-67), [обсуждайте в Слаке](https://web-standards.slack.com/messages/podcast/).
 
-## 00:29 События
+## События (00:29)
 
 - [Видео с UralJS №3 в Екатеринбурге](https://youtu.be/EXX5HmD_5lU?list=PLVxsRDo37_Zdda1PEmbGomFbisl9O3vU1)
 - [Видео с PiterJS №14 в Питере](https://youtu.be/thVZI3mUXUM?list=PLcXJ90eZ2bxggKRhomjNwJ8Zftq8yR7nS)
@@ -18,38 +18,38 @@
 - [HolyJS в Питере 2—3 июня](https://holyjs.ru/)
 - [Frontend Conf в Сколково, 5—6 июня](http://frontendconf.ru/)
 
-## 04:17 Бета Chrome 59
+## Бета Chrome 59 (04:17)
 
 - [Chrome 59 Beta](https://blog.chromium.org/2017/05/chrome-59-beta-headless-chromium-native.html)
 - [Getting Started with Headless Chrome](https://developers.google.com/web/updates/2017/04/headless-chrome)
 
-## 11:12 Safari TP 29
+## Safari TP 29 (11:12)
 
 - [Release Notes for Safari Technology Preview 29](https://webkit.org/blog/7532/release-notes-for-safari-technology-preview-29/)
 - [The `:focus-within` pseudo class](https://www.iandevlin.com/blog/2017/04/css/the-focus-within-pseudo-class)
 
-## 18:18 Samsung на десктопе
+## Samsung на десктопе (18:18)
 
 - [Samsung DeX brings a new Dimension to the Mobile Web](https://medium.com/p/f80d7edcab29)
 
-## 26:28 WebP торт
+## WebP торт (26:28)
 
 - [Wait, WebP is actually worth it](https://www.zachleat.com/web/webp/)
 
-## 33:01 HTML Шорты
+## HTML Шорты (33:01)
 
 - [Зачем задавать картинку через background-image](https://youtu.be/3gvjDqhYJ60?list=PLQJNT2fdCJngOj0mGZaTcZRyfSBTCWHe1)
 
-## 35:26 Normalize.css
+## Normalize.css (35:26)
 
 - [Normalize.css v6/v7 diff](https://github.com/necolas/normalize.css/compare/6.0.0...7.0.0#diff-bb3dde41d97f19be8ab7b4780a915d5e)
 - [Postcss-normalize](https://github.com/jonathantneal/postcss-normalize)
 
-## 39:59 CSS 5 уровня
+## CSS 5 уровня (39:59)
 
 - [Первый черновик CSS 5-го уровня](http://css-live.ru/vecssti-s-polej/pervyj-chernovik-css-5-urovnya.html)
 
-## 44:15 CSS в JS
+## CSS в JS (44:15)
 
 - [Stop using CSS in JavaScript for web development](https://medium.com/p/fa32fb873dcc)
 - [Ran it on Safari it’s like 380x times worse](https://twitter.com/notwaldorf/status/859636431974739968)

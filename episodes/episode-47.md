@@ -7,7 +7,7 @@ Chromium и Opera, `position: sticky`, виртуальная реальност
 
 [Слушайте на SoundCloud](https://soundcloud.com/web-standards/episode-47), [обсуждайте в Слаке](https://web-standards.slack.com/messages/podcast/).
 
-## 00:18 События
+## События (00:18)
 
 - [Видео с MinskCSS №1](https://youtu.be/hwseJaIsoBw?list=PL3uk4LxG9Zzl8MRXT1IpGxuZormysIbjg)
 - [WSD в Москве 28 января](https://wsd.events/2017/01/28/#proposal)
@@ -16,45 +16,45 @@ Chromium и Opera, `position: sticky`, виртуальная реальност
 - [Доступность для незрячих](http://frontend-science.com/lab/)
 - [Приём докладов на KharkivCSS](https://docs.google.com/forms/d/e/1FAIpQLSeBbERGJTNMqyshONNpuG-QwKmKXLkvaukSXRp010VM-4PClw/viewform)
 
-## 04:35 Chromium и Opera
+## Chromium и Opera (04:35)
 
 - [What’s new in Chromium 55 and Opera 42](https://dev.opera.com/blog/opera-42/)
 
-## 08:19 Возвращение `position: sticky`
+## Возвращение `position: sticky` (08:19)
 
 - [Sticky is back in Chrome](https://developers.google.com/web/updates/2016/12/position-sticky)
 
-## 11:49 Виртуальная реальность
+## Виртуальная реальность (11:49)
 
 - [Chrome: WebVR](https://developers.google.com/web/fundamentals/vr/)
 - [Очки виртуальной реальности «Кардборд»](https://store.artlebedev.ru/electronics/kardboard-white/)
 - [A-Frame](https://aframe.io/)
 
-## 16:40 Приоритизация JS
+## Приоритизация JS (16:40)
 
 - [When everything’s important, nothing is!](https://aerotwist.com/blog/when-everything-is-important-nothing-is/)
 
-## 21:51 Быстрый параллакс
+## Быстрый параллакс (21:51)
 
 - [Performant Parallaxing](https://developers.google.com/web/updates/2016/12/performant-parallaxing)
 
-## 25:29 Инлайновый SVG лучший!
+## Инлайновый SVG лучший! (25:29)
 
 - [Why Inline SVG is Best SVG](https://youtu.be/af4ZQJ14yu8)
 - [SVG 2, W3C CR](https://www.w3.org/TR/SVG2/)
 
-## 30:35 Краткая запись CSS
+## Краткая запись CSS (30:35)
 
 - [Краткая запись CSS как антипаттерн](http://prgssr.ru/development/kratkaya-zapis-css-kak-antipattern.html)
 
-## 36:39 Контрольные точки
+## Контрольные точки (36:39)
 
 - [Правильный способ делать контрольные точки в CSS](http://css-live.ru/articles-css/pravilnye-kontrolnye-tochki-v-css.html)
 
-## 40:47 Гриды!
+## Гриды! (40:47)
 
 - [Грядут гриды!](http://css-live.ru/verstka/gryadut-gridy.html)
 
-## 44:56 20 лет CSS
+## 20 лет CSS (44:56)
 
 - [20 Years of CSS](https://www.w3.org/Style/CSS20/)

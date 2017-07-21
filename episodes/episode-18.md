@@ -8,7 +8,7 @@
 
 [Слушайте на SoundCloud](https://soundcloud.com/web-standards/episode-18), [обсуждайте в Слаке](https://web-standards.slack.com/messages/podcast/).
 
-## 00:13 События
+## События (00:13)
 
 - [Frontend Conf](http://frontendconf.ru/)
 - [ScotlandJS](http://scotlandjs.com/)
@@ -17,33 +17,33 @@
 - [Встреча с докладчиками](https://vk.com/spb_frontend_meetup_160530)
 - [Fronteers](https://fronteers.nl/congres/2016)
 
-## 02:34 Статьи для новичков
+## Статьи для новичков (02:34)
 
 - [От нуля до героя фронтенда, часть 2](https://medium.com/p/25f19e56eb29)
 - [Хорошие и плохие CSS-практики для начинающих](https://medium.com/p/619289ce8bae)
 - [Михаил Дубаков](https://www.ozon.ru/person/1099694/)
 - [Бесплатный курс Академии по SVG](https://htmlacademy.ru/courses/130)
 
-## 06:38 Reset против Normalize
+## Reset против Normalize (06:38)
 
 - [Reset.css](http://meyerweb.com/eric/tools/css/reset/)
 - [Normalize.css](https://necolas.github.io/normalize.css/)
 - [Sublime Autoprefixer](https://github.com/sindresorhus/sublime-autoprefixer)
 - [Atom Autoprefixer](https://github.com/sindresorhus/atom-autoprefixer)
 
-## 13:29 JS для начинающих
+## JS для начинающих (13:29)
 
-## 15:33 Дилетанты и профессионалы
+## Дилетанты и профессионалы (15:33)
 
 - [jQuery и Bootstrap: расставляем точки над «i»](http://frontender.info/whats-wrong-with-jquery-and-bootstrap/)
 - [Мобильный Твиттер](https://mobile.twitter.com/)
 - [UnCSS](https://github.com/giakki/uncss)
 
-## 25:20 Зачем разбираться в SVG
+## Зачем разбираться в SVG (25:20)
 
 - [Бесплатный курс Академии по SVG](https://htmlacademy.ru/courses/130)
 
-## 29:25 Атомарный CSS
+## Атомарный CSS (29:25)
 
 - [Universal.css](https://github.com/marmelab/universal.css#readme)
 - [OrnaJS](http://ornaorg.github.io/)
@@ -51,11 +51,11 @@
 - [Flex Layout Attribute](http://progressivered.com/fla/)
 - [Material Design Lite](https://getmdl.io/)
 
-## 37:45 Программирование на CSS
+## Программирование на CSS (37:45)
 
 - [CSS When/Else Rules](https://tabatkins.github.io/specs/css-when-else/)
 
-## 49:60 Сервис-воркеры в Safari
+## Сервис-воркеры в Safari (49:60)
 
 - [Safari TP5](https://webkit.org/blog/6415/release-notes-for-safari-technology-preview-5/)
 - [Service Workers 101](https://github.com/delapuente/service-workers-101#readme)

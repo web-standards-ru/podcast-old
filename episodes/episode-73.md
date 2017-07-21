@@ -7,7 +7,7 @@ Firefox мультипроцессный, новые гриды в Edge, зач�
 
 [Слушайте на SoundCloud](https://soundcloud.com/web-standards/episode-73), [обсуждайте в Слаке](https://web-standards.slack.com/messages/podcast/).
 
-## 00:35 События
+## События (00:35)
 
 - [Как прошёл Питер-ЦСС](http://ilyabirman.ru/meanwhile/all/piter-css-photos/)
 - [PiterCSS Conference Review](https://medium.com/p/6a7c6ebbd386)
@@ -16,27 +16,27 @@ Firefox мультипроцессный, новые гриды в Edge, зач�
 - [FrontTalks в Екатеринбурге 16—17 сентября](https://events.yandex.ru/events/fronttalks/2017/)
 - [JSConf Budapest 2017 26—27 октября](http://jsconfbp.com/)
 
-## 07:52 Firefox
+## Firefox (07:52)
 
 - [Новинки Firefox 54 для разработчиков](http://tanalin.com/blog/2017/06/firefox-54/)
 - [Инспектор раскладок в Firefox Nightly](https://hacks.mozilla.org/2017/06/new-css-grid-layout-panel-in-firefox-nightly/)
 
-## 17:06 Гриды в Edge
+## Гриды в Edge (17:06)
 
 - [Новые гриды в Edge Insider Preview](http://css-live.ru/vecssti-s-polej/novye-gridy-uzhe-v-edge-insider-preview.html)
 
-## 19:30 Зачем флексы
+## Зачем флексы (19:30)
 
 - [Кому нужны флексы, HTML Шорты](https://youtu.be/Wpglfz7aXzo)
 
-## 21:58 JS-модули в HTML
+## JS-модули в HTML (21:58)
 
 - [Intent to ship `<script type=module>` in Blink](https://twitter.com/domenic/status/877346264102338562)
 
-## 25:37 Webpack 3
+## Webpack 3 (25:37)
 
 - [Webpack 3: Official Release](https://medium.com/webpack/webpack-3-official-release-15fd2dd8f07b)
 
-## 34:40 CSS-фрагменты
+## CSS-фрагменты (34:40)
 
 - [Черновик CSS Overflow L4](https://drafts.csswg.org/css-overflow-4/)

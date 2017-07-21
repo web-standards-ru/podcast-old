@@ -8,7 +8,7 @@
 
 [Слушайте на SoundCloud](https://soundcloud.com/web-standards/episode-70), [обсуждайте в Слаке](https://web-standards.slack.com/messages/podcast/).
 
-## 00:12 События
+## События (00:12)
 
 - [Front-Trends](https://2017.front-trends.com/)
 - [Drone hijacked on stage](https://twitter.com/pertjensen/status/867683070861864961)
@@ -20,24 +20,24 @@
 - [OdessaJS 1—2 июля](http://odessajs.org)
 - [FrontTalks in English?](https://twitter.com/FrontTalks/status/867475908806017025)
 
-## 07:57 Маркетинг Firefox
+## Маркетинг Firefox (07:57)
 
 - [Browse Against the Machine](https://medium.com/p/e793c0fee917)
 
-## 16:44 Npm 5 догоняет
+## Npm 5 догоняет (16:44)
 
 - [Npm: v5.0.0](http://blog.npmjs.org/post/161081169345/v500)
 
-## 29:00 Доступность
+## Доступность (29:00)
 
 - [Just landed behind a flag in Canary: inert](https://twitter.com/rob_dodson/status/868296999375847424)
 - [Why headings and landmarks are so important](https://youtu.be/vAAzdi1xuUY)
 
-## 36:12 Почему шорты и шоу
+## Почему шорты и шоу (36:12)
 
 - [Зачем нужен БЭМ вне Яндекса?](https://youtu.be/lQPs20b3Ey8?list=PLQJNT2fdCJngOj0mGZaTcZRyfSBTCWHe1)
 
-## 41:10 CSS-в-JS
+## CSS-в-JS (41:10)
 
 - [A Unified Styling Language](https://medium.com/p/d0c208de2660)
 - [Let There Be Peace On CSS](https://speakerdeck.com/didoo/let-there-be-peace-on-css)
@@ -45,13 +45,13 @@
 - [Андрей Оконечников на pitercss_conf](https://pitercss.com/#AndreyOkonetchnikov)
 - [Андрей Оконечников в 42 выпуске](https://soundcloud.com/web-standards/episode-42)
 
-## 49:51 Webpack и SPA
+## Webpack и SPA (49:51)
 
 - [Введение в философию Webpack](https://medium.com/p/d12415cc8594)
 - [Custom Elements v1: Reusable Web Components](https://developers.google.com/web/fundamentals/getting-started/primers/customelements)
 - [Shadow DOM v1: Self-Contained Web Components](https://developers.google.com/web/fundamentals/getting-started/primers/shadowdom)
 
-## 58:02 Гриды
+## Гриды (58:02)
 
 - [Learn CSS Grid](http://learncssgrid.com/)
 - [Accurately checking for CSS Grid support in Edge](http://gwhitworth.com/blog/2017/05/accurately-checking-for-css-grid-support-in-microsoft-edge)

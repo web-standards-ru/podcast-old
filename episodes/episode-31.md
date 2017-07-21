@@ -7,7 +7,7 @@
 
 [Слушайте на SoundCloud](https://soundcloud.com/web-standards/episode-31), [обсуждайте в Слаке](https://web-standards.slack.com/messages/podcast/).
 
-## 00:24 События
+## События (00:24)
 
 - [Frontend Union Conf 27 августа в Вильнюсе](http://frontend-union.co/)
 - [«Elements», слайды Мартина Клеппе](https://speakerdeck.com/aemkei/elements-frontend-union-conf)
@@ -16,41 +16,41 @@
 - [FrontTalks 17—18 сентября в Екатеринбурге](http://fronttalks.ru/)
 - [Лог с JSConf Iceland, день первый](https://github.com/web-standards-ru/web-standards-up/blob/master/2016-08-25_jsconfis.md) и [второй](https://github.com/web-standards-ru/web-standards-up/blob/master/2016-08-26_jsconfis.md)
 
-## 07:55 WebKit 15 лет
+## WebKit 15 лет (07:55)
 
 - [The first commit to WebKit was 15 years ago today](https://twitter.com/mathias/status/768336960096206848)
 - [Celebrating 15 Years of WebKit](https://webkit.org/blog/6888/celebrating-15-years-of-webkit/)
 
-## 13:12 WebP в Firefox
+## WebP в Firefox (13:12)
 
 - [Mozilla plans to add WebP support to Firefox](http://www.ghacks.net/2016/08/24/mozilla-webp-support-firefox/)
 - [Daala](https://xiph.org/daala/)
 - [Проголосовать за WebP в Edge](https://wpdev.uservoice.com/forums/257854-microsoft-edge-developer/suggestions/6508417-webp-image-format-support)
 
-## 22:59 Безопасность сайтов
+## Безопасность сайтов (22:59)
 
 - [Observatory, сервис Mozilla для проверки безопасности](https://observatory.mozilla.org/)
 - [SSL Config Generator](https://mozilla.github.io/server-side-tls/ssl-config-generator/)
 
-## 27:34 Прогрессивные веб-приложения
+## Прогрессивные веб-приложения (27:34)
 
 - [PWA Rocks](https://pwa.rocks/)
 - [How we made the RioRun progressive web app](https://www.theguardian.com/info/developer-blog/2016/aug/19/how-we-made-the-riorun-progressive-web-app)
 - [From Chrome Apps to the Web](http://blog.chromium.org/2016/08/from-chrome-apps-to-web.html)
 - [Add to Homescreen on Desktop](https://medium.com/p/c85aa018323f)
 
-## 34:16 PostCSS в WebStorm
+## PostCSS в WebStorm (34:16)
 
 - [WebStorm 2016.3 Early Access Preview: Flow, PostCSS, and more](https://blog.jetbrains.com/webstorm/2016/08/webstorm-2016-3-early-access-preview/)
 - [PostCSS на Википедии](https://ru.wikipedia.org/wiki/PostCSS)
 - [Renting software sucks](http://www.andybudd.com/archives/2016/08/renting_software_sucks/)
 
-## 42:19 Образование для профи
+## Образование для профи (42:19)
 
 - [Front End Center](https://frontend.center/)
 - [Перевод книги «Секреты CSS»](http://www.piter.com/collection/bestsellery-oreilly/product/sekrety-css-idealnye-resheniya-ezhednevnyh-zadach)
 
-## 50:03 Генераторы статики
+## Генераторы статики (50:03)
 
 - [Jekyll Admin](https://github.com/jekyll/jekyll-admin)
 - [Dev.Opera на Гитхабе](https://github.com/operasoftware/devopera)
@@ -69,7 +69,7 @@
 А Оля отдыхает, а мы с Лёшей в Вильнюсе после Frontend Union Conf записываемся на двоих.
 Не смогли никого позвать из гостей — все уезжают рано утром, и в общем как-то не получилось.
 
-## 00:24 События
+## События (00:24)
 
 **Вадим.**
 [Frontend Union](http://frontend-union.co/) организует уже вторую конференцию под этим названием.
@@ -168,16 +168,16 @@ FrontTalks удивил всех, 17-18 сентября, как мы уже г�
 
 А знаете, если Вы организуете какие-то локальные конференции или поедете в ближайшее время на что-нибудь фронтендерское — Вы тоже можете сделать такую трансляцию — пишите.
 
-## 07:55 WebKit 15 лет
+## WebKit 15 лет (07:55)
 
-## 13:12 WebP в Firefox
+## WebP в Firefox (13:12)
 
-## 22:59 Безопасность сайтов
+## Безопасность сайтов (22:59)
 
-## 27:34 Прогрессивные веб-приложения
+## Прогрессивные веб-приложения (27:34)
 
-## 34:16 PostCSS в WebStorm
+## PostCSS в WebStorm (34:16)
 
-## 42:19 Образование для профи
+## Образование для профи (42:19)
 
-## 50:03 Генераторы статики
+## Генераторы статики (50:03)

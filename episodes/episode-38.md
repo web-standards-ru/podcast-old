@@ -8,7 +8,7 @@ Yarn, Safari, Web Bluetooth, хорошие таблицы, alt, женщины 
 
 [Слушайте на SoundCloud](https://soundcloud.com/web-standards/episode-38), [обсуждайте в Слаке](https://web-standards.slack.com/messages/podcast/).
 
-## 00:13 События
+## События (00:13)
 
 - [NodeSchool SPB 22 октября](https://github.com/nodeschool/spb/issues/35)
 - [React Moscow 26 октября](http://www.meetup.com/React-Moscow-Meetup/events/234802115/)
@@ -16,7 +16,7 @@ Yarn, Safari, Web Bluetooth, хорошие таблицы, alt, женщины 
 - [KharkivJS 5—6 ноября](http://kharkivjs.org/)
 - [HolyJS в Москве 11 декабря](http://holyjs.ru/)
 
-## 02:57 Yarn для npm
+## Yarn для npm (02:57)
 
 - [Yarn: A new package manager for JavaScript](https://code.facebook.com/posts/1840075619545360)
 - [PackRat](https://github.com/an9eldust/packrat)
@@ -24,36 +24,36 @@ Yarn, Safari, Web Bluetooth, хорошие таблицы, alt, женщины 
 - [Why I’m Working on Yarn](http://yehudakatz.com/2016/10/11/im-excited-to-work-on-yarn-the-new-js-package-manager-2/)
 - [Почему `yarn.lock` не нужен в зависимостях](https://github.com/yarnpkg/yarn/issues/838#issuecomment-253362537)
 
-## 20:02 Safari TP15
+## Safari TP15 (20:02)
 
 - [Release Notes for Safari Technology Preview 15](https://webkit.org/blog/6987/release-notes-for-safari-technology-preview-15/)
 
-## 24:28 Web Bluetooth
+## Web Bluetooth (24:28)
 
 - [Chrome Intent to Ship: Web Bluetooth](https://groups.google.com/a/chromium.org/d/msg/blink-dev/Ono3RWkejAA/2skvuBhSCQAJ)
 
-## 25:57 Хорошие таблицы
+## Хорошие таблицы (25:57)
 
 - [How to make your tables less terrible (GIF)](http://i.imgur.com/ZY8dKpA.gif)
 - [Создавайте хорошие таблицы](https://habr.ru/p/312422/)
 
-## 35:07 `alt` для картинок
+## `alt` для картинок (35:07)
 
 - [Альтернативный текст для изображений](http://prgssr.ru/development/alternativnyj-tekst-dlya-izobrazhenij.html)
 
-## 43:06 Женщины CSS
+## Женщины CSS (43:06)
 
 - [The Amazing Women of CSS](https://rachelandrew.co.uk/archives/2016/10/11/the-amazing-women-of-css/)
 
-## 46:57 Функция `map` в CSS
+## Функция `map` в CSS (46:57)
 
 - [Native `map()` function in CSS](https://github.com/w3c/csswg-drafts/issues/581)
 
-## 53:45 Стили без CSS
+## Стили без CSS (53:45)
 
 - [Styled Components](https://styled-components.com/)
 
-## 57:14 JS (не) нужен?
+## JS (не) нужен? (57:14)
 
 - [You Might Not Need jQuery](http://youmightnotneedjquery.com/)
 - [You Might Not Need JavaScript](http://youmightnotneedjs.com/)

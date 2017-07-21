@@ -8,7 +8,7 @@ Safari TP, гриды на огороде, ремы и емы не нужны, �
 
 [Слушайте на SoundCloud](https://soundcloud.com/web-standards/episode-63), [обсуждайте в Слаке](https://web-standards.slack.com/messages/podcast/).
 
-## 00:25 События
+## События (00:25)
 
 - [Билеты на pitercss_conf](https://pitercss.com/#BuyTicket)
 - [Видео с moscowcss №2 6 апреля](https://www.facebook.com/afishamansarda/videos/1510461452311235/)
@@ -17,33 +17,33 @@ Safari TP, гриды на огороде, ремы и емы не нужны, �
 - [Front Trends в Варшаве 24—26 мая](https://2017.front-trends.com/)
 - [Fronteers Conference 2017 в Амстердаме 5—6 октября](https://fronteers.nl/congres/2017)
 
-## 04:06 Safari TP
+## Safari TP (04:06)
 
 - [Release Notes for Safari Technology Preview 27](https://webkit.org/blog/7497/release-notes-for-safari-technology-preview-27/)
 - [Not sure what's more thrilling…](https://twitter.com/eprev/status/849750273337831425)
 
-## 08:42 Гриды на огороде
+## Гриды на огороде (08:42)
 
 - [Edge Grid Update](https://developer.microsoft.com/en-us/microsoft-edge/platform/status/gridupdate/?q=grid)
 - [Grid Garden](http://cssgridgarden.com/)
 - [Flexbox Froggy](http://flexboxfroggy.com/)
 
-## 17:44 Ремы и емы не нужны?
+## Ремы и емы не нужны? (17:44)
 
 - [Rems and ems, and why you probably don’t need them](https://medium.com/p/664b9ce1e09f)
 
-## 32:24 Новый Твиттер
+## Новый Твиттер (32:24)
 
 - [How we built Twitter Lite](https://blog.twitter.com/2017/how-we-built-twitter-lite)
 
-## 38:37 Современный JS
+## Современный JS (38:37)
 
 - [Современный JavaScript для древних веб-разработчиков](https://medium.com/p/e601e59e87a2)
 
-## 48:06 Полезный код
+## Полезный код (48:06)
 
 - [Использование Code Coverage](https://medium.com/p/6535bc26c97b)
 
-## 54:11 AMP ломает новости
+## AMP ломает новости (54:11)
 
 - [AMP: Breaking News](https://trib.tv/2017/03/31/amp-breaking-news/)

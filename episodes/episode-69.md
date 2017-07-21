@@ -7,48 +7,48 @@
 
 [Слушайте на SoundCloud](https://soundcloud.com/web-standards/episode-69), [обсуждайте в Слаке](https://web-standards.slack.com/messages/podcast/).
 
-## 00:16 События
+## События (00:16)
 
 - [Видео с pitercss_meetup №13](https://youtu.be/b_3lqYrcY-4)
 - [Pitercss_conf 16 июня](https://pitercss.com/)
 
-## 03:45 Samsung
+## Samsung (03:45)
 
 - [Announcing Samsung Internet v5.4 stable!](https://medium.com/p/fd941e0dcd58)
 - [Hacker News readers as Progressive Web Apps](https://hnpwa.com/)
 
-## 12:48 Safari
+## Safari (12:48)
 
 - [Safari Technology Preview 30](https://webkit.org/blog/7614/release-notes-for-safari-technology-preview-30/)
 - [Responsive Design for Motion](https://webkit.org/blog/7551/responsive-design-for-motion/)
 
-## 20:07 Google I/O
+## Google I/O (20:07)
 
 - [Google I/O 2017 All Sessions](https://www.youtube.com/playlist?list=PLOU2XLYxmsIKC8eODk_RNCWv3fBcLvMMy)
 
-## 21:49 Git в Atom
+## Git в Atom (21:49)
 
 - [Git and GitHub Integration comes to Atom](http://blog.atom.io/2017/05/16/git-and-github-integration-comes-to-atom.html)
 
-## 32:31 GitHub Desktop
+## GitHub Desktop (32:31)
 
 - [How Four Native Developers Wrote An Electron App](https://githubengineering.com/how-four-native-developers-wrote-an-electron-app/)
 
-## 40:32 Box Alignment
+## Box Alignment (40:32)
 
 - [Box alignment: `justify-content: space-evenly`](https://codepen.io/matuzo/pen/GmXVWo)
 - [Свойства для выравнивания всего и их новые тайны](http://css-live.ru/articles-css/svojstva-dlya-vyravnivaniya-vsego-i-ix-novye-tajny.html)
 - [Наклейки для бейджей WSD](https://github.com/web-standards-ru/stickers)
 
-## 46:58 Lazy Image
+## Lazy Image (46:58)
 
 - [`<lazy-image>`](https://meowni.ca/lazy-image/)
 
-## 53:07 Лия и Mavo
+## Лия и Mavo (53:07)
 
 - [Introducing Mavo: Create Web Apps Entirely By Writing HTML!](https://www.smashingmagazine.com/2017/05/introducing-mavo/)
 
-## 59:33 ППК и формы
+## ППК и формы (59:33)
 
 - [Native form validation — part 3](https://medium.com/p/8e643e1dd06)
 
