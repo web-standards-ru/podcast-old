@@ -6,7 +6,9 @@ Safari 10 скоро, Chrome 53 уже, кастомные элементы, `bo
 - Анна Селезнёва
 - Алексей Симоненко
 
-[Слушайте на SoundCloud](https://soundcloud.com/web-standards/episode-32), [обсуждайте в Слаке](https://web-standards.slack.com/messages/podcast/).
+[Слушайте в iTunes](https://itunes.apple.com/ru/podcast/veb-standarty/id1080500016)
+[Слушайте на SoundCloud](https://soundcloud.com/web-standards/episode-32)
+[Обсуждайте в Слаке](http://slack.web-standards.ru/)
 
 ## События (00:14)
 

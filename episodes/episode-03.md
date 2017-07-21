@@ -6,7 +6,9 @@ PiterCSS №1, Frontend Union Conf, Grunt 1.0 RC1, npm-скрипты, ES6, Gith
 - Андрей Саломатин
 - Алексей Симоненко
 
-[Слушайте на SoundCloud](https://soundcloud.com/web-standards/episode-3), [обсуждайте в Слаке](https://web-standards.slack.com/messages/podcast/).
+[Слушайте в iTunes](https://itunes.apple.com/ru/podcast/veb-standarty/id1080500016)
+[Слушайте на SoundCloud](https://soundcloud.com/web-standards/episode-3)
+[Обсуждайте в Слаке](http://slack.web-standards.ru/)
 
 ## События (00:25)
 

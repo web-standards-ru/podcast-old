@@ -6,7 +6,9 @@ Chrome 48, Firefox 44, Sass вместе с PostCSS, минимально нео
 - Вадим Макеев
 - Алексей Симоненко
 
-[Слушайте на SoundCloud](https://soundcloud.com/web-standards/pilot-1), [обсуждайте в Слаке](https://web-standards.slack.com/messages/podcast/).
+[Слушайте в iTunes](https://itunes.apple.com/ru/podcast/veb-standarty/id1080500016)
+[Слушайте на SoundCloud](https://soundcloud.com/web-standards/pilot-1)
+[Обсуждайте в Слаке](http://slack.web-standards.ru/)
 
 ## Новинки браузеров (00:45)
 

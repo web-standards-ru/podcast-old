@@ -5,7 +5,9 @@ Firefox, Chromium, отдельные свойства, Pointer Events, грид
 - Вадим Макеев
 - Алексей Симоненко
 
-[Слушайте на SoundCloud](https://soundcloud.com/web-standards/episode-35), [обсуждайте в Слаке](https://web-standards.slack.com/messages/podcast/).
+[Слушайте в iTunes](https://itunes.apple.com/ru/podcast/veb-standarty/id1080500016)
+[Слушайте на SoundCloud](https://soundcloud.com/web-standards/episode-35)
+[Обсуждайте в Слаке](http://slack.web-standards.ru/)
 
 ## События (00:18)
 
