@@ -8,6 +8,11 @@
 
 Слушайте нас на [SoundCloud](https://soundcloud.com/web-standards), в [iTunes](https://itunes.apple.com/ru/podcast/veb-standarty/id1080500016), подписывайтесь на [RSS](http://feeds.soundcloud.com/users/soundcloud:users:202737209/sounds.rss) и [обсуждайте в Слаке](https://web-standards.slack.com/messages/podcast/).
 
+## Экспорт
+
+- Текст: `npm run text -- episodes/episode-N.md`
+- HTML: `npm run html -- episodes/episode-N.md`
+
 ## Выпуски
 
 | №        |        |        |          |          |          |          |        |        |          |
