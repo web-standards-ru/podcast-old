@@ -10,7 +10,7 @@
 [Слушайте на SoundCloud](https://soundcloud.com/web-standards/episode-N)
 [Обсуждайте в Слаке](http://slack.web-standards.ru/)
 
-## Тема (00:00)
+## Тема (00:00:00)
 
 - [Статья](ссылка)
 - [Статья](ссылка)
