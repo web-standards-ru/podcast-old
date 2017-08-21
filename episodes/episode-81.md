@@ -24,6 +24,8 @@
 ## Аудит 2.0 (00:21:06)
 
 - [A11ycasts: Audits 2.0](https://youtu.be/b0Q5Zp_yKaU)
+- [Contrast ratio in devtools](https://remysharp.com/2017/08/17/contrast-ratio-in-devtools)
+- [Особенности интерфейсов при работе со скринридерами](https://youtu.be/2nSib5UuR_g)
 - [Accessibility Testing with pa11y](https://bitsofco.de/pa11y/)
 
 ## Доступность (00:29:47)
