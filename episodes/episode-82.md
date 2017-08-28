@@ -18,7 +18,7 @@ Safari, Stylo, PWA и Android, Polymer 3.0, читайте Шорты, React и�
 - [Moscow_css в Москве 7 сентября](https://moscowcss.timepad.ru/event/552269/)
 - Почта для докладов hi@css.moscow
 - [FrontTalks в Екатеринбурге 16—17 сентября](http://fronttalks.ru/)
-- [WSD в Минске 21 октября](https://wsd.events/2017/10/21/)
+- [WSD в Минске 21 октября](https://wsd.events/)
 - Почта для докладов wst@web-standards.ru
 
 ## Safari (00:06:58)
