@@ -1,6 +1,6 @@
 # Episode #85. September 14th 2017
 
-In today’s special episode you’ll hear five short interviews with CSS-Minsk-JS speakers: Aga Naplocha, Harry Roberts, Eva Lettner, Zach Leatherman, and Hugo Giraudel. Vadim Makeev recorded it on September 10th 2017 in Minsk while you were enjoying this great conference.
+In today’s special episode you’ll hear five short interviews with CSS-Minsk-JS speakers: Aga Naplocha, Harry Roberts, Eva Lettner, Zach Leatherman, and Hugo Giraudel. Vadim Makeev recorded it on September 10th, 2017 in Minsk while you were enjoying this great conference.
 
 [Listen on iTunes](https://itunes.apple.com/ru/podcast/veb-standarty/id1080500016)
 [Listen on SoundCloud](https://soundcloud.com/web-standards/episode-N)
