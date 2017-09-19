@@ -33,6 +33,7 @@
 ## Жизнь после git --force (00:33:15)
 
 - [Git push --force and how to deal with it](https://evilmartians.com/chronicles/git-push---force-and-how-to-deal-with-it)
+- [Git Tower](https://www.git-tower.com/)
 
 ## История гридов (00:41:02)
 
