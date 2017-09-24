@@ -8,6 +8,6 @@
   "dependencies": {
     "demarked": "^0.0.3",
     "marked": "^0.3.6",
-    "yaspeller": "^3.3.0"
+    "yaspeller": "^4.0.0"
   }
 }
