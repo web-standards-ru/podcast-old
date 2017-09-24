@@ -1,4 +1,4 @@
-# Выпуск №87. 1 января 1970
+# Выпуск №87. 25 сентября 2017
 
 Зачем вообще Edge, новинки Safari, бета Chrome 62, кому нужен CoffeeScript 2, идеи для DevTools.
 
@@ -11,7 +11,6 @@
 
 - [Pitercss_meetup №14 в Питере 26 сентября](https://pitercss.timepad.ru/event/564590/)
 - [WSD в Минске 21 октября](https://wsd.events/2017/10/21/)
-- WSD в Киеве 4 ноября
 - [Moscowcss 5 в Москве 31 октября](https://moscowcss.timepad.ru/event/576236/)
 - [OdessaFrontend в Одессе 27 сентября](http://odessafrontend.com/)
 - [Календарь событий по фронтенду](https://github.com/web-standards-ru/calendar)
