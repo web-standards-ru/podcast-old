@@ -25,7 +25,7 @@
 
 - [Как создать адаптивную сетку](https://medium.com/p/89d07e48a564)
 - [Frontender Magazine](https://frontender.info/)
-- [У нас небольшая катострофа](https://twitter.com/frontenderinfo/status/858341226327810048)
+- [У нас небольшая катастрофа](https://twitter.com/frontenderinfo/status/858341226327810048)
 
 ## Плохая кнопка (00:36:17)
 
