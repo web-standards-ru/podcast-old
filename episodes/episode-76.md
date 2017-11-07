@@ -40,7 +40,7 @@
 
 - [CSS Isn’t Black Magic](https://medium.com/p/c8d677fa21b2)
 
-## ES 2017 (42:06)
+## ES 2017 (46:02)
 
 - [ES8 вышел и вот его основные новые возможности](https://habr.ru/p/332900/)
 
