@@ -29,6 +29,7 @@ Firefox жив! Парное программирование, дорогой JS
 ## Дорогой JS (00:24:36)
 
 - [The Cost Of JavaScript](https://medium.com/p/84009f51e99e)
+- [Real-world Web Performance Budgets](https://infrequently.org/2017/10/can-you-afford-it-real-world-web-performance-budgets/)
 
 ## Доступность (00:31:31)
 
