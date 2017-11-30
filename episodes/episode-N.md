@@ -6,14 +6,9 @@
 - Вадим Макеев
 - Алексей Симоненко
 
-[Слушайте на SoundCloud](https://soundcloud.com/web-standards/episode-0), [обсуждайте в Слаке](https://web-standards.slack.com/messages/podcast/).
+Слушайте [в iTunes](https://itunes.apple.com/ru/podcast/veb-standarty/id1080500016) или [на SoundCloud](https://soundcloud.com/web-standards/episode-N), [обсуждайте в Слаке](http://slack.web-standards.ru/).
 
-## 00:00 Тема 1
-
-- [Статья](ссылка)
-- [Статья](ссылка)
-
-## 00:00 Тема 2
+## Тема (00:00:00)
 
 - [Статья](ссылка)
 - [Статья](ссылка)

@@ -6,9 +6,11 @@
 - Алексей Симоненко
 - Милена
 
-[Слушайте на SoundCloud](https://soundcloud.com/web-standards/episode-55), [обсуждайте в Слаке](https://web-standards.slack.com/messages/podcast/).
+[Слушайте в iTunes](https://itunes.apple.com/ru/podcast/veb-standarty/id1080500016)
+[Слушайте на SoundCloud](https://soundcloud.com/web-standards/episode-55)
+[Обсуждайте в Слаке](http://slack.web-standards.ru/)
 
-## 00:13 События
+## События (00:13)
 
 - [UralJS №2 в Екатеринбурге 13 февраля](https://uraljs.timepad.ru/event/442524/)
 - [MoscowJS №35 17 февраля](http://moscowjs.ru/event/moscowjs-35)
@@ -18,41 +20,41 @@
 - [KharkivCSS №2 в Харькове 22 апреля](http://kharkivcss.org/)
 - [Приём докладов на pitercss_conf 16 июня](https://pitercss.com/)
 
-## 07:39 Графика в WebKit
+## Графика в WebKit (07:39)
 
 - [Next-generation 3D Graphics on the Web](https://webkit.org/blog/7380/next-generation-3d-graphics-on-the-web/)
 
-## 13:51 Ссылки в Opera
+## Ссылки в Opera (13:51)
 
 - [What’s new in Chromium 56 and Opera 43](https://dev.opera.com/blog/opera-43/)
 
-## 17:33 Дизайнеры верстают
+## Дизайнеры верстают (17:33)
 
 - [Веб-дизайнеры, начните верстать!](https://medium.com/p/c44fa28b6ad9)
 - [Технолог — тоже дизайнер](https://events.yandex.ru/lib/talks/460/)
 - [Как «прокачаться» дизайнеру: советы и полезные ссылки](https://habr.ru/p/321498/)
 
-## 29:24 HTML API
+## HTML API (29:24)
 
 - [HTML APIs: What They Are And How To Design A Good One](https://www.smashingmagazine.com/2017/02/designing-html-apis/)
 - [MarkApp](http://markapp.io/)
 
-## 36:48 Кастомные свойства
+## Кастомные свойства (36:48)
 
 - [CSS Custom Properties. The Basics](https://sgom.es/posts/2017-01-27-css-custom-properties-the-basics/)
 - [More Readable CSS with CSS Custom Properties](https://sgom.es/posts/2017-02-03-more-readable-css-with-css-custom-properties/)
 - [Bridging CSS and JS with Custom Properties](https://sgom.es/posts/2017-02-10-bridging-css-and-js-with-custom-properties/)
 
-## 42:21 Фигуры в CSS
+## Фигуры в CSS (42:21)
 
 - [Basic Shapes & Path](https://css-tricks.com/basic-shapes-path-never-twain-shall-meet/)
 
-## 45:31 Обещанный бургер
+## Обещанный бургер (45:31)
 
 - [Обещание бургерной вечеринки](https://medium.com/p/b0ed209809ab)
 - [Ты кто такой, сервис-воркер?](https://medium.com/p/9bce3b1201b6)
 
-## 50:05 Быстрый старт JS
+## Быстрый старт JS (50:05)
 
 - [JavaScript Start-up Performance](https://medium.com/p/69200f43b201)
 - [optimize-js](https://github.com/nolanlawson/optimize-js)

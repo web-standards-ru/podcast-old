@@ -1,23 +1,34 @@
-# Подкаст «Веб-стандарты» [![Build Status](https://travis-ci.org/web-standards-ru/podcast.svg?branch=master)](https://travis-ci.org/web-standards-ru/podcast)
+# Подкаст «Веб-стандарты»
 
-Подкаст с новостями фронтенда за минувшую неделю.
+[![Статус сборки](https://travis-ci.org/web-standards-ru/podcast.svg?branch=master)](https://travis-ci.org/web-standards-ru/podcast)
+
+Подкаст с новостями фронтенда за минувшую неделю.
 
 - Ольга Алексашенко
 - Вадим Макеев
 - Алексей Симоненко
 
-Слушайте нас на [SoundCloud](https://soundcloud.com/web-standards), в [iTunes](https://itunes.apple.com/ru/podcast/veb-standarty/id1080500016), подписывайтесь на [RSS](http://feeds.soundcloud.com/users/soundcloud:users:202737209/sounds.rss) и [обсуждайте в Слаке](https://web-standards.slack.com/messages/podcast/).
+Слушайте нас на [SoundCloud](https://soundcloud.com/web-standards), в [iTunes](https://itunes.apple.com/ru/podcast/veb-standarty/id1080500016), подписывайтесь на [RSS](http://feeds.soundcloud.com/users/soundcloud:users:202737209/sounds.rss) и [обсуждайте в Слаке](https://web-standards.slack.com/messages/podcast/).
+
+## Экспорт
+
+- Текст: `npm run text -- episodes/episode-N.md`
+- HTML: `npm run html -- episodes/episode-N.md`
 
 ## Выпуски
 
-| №        |        |        |          |          |          |          |        |        |          |
-| -------- | ------ | ------ | -------- | -------- | -------- | -------- | ------ | ------ | -------- |
-| [01][] ≡ | [02][] | [03][] | [04][]   | [05][] ≡ | [06][] ≡ | [07][]   | [08][] | [09][] | [10][] ≡ |
-| [11][]   | [12][] | [13][] | [14][]   | [15][]   | [16][]   | [17][] ≡ | [18][] | [19][] | [20][]   |
-| [21][]   | [22][] | [23][] | [24][] ≡ | [25][] ≡ | [26][] ≡ | [27][] ≡ | [28][] | [29][] | [30][]   |
-| [31][]   | [32][] | [33][] | [34][]   | [35][]   | [36][]   | [37][]   | [38][] | [39][] | [40][]   |
-| [41][]   | [42][] | [43][] | [44][]   | [45][]   | [46][]   | [47][]   | [48][] | [49][] | [50][]   |
-| [51][]   | [52][] | [53][] | [54][]   | [55][]   | [56][]   | [57][] ≡ | [58][] | [59][] |          |
+| №      |        |        |        |        |        |        |        |        |        |
+| ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ |
+| [01][] | [02][] | [03][] | [04][] | [05][] | [06][] | [07][] | [08][] | [09][] | [10][] |
+| [11][] | [12][] | [13][] | [14][] | [15][] | [16][] | [17][] | [18][] | [19][] | [20][] |
+| [21][] | [22][] | [23][] | [24][] | [25][] | [26][] | [27][] | [28][] | [29][] | [30][] |
+| [31][] | [32][] | [33][] | [34][] | [35][] | [36][] | [37][] | [38][] | [39][] | [40][] |
+| [41][] | [42][] | [43][] | [44][] | [45][] | [46][] | [47][] | [48][] | [49][] | [50][] |
+| [51][] | [52][] | [53][] | [54][] | [55][] | [56][] | [57][] | [58][] | [59][] | [60][] |
+| [61][] | [62][] | [63][] | [64][] | [65][] | [66][] | [67][] | [68][] | [69][] | [70][] |
+| [71][] | [72][] | [73][] | [74][] | [75][] | [76][] | [77][] | [78][] | [79][] | [80][] |
+| [81][] | [82][] | [83][] | [84][] | [85][] | [86][] | [87][] | [88][] | [89][] | [90][] |
+| [91][] | [92][] | [93][] | [94][] | [95][] | [96][] |        |        |        |        |
 
 [01]: episodes/episode-01.md
 [02]: episodes/episode-02.md
@@ -78,8 +89,47 @@
 [57]: episodes/episode-57.md
 [58]: episodes/episode-58.md
 [59]: episodes/episode-59.md
+[60]: episodes/episode-60.md
+[61]: episodes/episode-61.md
+[62]: episodes/episode-62.md
+[63]: episodes/episode-63.md
+[64]: episodes/episode-64.md
+[65]: episodes/episode-65.md
+[66]: episodes/episode-66.md
+[67]: episodes/episode-67.md
+[68]: episodes/episode-68.md
+[69]: episodes/episode-69.md
+[70]: episodes/episode-70.md
+[71]: episodes/episode-71.md
+[72]: episodes/episode-72.md
+[73]: episodes/episode-73.md
+[74]: episodes/episode-74.md
+[75]: episodes/episode-75.md
+[76]: episodes/episode-76.md
+[77]: episodes/episode-77.md
+[78]: episodes/episode-78.md
+[79]: episodes/episode-79.md
+[80]: episodes/episode-80.md
+[81]: episodes/episode-81.md
+[82]: episodes/episode-82.md
+[83]: episodes/episode-83.md
+[84]: episodes/episode-84.md
+[85]: episodes/episode-85.md
+[86]: episodes/episode-86.md
+[87]: episodes/episode-87.md
+[88]: episodes/episode-88.md
+[89]: episodes/episode-89.md
+[90]: episodes/episode-90.md
+[91]: episodes/episode-91.md
+[92]: episodes/episode-92.md
+[93]: episodes/episode-93.md
+[94]: episodes/episode-94.md
+[95]: episodes/episode-95.md
+[96]: episodes/episode-96.md
 
-≡ — выпуск с расшифровкой.
+## Расшифровки
+
+Полные или частичные расшифровки выпусков лежат в папке [transcripts](https://github.com/web-standards-ru/podcast/tree/master/transcripts). Хотите помочь с расшифровкой любимых выпусков? [Заходите в ишью](https://github.com/web-standards-ru/podcast/issues).
 
 ---
 Распространяется под лицензией [СС BY-NC-ND 4.0](LICENSE.md).

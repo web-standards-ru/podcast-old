@@ -6,39 +6,41 @@ Moz://a, ввод дат, чек-лист, Webpack 2, React на веб-комп
 - Вадим Макеев
 - Алексей Симоненко
 
-[Слушайте на SoundCloud](https://soundcloud.com/web-standards/episode-52), [обсуждайте в Слаке](https://web-standards.slack.com/messages/podcast/).
+[Слушайте в iTunes](https://itunes.apple.com/ru/podcast/veb-standarty/id1080500016)
+[Слушайте на SoundCloud](https://soundcloud.com/web-standards/episode-52)
+[Обсуждайте в Слаке](http://slack.web-standards.ru/)
 
-## 00:13 События
+## События (00:13)
 
 - [WSD в Москве 28 января](https://wsd.events/2017/01/28/)
 - [KharkivCSS 22 апреля](http://kharkivcss.org/)
 - [Rolling Scopes в Минске 18—19 февраля](https://2017.conf.rollingscopes.com/)
 
-## 01:37 Лого Mozilla
+## Лого Mozilla (01:37)
 
 - [Moz://a Arrival](https://blog.mozilla.org/opendesign/arrival/)
 - [`moz://` URI scheme](http://www.iana.org/assignments/uri-schemes/prov/moz)
 
-## 05:56 Ввод дат
+## Ввод дат (05:56)
 
 - [Date/Time Input Types](http://slides.com/jessicajong/datetime)
 - [Making `<input type=date>` complicated](https://medium.com/p/a544fd27c45a)
 
-## 24:10 Чек-лист
+## Чек-лист (24:10)
 
 - [Что поправить в верстке перед выпуском в продакшен?](https://habrahabr.ru/post/319664/)
 
-## 28:31 Webpack 2
+## Webpack 2 (28:31)
 
 - [Webpack 2.2: The Final Release](https://medium.com/p/76c3d43bf144)
 - [Rollup.js](http://rollupjs.org/)
 
-## 33:26 React на веб-компонентах
+## React на веб-компонентах (33:26)
 
 - [Web Components, the React way](https://medium.com/p/8ed5b6f4f942)
 - [Статья](ссылка)
 
-## 34:57 Суровый Unix
+## Суровый Unix (34:57)
 
 - [Ack for CSS Developers](http://csswizardry.com/2017/01/ack-for-css-developers/)
 - [Вместо ack уже ripgrep](https://twitter.com/veged/status/821829781482250240)
@@ -50,7 +52,7 @@ Moz://a, ввод дат, чек-лист, Webpack 2, React на веб-комп
 - [Icon Slate](http://www.kodlian.com/apps/icon-slate)
 - [ImageMagick](https://www.imagemagick.org/)
 
-## 47:19 Доступность
+## Доступность (47:19)
 
 - [How I do an accessibility audit](https://youtu.be/cOmehxAU_4s)
 - [Accessibility Devtools Extension](https://chrome.google.com/webstore/detail/accessibility-developer-t/fpkknkljclfencbdbgkenhalefipecmb)
