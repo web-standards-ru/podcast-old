@@ -131,5 +131,10 @@
 
 Полные или частичные расшифровки выпусков лежат в папке [transcripts](https://github.com/web-standards-ru/podcast/tree/master/transcripts). Хотите помочь с расшифровкой любимых выпусков? [Заходите в ишью](https://github.com/web-standards-ru/podcast/issues).
 
+## Интеграция с itunes подкастами
+
+Информация парсится из *.md файлов каждого эпизода и генерится в файл `./itunes/itunes-result.xml`.
+Для запуска парсера необходимо запустить комнанду `npm run itunes`.
+
 ---
 Распространяется под лицензией [СС BY-NC-ND 4.0](LICENSE.md).
