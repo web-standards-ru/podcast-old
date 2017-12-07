@@ -10,8 +10,8 @@ const moment = require('moment');
 moment.locale('RU');
 
 const MD_FOLDER = `${__dirname}/../episodes/`;
-const XML_ITEM_STREAM = readFileSync(`${__dirname}/_tpl-item.xml`);
-const XML_WRAPPER_STREAM = readFileSync(`${__dirname}/_tpl-wrapper.xml`);
+const XML_ITEM_TPL = readFileSync(`${__dirname}/_tpl-item.xml`).toString();
+const XML_WRAPPER_TPL = readFileSync(`${__dirname}/_tpl-wrapper.xml`).toString();
 
 /**
  * @param DATE_PARSE_FORMAT 1 января 20017
@@ -33,14 +33,31 @@ readdir(MD_FOLDER, (err, files) => {
 
     Promise.all(episodes.map(episode => prepareTemplate(episode)))
         .then(res => {
-            // const XML_ITEMS_ARRAY = [];
+            const XML_ITEMS_ARRAY = [];
 
-            // Object.keys(res,)
+            // Run foreach cycle to prepare XML array
+            res.forEach((episode) => {
+                let raw = XML_ITEM_TPL;
 
-            console.log(res);
+                Object.keys(episode).forEach(key => {
+                    raw = raw.replace(`{% ${key} %}`, episode[key]);
+                })
+
+                XML_ITEMS_ARRAY.push(raw);
+            })
+
+            createWriteStream(`${__dirname}/itunes-result.xml`)
+                .once('open', function(err) {
+                    const content = XML_WRAPPER_TPL.replace('{% items %}', XML_ITEMS_ARRAY.join('\n'));
+                    this.write(content);
+                    this.end();
+                })
+                .on('close', () => console.log(`Succesfully written file '${__dirname}/itunes-result.xml'`))
+                .on('error', () => console.error('Something wrong try again'));
         })
         .catch(err => console.error(err));
 
+    // TODO remove before production, denug only
     /* prepareTemplate(episodes[94])
         .then(res => console.log(res))
         .catch(err => console.error(err)); */
