@@ -1,0 +1,21 @@
+ <?xml version="1.0" encoding="UTF-8"?>
+  <rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+  <channel>
+    <title>Подкаст «Веб-стандарты»</title>
+    <link>https://itunes.apple.com/ru/podcast/veb-standarty/id1080500016</link>
+    <language></language>
+    <copyright></copyright>
+    <itunes:subtitle></itunes:subtitle>
+    <itunes:author></itunes:author>
+    <itunes:summary></itunes:summary>
+    <itunes:owner>
+      <itunes:name></itunes:name>
+      <itunes:email></itunes:email>
+    </itunes:owner>
+    <itunes:image href="" />
+    <itunes:category text=""/>
+
+      {% items %}
+
+  </channel>
+  </rss>
