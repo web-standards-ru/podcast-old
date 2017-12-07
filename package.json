@@ -3,7 +3,8 @@
   "scripts": {
     "test": "yaspeller episodes",
     "text": "demarked",
-    "html": "marked"
+    "html": "marked",
+    "itunes": "node itunes"
   },
   "dependencies": {
     "demarked": "^0.0.3",

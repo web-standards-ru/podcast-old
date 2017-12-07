@@ -15,7 +15,7 @@
     <itunes:image href="" />
     <itunes:category text=""/>
 
-      {% items %}
+{% items %}
 
   </channel>
   </rss>

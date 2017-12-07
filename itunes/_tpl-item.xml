@@ -1,14 +1,14 @@
 <item>
-  <title>Выпуск {% N %}</title>
-  <pubDate>{% pubdate %}</pubDate>
+  <title>{% title %}</title>
+  <pubDate>{% date %}</pubDate>
   <itunes:duration>{% duration %}</itunes:duration>
-  <itunes:author>Ольга Алексашенко, Вадим Макеев, Алексей Симоненко</itunes:author>
+  <itunes:author>{% authors %}</itunes:author>
   <itunes:explicit>no</itunes:explicit>
   <itunes:summary>{% description %}</itunes:summary>
   <itunes:subtitle>{% subtitle %}</itunes:subtitle>
   <description>
       {% html %}
   </description>
-  <enclosure type="audio/x-m4a" url="https://web-standards.ru/podcast/episodes/{% N %}.mp3" length="{% duration.ms %}"/>
+  <enclosure type="audio/x-m4a" url="https://web-standards.ru/podcast/episodes/{% N %}.mp3" length="{% size %}"/>
   <itunes:image href="https://web-standards.ru/podcast/cover.jpg"/>
 </item>
