@@ -1,5 +1,6 @@
 const {
     readdir,
+    existsSync,
     readFile,
     createWriteStream,
     readFileSync,
@@ -9,9 +10,17 @@ const moment = require('moment');
 
 moment.locale('RU');
 
+const TPL_FOLDER = process.argv[2];
+
+if (TPL_FOLDER === undefined || !existsSync(`${__dirname}/${TPL_FOLDER}`)) {
+    return console.error('Make sure that you entered a valid directory with templates');
+}
+
 const MD_FOLDER = `${__dirname}/../episodes/`;
-const XML_ITEM_TPL = readFileSync(`${__dirname}/_tpl-item.xml`).toString();
-const XML_WRAPPER_TPL = readFileSync(`${__dirname}/_tpl-wrapper.xml`).toString();
+const XML_ITEM_TPL = readFileSync(`${__dirname}/${TPL_FOLDER}/_tpl-item.xml`).toString();
+const XML_WRAPPER_TPL = readFileSync(`${__dirname}/${TPL_FOLDER}/_tpl-wrapper.xml`).toString();
+
+
 
 /**
  * @param DATE_PARSE_FORMAT 1 января 20017
@@ -46,7 +55,7 @@ readdir(MD_FOLDER, (err, files) => {
                 XML_ITEMS_ARRAY.push(raw);
             })
 
-            createWriteStream(`${__dirname}/itunes-result.xml`)
+            createWriteStream(`${__dirname}/${TPL_FOLDER}/result.xml`)
                 .once('open', function(err) {
                     const content = XML_WRAPPER_TPL.replace('{% items %}', XML_ITEMS_ARRAY.join('\n'));
                     this.write(content);
