@@ -1,6 +1,6 @@
 # Выпуск №69. 22 мая 2017
 
-Описание.
+Samsung, Safari, Google I/O, Git в Atom, GitHub Desktop, Box Alignment, Lazy Image, Лия и Mavo, ППК и формы, фронтенд заговорил, Perf.HTML, ES-модули.
 
 - Вадим Макеев
 - Алексей Симоненко
