@@ -7,6 +7,9 @@ const {
 } = require('fs');
 const { get } = require('https');
 const moment = require('moment');
+const showdown = require('showdown');
+const converter = new showdown.Converter({ noHeaderId: true });
+const xmlBeautifier = require('xml-beautifier');
 
 moment.locale('RU');
 
@@ -58,7 +61,7 @@ readdir(MD_FOLDER, (err, files) => {
             createWriteStream(`${__dirname}/${TPL_FOLDER}/result.xml`)
                 .once('open', function(err) {
                     const content = XML_WRAPPER_TPL.replace('{% items %}', XML_ITEMS_ARRAY.join('\n'));
-                    this.write(content);
+                    this.write(xmlBeautifier(content));
                     this.end();
                 })
                 .on('close', () => console.log(`Succesfully written file '${__dirname}/itunes-result.xml'`))
@@ -92,9 +95,10 @@ function prepareTemplate(file) {
 
             const N = header.match(/\d+/)[0];
             const title = header.match(/\S+\s+.\d+\./)[0];
-            const subtitle = paragraphs[1];
+            const subtitle = paragraphs[1].replace('<picture>', '');
             const dateRaw = header.match(/\d+\s.+/) ? header.match(/\d+\s.+/)[0] : '';
             const date = moment(dateRaw, DATE_PARSE_FORMAT).locale('en').format(DATE_SHOW_FORMAT);
+            const html = converter.makeHtml(content.replace(/^#.*\n\n/, '# '));
 
             /**
              * fabric to create array of authors
@@ -124,7 +128,7 @@ function prepareTemplate(file) {
              */
             return getMp3Length(N)
                 .then(lenght => process.nextTick(resolve(
-                    { N, title, subtitle, date, authors: authors.join(', '), size: lenght.size, duration: lenght.duration })))
+                    { N, title, subtitle, date, authors: authors.join(', '), size: lenght.size, duration: lenght.duration, html })))
                 .catch(err => reject(err));
 
         })

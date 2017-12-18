@@ -7,7 +7,9 @@
   <itunes:summary>{% description %}</itunes:summary>
   <itunes:subtitle>{% subtitle %}</itunes:subtitle>
   <description>
+    <![CDATA[
       {% html %}
+    ]]>
   </description>
   <enclosure type="audio/x-m4a" url="https://web-standards.ru/podcast/episodes/{% N %}.mp3" length="{% size %}"/>
   <itunes:image href="https://web-standards.ru/podcast/cover.jpg"/>
