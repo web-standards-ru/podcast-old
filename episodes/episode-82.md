@@ -9,7 +9,7 @@ Safari, Stylo, PWA и Android, Polymer 3.0, читайте Шорты, React и�
 [Слушайте на SoundCloud](https://soundcloud.com/web-standards/episode-N)
 [Обсуждайте в Слаке](http://slack.web-standards.ru/)
 
-## События (00:11:00)
+## События (00:00:11)
 
 - [LvivJS во Львове 26 августа](http://lvivjs.org.ua/)
 - [DevFest Siberia в Новосибирске 23—24 сентября](https://gdg-siberia.com/ru/schedule/)

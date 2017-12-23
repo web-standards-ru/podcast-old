@@ -9,7 +9,7 @@
 [Слушайте на SoundCloud](https://soundcloud.com/web-standards/episode-50)
 [Обсуждайте в Слаке](http://slack.web-standards.ru/)
 
-## События (00:19)
+## События (00:00:19)
 
 - [WSD в Москве 28 января](https://wsd.events/2017/01/28/)
 - [Rolling Scopes в Минске 18—19 февраля](https://2017.conf.rollingscopes.com/)
@@ -18,31 +18,31 @@
 - [CSS Day в Амстердаме 15—16 июня](https://cssday.nl/2017)
 - [Фронтирник №3](https://vk.com/frontirnik_3)
 
-## Адаптивный дизайн (04:04)
+## Адаптивный дизайн (00:04:04)
 
 - [The Current State of Adaptive Design](https://medium.com/p/6b2b89b258c4)
 - [Affinity Designer 1.5: Constraints](https://vimeo.com/182383578)
 
-## Переход на CSS (15:56)
+## Переход на CSS (00:15:56)
 
 - [From Sass to PostCSS](https://tylergaw.com/articles/sass-to-postcss)
 - [CSS Working Group Editor Drafts](https://drafts.csswg.org/)
 - [Step-by-step Publishing a CSS Spec](https://wiki.csswg.org/spec/publish)
 
-## Ванильный JS (33:23)
+## Ванильный JS (00:33:23)
 
 - [How I converted my React app to VanillaJS](https://medium.com/p/4b14b1b2faff)
 
-## Жестокий опенсорс (37:25)
+## Жестокий опенсорс (00:37:25)
 
 - [Dear JavaScript](https://medium.com/p/7e14ffcae36c)
 - [Дорогой JavaScript](https://habr.ru/p/316978/)
 
-## Доступные примеры (48:00)
+## Доступные примеры (00:48:00)
 
 - [Accessibility OpenAjax Examples](http://oaa-accessibility.org/)
 
-## Аутлайн (50:35)
+## Аутлайн (00:50:35)
 
 - [Что касается аутлайна](http://straykov.ru/blog/all/outline-none/)
 - [Кодельная](http://codecode.ru/)
@@ -50,6 +50,6 @@
 - [`a { outline: none; }` Don’t Do It!](http://www.outlinenone.com/)
 - [Reset Revisited](http://meyerweb.com/eric/thoughts/2011/01/03/reset-revisited/)
 
-## Вёрстка логотипа (58:20)
+## Вёрстка логотипа (00:58:20)
 
 - [Логотип не отвечает или временно недоступен](http://css.yoksel.ru/a11y-for-logotypes/)

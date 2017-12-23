@@ -10,7 +10,7 @@
 [Слушайте на SoundCloud](https://soundcloud.com/web-standards/episode-56)
 [Обсуждайте в Слаке](http://slack.web-standards.ru/)
 
-## События (01:42)
+## События (00:01:42)
 
 - [Видео с KyivJS](https://youtu.be/VUyqHzF1yXM?list=PLxw9RJPDS60rSfHr_srQ2xgqBgjeYBUhe)
 - [Pitercss №10 в Питере 21 февраля](https://pitercss.timepad.ru/event/442550/)
@@ -24,7 +24,7 @@
 - [Rolling Scopes 2017](https://2017.conf.rollingscopes.com/)
 - [Frontend Dev Conf в Минске 6—7 апреля](http://unitedconf.com/category/dokladchiki/frontend-dev-conf/)
 
-## Новинки Chrome (09:10)
+## Новинки Chrome (00:09:10)
 
 - [Trailing commas in function parameters](https://www.chromestatus.com/feature/5656834660630528)
 - [Throttle expensive background timers](http://blog.strml.net/2017/01/chrome-56-now-aggressively-throttles.html)
@@ -33,21 +33,21 @@
 - [Reload, reloaded: faster and leaner page reloads](https://blog.chromium.org/2017/01/reload-reloaded-faster-and-leaner-page_26.html)
 - [Web Share API brings the native sharing capabilities](https://blog.hospodarets.com/web-share-api)
 
-## Плохой Base64 (28:38)
+## Плохой Base64 (00:28:38)
 
 - [What’s Up with Base64?](https://csswizardry.com/2017/02/base64-encoding-and-performance/)
 - [Gathering Data](https://csswizardry.com/2017/02/base64-encoding-and-performance-part-2/)
 
-## Отладчик WebKit (39:34)
+## Отладчик WebKit (00:39:34)
 
 - [JavaScript Debugging Improvements](https://webkit.org/blog/7219/javascript-debugging-improvements/)
 
-## Нативные ES-модули (46:00)
+## Нативные ES-модули (00:46:00)
 
 - [Native ECMAScript modules: dynamic `import()`](https://blog.hospodarets.com/native-ecmascript-modules-dynamic-import)
 - [Making transpiled ES modules more spec-compliant](http://www.2ality.com/2017/01/babel-esm-spec-mode.html)
 
-## Модули в Node.js, Webpack и V8 (55:18)
+## Модули в Node.js, Webpack и V8 (00:55:18)
 
 - [An Update on ES6 Modules in Node.js](https://medium.com/p/42c958b890c)
 - [High-performance ES2015 and beyond](https://v8project.blogspot.com.by/2017/02/high-performance-es2015-and-beyond.html)

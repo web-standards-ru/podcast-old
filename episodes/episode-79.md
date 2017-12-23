@@ -10,7 +10,7 @@
 [Слушайте на SoundCloud](https://soundcloud.com/web-standards/episode-79)
 [Обсуждайте в Слаке](http://slack.web-standards.ru/)
 
-## События (00:12)
+## События (00:00:12)
 
 - [Яндекс Субботник в Питере](https://events.yandex.ru/events/yasubbotnik/12-august-2017/) 12 августа
 - [LvivJS во Львове](http://lvivjs.org.ua/) 26 августа
@@ -18,34 +18,34 @@
 - [Pitercss_meetup в Питере](https://pitercss.timepad.ru) в конце августа
 - [Moscow Frontend Conference в Москве](http://frontconf.moscow/) 2 сентября
 
-## Сервис-воркеры (02:35)
+## Сервис-воркеры (00:02:35)
 
 - [Service Workers: In Development](https://bugs.webkit.org/attachment.cgi?id=317095&action=prettypatch)
 - [Нашёл Джейк Арчибальд](https://twitter.com/jaffathecake/status/893009005714472961)
 - [Подтвердил Джонатан Дэвис](https://twitter.com/jonathandavis/status/893138827908333568)
 - [Apple’s refusal to support PWA](https://medium.com/p/e81b2be29676)
 
-## Загрузка шрифтов (13:09)
+## Загрузка шрифтов (00:13:09)
 
 - [Crafting Webfont Fallbacks](https://youtu.be/tO01ul1WNW8)
 - [Посторонние шрифты](https://youtu.be/MTQ9FpT3ayc)
 - [Font Aliasing, or How to Rename a Font in CSS](https://www.zachleat.com/web/rename-font/)
 
-## GridBugs (27:32)
+## GridBugs (00:27:32)
 
 - [Gridbugs](https://github.com/rachelandrew/gridbugs)
 - [Adding row-gap and column-gap to flexbox](https://twitter.com/rachelandrew/status/893450430512017408)
 
-## Бумажные книги (37:13)
+## Бумажные книги (00:37:13)
 
 - [jQuery в действии. 3-е издание](https://www.piter.com/product_by_id/85800871)
 - [jQuery in Action, third edition](https://github.com/AurelioDeRosa/jquery-in-action)
 
-## Picture на практике (43:25)
+## Picture на практике (00:43:25)
 
 - [Responsive Images: Use Cases and Code Snippets](https://dev.opera.com/articles/responsive-images/)
 
-## Тяжёлые пакеты (51:12)
+## Тяжёлые пакеты (00:51:12)
 
 - [What is the cost of my npm package ?](https://cost-of-modules.herokuapp.com/)
 - [Import Cost](https://marketplace.visualstudio.com/items?itemName=wix.vscode-import-cost)

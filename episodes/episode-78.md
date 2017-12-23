@@ -10,7 +10,7 @@ Chrome 60, Stylo, Flash 1996—2020, статистика браузеров, с
 [Слушайте на SoundCloud](https://soundcloud.com/web-standards/episode-78)
 [Обсуждайте в Слаке](http://slack.web-standards.ru/)
 
-## События (00:12)
+## События (00:00:12)
 
 - [RamblerFront& meetup №2 в Москве 3 августа](https://habr.ru/p/333834/)
 - [Яндекс Субботник по фронтенду в Петербурге 12 августа](https://events.yandex.ru/events/yasubbotnik/12-august-2017/)
@@ -18,43 +18,43 @@ Chrome 60, Stylo, Flash 1996—2020, статистика браузеров, с
 - [CSS Minsk JS в Минске 10 сентября](http://css-minsk-js.by/)
 - [Школа Node.js в Петербурге 18 сентября—7 ноября](https://academy.yandex.ru/events/frontend/spb-2017/)
 
-## Новости! (03:09)
+## Новости! (00:03:09)
 
-## Chrome 60 (05:01)
+## Chrome 60 (00:05:01)
 
 - [Chrome 60](https://youtu.be/vE7JTf2_-ws)
 - [Found bugs we didn’t like, pushed back to M61](https://twitter.com/ChromiumDev/status/890998160729849856)
 
-## Stylo (11:03)
+## Stylo (00:11:03)
 
 - [Stylo is ready for community testing on Nightly!](https://blog.nightly.mozilla.org/2017/07/25/stylo-is-ready-for-community-testing-on-nightly/)
 
-## Flash 1996—2020 (14:52)
+## Flash 1996—2020 (00:14:52)
 
 - [Flash & The Future of Interactive Content](https://blogs.adobe.com/conversations/2017/07/adobe-flash-update.html)
 
-## Статистика браузеров (22:43)
+## Статистика браузеров (00:22:43)
 
 - [Браузеры по данным Яндекс Метрики](https://radar.metrika.yandex/browsers?device-category=1&selected_rows=Ct58LP%252CRysHuf%252CnmpVtr%252C%252Fl27zq%252C%252BjXhkh%252Ce1IAm2&chart_type=line-chart)
 
-## Сброс стилей (28:47)
+## Сброс стилей (00:28:47)
 
 - [Нормальный сброс](https://youtu.be/KGYmOlNteas)
 - [PostCSS Initial](https://github.com/maximkoretskiy/postcss-initial)
 
-## Большой текст (38:55)
+## Большой текст (00:38:55)
 
 - [Your Body Text Is Too Small](https://blog.marvelapp.com/body-text-small/)
 
-## Доступные подсказки (47:47)
+## Доступные подсказки (00:47:47)
 
 - [Tooltips & Toggletips](https://inclusive-components.design/tooltips-toggletips/)
 
-## Порядок элементов (52:45)
+## Порядок элементов (00:52:45)
 
 - [Does reordering content affect accessibility?](https://youtu.be/8MAvH6vYbDo)
 
-## Новинки ES (59:24)
+## Новинки ES (00:59:24)
 
 - [July 2017 Proposals](https://github.com/babel/proposals/issues/19)
 - [Binary AST](https://github.com/syg/ecmascript-binary-ast/)

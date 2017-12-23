@@ -10,35 +10,35 @@
 [Слушайте на SoundCloud](https://soundcloud.com/web-standards/episode-46)
 [Обсуждайте в Слаке](http://slack.web-standards.ru/)
 
-## События (00:19)
+## События (00:00:19)
 
 - [Я.Субботник по фронтенду](https://events.yandex.ru/events/yasubbotnik/10-dec-2016/)
 - [HolyJS в Москве 11 декабря](http://holyjs.ru/)
 - [Билеты на JSConf](http://2017.jsconf.eu/news/2016/11/29/tickets/)
 - [Билеты на CSSConf](http://blog.cssconf.eu/2016/12/07/cssconfeu-tickets-2017/)
 
-## Новинки Edge (04:30)
+## Новинки Edge (00:04:30)
 
 - [Edge on Windows 10 build 14986](https://developer.microsoft.com/en-us/microsoft-edge/platform/changelog/desktop/14986/)
 
-## Safari TP19 (11:27)
+## Safari TP19 (00:11:27)
 
 - [Release Notes for Safari TP19](https://webkit.org/blog/7093/release-notes-for-safari-technology-preview-19/)
 - [Не гзипом единым, Георгий Мостоловица](https://events.yandex.ru/lib/talks/3351/)
 
-## Где учиться (26:49)
+## Где учиться (00:26:49)
 
 - [Куда пойти учиться программисту](https://vc.ru/p/csssr-programming)
 
-## Сообщения коммитов (35:58)
+## Сообщения коммитов (00:35:58)
 
 - [Как писать сообщения коммитов](http://frontiermag.ru/commit-message.html)
 
-## Анимация и рендеринг (42:59)
+## Анимация и рендеринг (00:42:59)
 
 - [Анимации на GPU: делаем это правильно](https://habrahabr.ru/company/odnoklassniki/blog/313978/)
 
-## CSS в CSS (49:54)
+## CSS в CSS (00:49:54)
 
 - [Virtual CSS with Styletron](https://ryantsao.com/blog/virtual-css-with-styletron)
 - [Styled JSX](https://github.com/zeit/styled-jsx)

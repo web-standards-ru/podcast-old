@@ -9,7 +9,7 @@ Chromium 54, Safari TP16, Mozilla, Servo и разработка движков,
 [Слушайте на SoundCloud](https://soundcloud.com/web-standards/episode-40)
 [Обсуждайте в Слаке](http://slack.web-standards.ru/)
 
-## События (00:25)
+## События (00:00:25)
 
 - [Видео с WSD в Минске](https://youtu.be/cOTOSbjet_8)
 - [Слайды с WSD в Минске](https://wsd.events/2016/10/29/#schedule)
@@ -23,45 +23,45 @@ Chromium 54, Safari TP16, Mozilla, Servo и разработка движков,
 - [WSD в Киеве 26 ноября](https://wsd.events/2016/11/26/)
 - [Канал events в Слаке](https://web-standards.slack.com/messages/events/)
 
-## Chromium 54 (06:40)
+## Chromium 54 (00:06:40)
 
 - [What’s new in Chromium 54 and Opera 41](https://dev.opera.com/blog/opera-41/)
 
-## Safari TP16 и Apple Pay (09:35)
+## Safari TP16 и Apple Pay (00:09:35)
 
 - [Release Notes for Safari Technology Preview 16](https://webkit.org/blog/7030/release-notes-for-safari-technology-preview-16/)
 - [EmporiumWeb, пример Apple Pay](https://developer.apple.com/library/content/samplecode/EmporiumWeb/Introduction/Intro.html)
 - [Apple на Гитхабе](https://github.com/apple)
 
-## Mozilla, Servo, разработка движков (16:58)
+## Mozilla, Servo, разработка движков (00:16:58)
 
 - [A Quantum Leap for the Web](https://medium.com/p/a3b7174b3c12)
 - [Mozilla’s Quantum Project](https://billmccloskey.wordpress.com/2016/10/27/mozillas-quantum-project/)
 
-## Таблицы по стандартам (36:33)
+## Таблицы по стандартам (00:36:33)
 
 - [CSS Table Module Level 3](https://www.w3.org/TR/2016/WD-css-tables-3-20161025/)
 
-## Node.js 7 (38:47)
+## Node.js 7 (00:38:47)
 
 - [Node.js v7.0](https://nodejs.org/en/blog/release/v7.0.0/)
 
-## Стандарты и полифилы (41:03)
+## Стандарты и полифилы (00:41:03)
 
 - [Add `document.{interactive,contentLoaded,loaded}` promises](https://github.com/whatwg/html/pull/1936)
 - [Please rename ASAP](https://github.com/jonathantneal/document-promises/issues/4)
 
-## Забытый `border-image` (46:24)
+## Забытый `border-image` (00:46:24)
 
 - [Еще раз про `border-image`](http://css-live.ru/articles-css/understanding-border-image.html)
 - [Can I Use: `border-image`](http://caniuse.com/#feat=border-image)
 - [Slicing SVG 9 Ways](https://aerotwist.com/blog/slicing-svg-9-ways/)
 
-## Базовый SVG (52:05)
+## Базовый SVG (00:52:05)
 
 - [Как проектировать, создавать и анимировать SVG](https://htmlacademy.ru/blog/127-a-guide-to-svg-on-web)
 
-## Возвращение Дейва Шей (52:52)
+## Возвращение Дейва Шей (00:52:52)
 
 - [Photo Toning with Gradients & Blend Modes](http://daveshea.com/2016/10/24/photo-toning.html)
 - [CSS Zen Garden](http://www.csszengarden.com/)

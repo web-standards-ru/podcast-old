@@ -10,32 +10,32 @@ CSS Minsk JS, сложности DevTools, Storage API в Firefox, DRM и W3C, �
 [Слушайте на SoundCloud](https://soundcloud.com/web-standards/episode-77)
 [Обсуждайте в Слаке](http://slack.web-standards.ru/)
 
-## События (00:11)
+## События (00:00:11)
 
 - [NodeSchool SPb в Петербурге 29 июля](https://github.com/nodeschool/spb/issues/55)
 - [KharkivJS в Харькове 28–29 октября](http://kharkivjs.org/)
 - [CSS-Minsk-JS в Минске 10 сентября](http://css-minsk-js.by/)
 
-## Новинки DevTools (10:23)
+## Новинки DevTools (00:10:23)
 
 - [What’s New In DevTools](https://developers.google.com/web/updates/2017/07/devtools-release-notes)
 
-## Storage API в Firefox (22:10)
+## Storage API в Firefox (00:22:10)
 
 - [Preview Storage API in Firefox Nightly](https://blog.nightly.mozilla.org/2017/07/17/preview-storage-api-in-firefox-nightly/)
 
-## DRM и W3C (28:13)
+## DRM и W3C (00:28:13)
 
 - [Как в HTML DRM внедрили: измена или эволюция?](http://www.computerra.ru/168310/eme/)
 - [Encrypted Media Extensions](https://www.w3.org/TR/encrypted-media/)
 
-## Чистка CSS (47:03)
+## Чистка CSS (00:47:03)
 
 - [UnCSS](https://github.com/giakki/uncss)
 - [PurifyCSS](https://github.com/purifycss/purifycss)
 - [Где используются прототипы, наследование в JS приложениях?](https://toster.ru/q/443103)
 
-## Вброс и Шорты (56:11)
+## Вброс и Шорты (00:56:11)
 
 - [Где используются прототипы, наследование в JS-приложениях?](https://toster.ru/q/443103)
 - [Прятки на CSS: display: none, visibility: hidden?](https://youtu.be/Ns0zijQJxH4)

@@ -9,7 +9,7 @@
 [Слушайте на SoundCloud](https://soundcloud.com/web-standards/episode-N)
 [Обсуждайте в Слаке](http://slack.web-standards.ru/)
 
-## События (00:20:00)
+## События (00:00:20)
 
 - [CSS-Minsk-JS в Минске 10 сентября](http://css-minsk-js.by/)
 - [FrontTalks в Екатеринбурге 16—17 сентября](http://fronttalks.ru/)

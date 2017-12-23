@@ -10,22 +10,22 @@ Firefox 55, Samsung есть, Safari виднее, алгоритмы и пат�
 [Слушайте на SoundCloud](https://soundcloud.com/web-standards/episode-N)
 [Обсуждайте в Слаке](http://slack.web-standards.ru/)
 
-## События (01:48)
+## События (00:01:48)
 
 - [Трансляция с Яндекс Субботника в Питере](https://youtu.be/MKrX3Fld-WI)
 - [LvivCSS во Львове 11 ноября](http://www.lvivcss.com.ua/)
 - [Календарь событий по фронтенду](https://github.com/web-standards-ru/calendar)
 
-## Firefox (08:39)
+## Firefox (00:08:39)
 
 - [Новинки Firefox 55 для разработчиков](http://tanalin.com/blog/2017/08/firefox-55/)
 - [Intersection Observer comes to Firefox](https://hacks.mozilla.org/2017/08/intersection-observer-comes-to-firefox/)
 
-## Samsung (15:47)
+## Samsung (00:15:47)
 
 - [Big news for our new Samsung Internet beta v6.2!](https://medium.com/p/6199b6743cb9)
 
-## Safari (24:39)
+## Safari (00:24:39)
 
 - [Safari TP Release 37](https://webkit.org/blog/7862/release-notes-for-safari-technology-preview-release-37/)
 - [Well this makes me happy](https://twitter.com/jaffathecake/status/895272929587597312)
@@ -33,20 +33,20 @@ Firefox 55, Samsung есть, Safari виднее, алгоритмы и пат�
 - [Grid Layout in Chromium Dev Tools](https://twitter.com/regocas/status/896027967876476928)
 - [CSS Grid Highlighter](https://github.com/ademilter/chrome-css-grid-highlighter)
 
-## Алгоритмы и паттерны (33:28)
+## Алгоритмы и паттерны (00:33:28)
 
 - [Нужно ли фронтендеру знать алгоритмы и паттерны?](https://youtu.be/e2nW8Lq4zho)
 
-## Прозрачный JPG (38:25)
+## Прозрачный JPG (00:38:25)
 
 - [JPNG.svg](https://codepen.io/shshaw/full/LVKEdv)
 
-## Телеграм (43:13)
+## Телеграм (00:43:13)
 
 - [Виталий Харисов в Телеграме](https://t.me/webo_ru)
 - [Bootstrap 4 Beta](https://blog.getbootstrap.com/2017/08/10/bootstrap-4-beta/)
 
-## Приоритеты загрузки (52:22)
+## Приоритеты загрузки (00:52:22)
 
 - [Критический запрос](https://medium.com/p/ac20b5267e4a)
 

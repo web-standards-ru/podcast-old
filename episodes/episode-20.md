@@ -10,7 +10,7 @@
 [Слушайте на SoundCloud](https://soundcloud.com/web-standards/episode-20)
 [Обсуждайте в Слаке](http://slack.web-standards.ru/)
 
-## События (00:13)
+## События (00:00:13)
 
 - [PiterCSS №5 17 июня](https://pitercss.timepad.ru/event/340787/)
 - [WSD в Екатеринбурге](https://wsd.events/2016/06/25/)
@@ -21,7 +21,7 @@
 - [JSConf AU](http://2016.jsconfau.com/)
 - [CSSConf AU](http://2015.cssconf.com.au/)
 
-## Релизы недели (06:10)
+## Релизы недели (00:06:10)
 
 - [Firefox 47](http://tanalin.com/blog/2016/06/firefox-47/)
 - [WebExtensions API](https://wiki.mozilla.org/WebExtensions)
@@ -30,22 +30,22 @@
 - [Presentation API](https://w3c.github.io/presentation-api/)
 - [jQuery 3.0](http://blog.jquery.com/2016/06/09/jquery-3-0-final-released/)
 
-## Практический CSS (17:06)
+## Практический CSS (00:17:06)
 
 - [Avoid Overstyling Base Styles](http://snook.ca/archives/html_and_css/avoid-overstyling-base-styles)
 - [CSS at BBC Sport](https://medium.com/p/bab546184e66)
 - [Do websites need to look exactly the same in every browser?](http://dowebsitesneedtolookexactlythesameineverybrowser.com/)
 
-## Типографика на SVG (23:01)
+## Типографика на SVG (00:23:01)
 
 - [Type Terms](https://www.supremo.tv/typeterms/)
 
-## Чёртов открытый веб (25:38)
+## Чёртов открытый веб (00:25:38)
 
 - [The Fucking Open Web](https://hueniverse.com/2016/06/08/the-fucking-open-web/)
 - [PWA Discovery: You Ain’t Seen Nothin Yet](https://infrequently.org/2016/06/pwa-discovery-you-aint-seen-nothin-yet/)
 
-## Как дела в Adobe (39:49)
+## Как дела в Adobe (00:39:49)
 
 - [Dmitry Baranovskiy’s Web Log](http://dmitry.baranovskiy.com/)
 - [Эдоуби](https://ru.wikipedia.org/wiki/Adobe_Systems)

@@ -9,48 +9,48 @@ Samsung, Safari, Google I/O, Git в Atom, GitHub Desktop, Box Alignment, Lazy Im
 [Слушайте на SoundCloud](https://soundcloud.com/web-standards/episode-69)
 [Обсуждайте в Слаке](http://slack.web-standards.ru/)
 
-## События (00:16)
+## События (00:00:16)
 
 - [Видео с pitercss_meetup №13](https://youtu.be/b_3lqYrcY-4)
 - [Pitercss_conf 16 июня](https://pitercss.com/)
 
-## Samsung (03:45)
+## Samsung (00:03:45)
 
 - [Announcing Samsung Internet v5.4 stable!](https://medium.com/p/fd941e0dcd58)
 - [Hacker News readers as Progressive Web Apps](https://hnpwa.com/)
 
-## Safari (12:48)
+## Safari (00:12:48)
 
 - [Safari Technology Preview 30](https://webkit.org/blog/7614/release-notes-for-safari-technology-preview-30/)
 - [Responsive Design for Motion](https://webkit.org/blog/7551/responsive-design-for-motion/)
 
-## Google I/O (20:07)
+## Google I/O (00:20:07)
 
 - [Google I/O 2017 All Sessions](https://www.youtube.com/playlist?list=PLOU2XLYxmsIKC8eODk_RNCWv3fBcLvMMy)
 
-## Git в Atom (21:49)
+## Git в Atom (00:21:49)
 
 - [Git and GitHub Integration comes to Atom](http://blog.atom.io/2017/05/16/git-and-github-integration-comes-to-atom.html)
 
-## GitHub Desktop (32:31)
+## GitHub Desktop (00:32:31)
 
 - [How Four Native Developers Wrote An Electron App](https://githubengineering.com/how-four-native-developers-wrote-an-electron-app/)
 
-## Box Alignment (40:32)
+## Box Alignment (00:40:32)
 
 - [Box alignment: `justify-content: space-evenly`](https://codepen.io/matuzo/pen/GmXVWo)
 - [Свойства для выравнивания всего и их новые тайны](http://css-live.ru/articles-css/svojstva-dlya-vyravnivaniya-vsego-i-ix-novye-tajny.html)
 - [Наклейки для бейджей WSD](https://github.com/web-standards-ru/stickers)
 
-## Lazy Image (46:58)
+## Lazy Image (00:46:58)
 
 - [`<lazy-image>`](https://meowni.ca/lazy-image/)
 
-## Лия и Mavo (53:07)
+## Лия и Mavo (00:53:07)
 
 - [Introducing Mavo: Create Web Apps Entirely By Writing HTML!](https://www.smashingmagazine.com/2017/05/introducing-mavo/)
 
-## ППК и формы (59:33)
+## ППК и формы (00:59:33)
 
 - [Native form validation — part 3](https://medium.com/p/8e643e1dd06)
 

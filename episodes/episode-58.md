@@ -10,7 +10,7 @@
 [Слушайте на SoundCloud](https://soundcloud.com/web-standards/episode-58)
 [Обсуждайте в Слаке](http://slack.web-standards.ru/)
 
-## События (00:12)
+## События (00:00:12)
 
 - [Moscowcss №1 в Москве 2 марта](https://moscowcss.timepad.ru/event/443474/)
 - [KhJS №1 в Харькове 11 марта](http://khjs.org/)
@@ -22,42 +22,42 @@
 - [Как смотреть видео с фронтенд-конференций](https://medium.com/p/e0a088cece23)
 - [Video Speed Controller](https://chrome.google.com/webstore/detail/video-speed-controller/nffaoalbilbmmfgbnbgppjihopabppdk?hl=en)
 
-## Жирненький Firefox 52 (09:40)
+## Жирненький Firefox 52 (00:09:40)
 
 - [Firefox 52 for developers](https://developer.mozilla.org/en-US/Firefox/Releases/52)
 - [A cartoon intro to WebAssembly](https://hacks.mozilla.org/2017/02/a-cartoon-intro-to-webassembly/)
 
-## История Firefox OS (19:10)
+## История Firefox OS (00:19:10)
 
 - [The Story of Firefox OS](https://medium.com/p/cb5bf796e8fb)
 
-## Руководства по гридам (28:00)
+## Руководства по гридам (00:28:00)
 
 - [Codrops CSS Reference: Grid](https://tympanus.net/codrops/css_reference/grid/)
 - [Basic concepts of grid layout](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Grid_Layout/Basic_Concepts_of_Grid_Layout)
 - [Learn Grid Layout Video Series](http://gridbyexample.com/video/)
 
-## Кастомные свойства (30:42)
+## Кастомные свойства (00:30:42)
 
 - [Основы пользовательских свойств CSS](http://zmeika.name/2017/03/02/custom-css-properties-basics.html)
 
-## Прогрессивное улучшение CSS (32:37)
+## Прогрессивное улучшение CSS (00:32:37)
 
 - [CSS and progressive enhancement](https://justmarkup.com/log/2017/02/css-and-progressive-enhancement/)
 
-## Метрики шрифта (36:05)
+## Метрики шрифта (00:36:05)
 
 - [Метрики шрифта, `line-height` и `vertical-align`](http://css-live.ru/css/metriki-shrifta-line-height-vertical-align.html)
 
-## Инструменты PWA (39:16)
+## Инструменты PWA (00:39:16)
 
 - [Progressive Web App Libraries in Production](https://medium.com/p/b52cad37d34)
 
-## Верните Гитхаб (45:20)
+## Верните Гитхаб (00:45:20)
 
 - [GitHub just rolled better contrast & a11y](https://twitter.com/_developit/status/836970184854339586)
 
-## Собеседование на бумажке (53:20)
+## Собеседование на бумажке (00:53:20)
 
 - [Anti-whiteboard movement](https://twitter.com/i/moments/835942450103451649)
 - [Trading whiteboards for code reviews](http://hugogiraudel.com/2017/02/27/trading-whiteboards-for-code-reviews/)

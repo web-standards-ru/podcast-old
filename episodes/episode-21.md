@@ -10,7 +10,7 @@ Google Fonts и шрифты, CSS в Фейсбуке, нюансы флексо
 [Слушайте на SoundCloud](https://soundcloud.com/web-standards/episode-21)
 [Обсуждайте в Слаке](http://slack.web-standards.ru/)
 
-## События (00:13)
+## События (00:00:13)
 
 - [HTML Special и CSS Day](http://cssday.nl/2016)
 - [Лог с HTML Special](https://github.com/web-standards-ru/web-standards-up/blob/master/2016-06-16_htmlspecial.md)
@@ -19,12 +19,12 @@ Google Fonts и шрифты, CSS в Фейсбуке, нюансы флексо
 - [PiterCSS №5](https://pitercss.timepad.ru/event/340787/)
 - [Видео с PiterCSS](https://youtu.be/qFeCi6E3e14)
 
-## Шрифты (06:49)
+## Шрифты (00:06:49)
 
 - [Google Fonts](https://fonts.google.com/)
 - [Паттерны загрузки веб-шрифтов](http://web-standards.ru/articles/web-font-loading-patterns/)
 
-## Практика (13:39)
+## Практика (00:13:39)
 
 - [Что должен знать HTML-верстальщик?](http://krekotun.ru/ui-developer-skills)
 - [Improving CSS quality at Facebook and beyond](https://code.facebook.com/posts/879890885467584/improving-css-quality-at-facebook-and-beyond)
@@ -33,7 +33,7 @@ Google Fonts и шрифты, CSS в Фейсбуке, нюансы флексо
 - [Pixel Density, Demystified](https://medium.com/p/a4db63ba2922)
 - [Anchors vs Buttons](https://bitsofco.de/anchors-vs-buttons/)
 
-## Новинки Safari (37:44)
+## Новинки Safari (00:37:44)
 
 - [Safari 10.0](https://developer.apple.com/library/prerelease/content/releasenotes/General/WhatsNewInSafari/Articles/Safari_10_0.html)
 - [Apple Pay JS](https://developer.apple.com/reference/applepayjs)
