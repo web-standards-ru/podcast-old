@@ -6,7 +6,7 @@
 - Гарри Робертс
 - Ева Леттнер
 - Зак Лезерман
-- Хьюго Жирадель
+- Хьюго Жиродель
 
 Слушайте [в iTunes](https://itunes.apple.com/ru/podcast/veb-standarty/id1080500016) или [на SoundCloud](https://soundcloud.com/web-standards/episode-85), [обсуждайте в Слаке](http://slack.web-standards.ru/).
 
@@ -33,7 +33,7 @@
 - [Брэм Штайн в Твиттере](https://twitter.com/bram_stein)
 - [A Comprehensive Guide to Font Loading Strategies](https://www.zachleat.com/web/comprehensive-webfonts/)
 
-## Хьюго Жирадель (01:02:14)
+## Хьюго Жиродель (01:02:14)
 
 - [Хьюго в Твиттере](https://twitter.com/HugoGiraudel)
 - [Sass Guidelines](https://sass-guidelin.es/)
