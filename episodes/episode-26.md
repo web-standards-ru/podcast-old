@@ -1,6 +1,6 @@
-# Выпуск №26. 25 июля 2016
+# Выпуск №26
 
-Chrome 52, Safari и MathML, `font-display`, WebP и WebM, HyperTerm, книги, путь фронтендера.
+25 июля 2016: Chrome 52, Safari и MathML, `font-display`, WebP и WebM, HyperTerm, книги, путь фронтендера.
 
 - Ольга Алексашенко
 - Вадим Макеев

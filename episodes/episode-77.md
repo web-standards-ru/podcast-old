@@ -1,6 +1,6 @@
-# Выпуск №77. 24 июля 2017
+# Выпуск №77
 
-CSS Minsk JS, сложности DevTools, Storage API в Firefox, DRM и W3C, чистка CSS, вброс и Шорты, гироскоп и драг-н-дроп, Xwebs Megabrowser.
+24 июля 2017: CSS Minsk JS, сложности DevTools, Storage API в Firefox, DRM и W3C, чистка CSS, вброс и Шорты, гироскоп и драг-н-дроп, Xwebs Megabrowser.
 
 - Павел Ловцевич
 - Вадим Макеев

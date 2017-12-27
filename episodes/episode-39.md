@@ -1,6 +1,6 @@
-# Выпуск №39. 24 октября 2016
+# Выпуск №39
 
-Chrome 54, Async, Node.js v6 и npm v4, Ире про PWA, условия в CSS, CSS-фреймворки, Normalize.css, женщины в ИТ.
+24 октября 2016: Chrome 54, Async, Node.js v6 и npm v4, Ире про PWA, условия в CSS, CSS-фреймворки, Normalize.css, женщины в ИТ.
 
 - Ольга Алексашенко
 - Вадим Макеев

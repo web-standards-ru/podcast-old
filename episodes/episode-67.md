@@ -1,6 +1,6 @@
-# Выпуск №67. 8 мая 2017
+# Выпуск №67
 
-Бета Chrome 59, Safari TP 29, Samsung на десктопе, WebP торт, HTML Шорты, Normalize.css, CSS 5 уровня, CSS в JS, ES-модули.
+8 мая 2017: Бета Chrome 59, Safari TP 29, Samsung на десктопе, WebP торт, HTML Шорты, Normalize.css, CSS 5 уровня, CSS в JS, ES-модули.
 
 - Вадим Макеев
 - Алексей Симоненко

@@ -1,6 +1,6 @@
-# Выпуск №82. 28 августа 2017
+# Выпуск №82
 
-Safari, Stylo, PWA и Android, Polymer 3.0, читайте Шорты, React или CSS, шрифты, новичкам, RadioJS.
+28 августа 2017: Safari, Stylo, PWA и Android, Polymer 3.0, читайте Шорты, React или CSS, шрифты, новичкам, RadioJS.
 
 - Вадим Макеев
 - Алексей Симоненко

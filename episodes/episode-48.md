@@ -1,6 +1,6 @@
-# Выпуск №48. 26 декабря 2016
+# Выпуск №48
 
-Safari, Samsung, Firebug и Photoshop, Bootstrap и флексы, GitHub Pages, вставка шрифтов; состояние, полифилы и специфичность CSS.
+26 декабря 2016: Safari, Samsung, Firebug и Photoshop, Bootstrap и флексы, GitHub Pages, вставка шрифтов; состояние, полифилы и специфичность CSS.
 
 - Вадим Макеев
 - Алексей Симоненко
