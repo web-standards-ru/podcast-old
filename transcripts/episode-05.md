@@ -1,6 +1,6 @@
-# Выпуск №5. 1 марта 2016
+# Выпуск №5
 
-Обзор событий, SVG и иконочные шрифты, Google Resizer, `background-clip`, `object-fit`, `object-position`, Sass и ES2015, `:root`, типографика.
+1 марта 2016: Обзор событий, SVG и иконочные шрифты, Google Resizer, `background-clip`, `object-fit`, `object-position`, Sass и ES2015, `:root`, типографика.
 
 - Ольга Алексашенко
 - Вадим Макеев
