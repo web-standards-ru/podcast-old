@@ -6,7 +6,7 @@
     "html": "marked"
   },
   "dependencies": {
-    "demarked": "^0.0.3",
+    "demarked": "0.0.4",
     "marked": "^0.3.6",
     "yaspeller": "^4.0.3"
   }
