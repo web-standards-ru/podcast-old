@@ -1,13 +1,11 @@
-# Выпуск №81. 21 августа 2017
+# Выпуск №81
 
-Наши на западе, Chrome 61, аудит 2.0, доступность, SVG, дизайнерам, видео, кроссбраузерность.
+21 августа 2017: Наши на западе, Chrome 61, аудит 2.0, доступность, SVG, дизайнерам, видео, кроссбраузерность.
 
 - Ольга Алексашенко
 - Вадим Макеев
 
-[Слушайте в iTunes](https://itunes.apple.com/ru/podcast/veb-standarty/id1080500016)
-[Слушайте на SoundCloud](https://soundcloud.com/web-standards/episode-81)
-[Обсуждайте в Слаке](http://slack.web-standards.ru/)
+Слушайте [в iTunes](https://itunes.apple.com/ru/podcast/veb-standarty/id1080500016), [на Ютубе](https://www.youtube.com/playlist?list=PLMBnwIwFEFHcwuevhsNXkFTcadeX5R1Go) или [на SoundCloud](https://soundcloud.com/web-standards), подписывайтесь [на RSS](https://pcr.apple.com/id1080500016) и [обсуждайте в Слаке](http://slack.web-standards.ru/).
 
 ## События (00:00:17)
 

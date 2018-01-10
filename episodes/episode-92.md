@@ -1,12 +1,12 @@
-# Выпуск №92. 30 октября 2017
+# Выпуск №92
 
-События, доступность и дизайн; в гостях Настя Суховерхова, создатель Веблайнд.
+30 октября 2017: События, доступность и дизайн; в гостях Настя Суховерхова, создатель Веблайнд.
 
 - Настя Суховерхова
 - Вадим Макеев
 - Алексей Симоненко
 
-Слушайте [в iTunes](https://itunes.apple.com/ru/podcast/veb-standarty/id1080500016) или [на SoundCloud](https://soundcloud.com/web-standards/episode-92), [обсуждайте в Слаке](http://slack.web-standards.ru/).
+Слушайте [в iTunes](https://itunes.apple.com/ru/podcast/veb-standarty/id1080500016), [на Ютубе](https://www.youtube.com/playlist?list=PLMBnwIwFEFHcwuevhsNXkFTcadeX5R1Go) или [на SoundCloud](https://soundcloud.com/web-standards), подписывайтесь [на RSS](https://pcr.apple.com/id1080500016) и [обсуждайте в Слаке](http://slack.web-standards.ru/).
 
 ## События (00:00:57)
 

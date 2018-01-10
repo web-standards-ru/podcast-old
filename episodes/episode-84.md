@@ -1,15 +1,13 @@
-# Выпуск №84. 11 сентября 2017
+# Выпуск №84
 
-Новинки Safari и Chrome, совместимость Firefox, Yarn 1.0, как сломать гриды и почему не нужны ресеты.
+11 сентября 2017: Новинки Safari и Chrome, совместимость Firefox, Yarn 1.0, как сломать гриды и почему не нужны ресеты.
 
 - Вадим Макеев
 - Алексей Симоненко
 
-[Слушайте в iTunes](https://itunes.apple.com/ru/podcast/veb-standarty/id1080500016)
-[Слушайте на SoundCloud](https://soundcloud.com/web-standards/episode-N)
-[Обсуждайте в Слаке](http://slack.web-standards.ru/)
+Слушайте [в iTunes](https://itunes.apple.com/ru/podcast/veb-standarty/id1080500016), [на Ютубе](https://www.youtube.com/playlist?list=PLMBnwIwFEFHcwuevhsNXkFTcadeX5R1Go) или [на SoundCloud](https://soundcloud.com/web-standards), подписывайтесь [на RSS](https://pcr.apple.com/id1080500016) и [обсуждайте в Слаке](http://slack.web-standards.ru/).
 
-## События (00:20:00)
+## События (00:00:20)
 
 - [CSS-Minsk-JS в Минске 10 сентября](http://css-minsk-js.by/)
 - [FrontTalks в Екатеринбурге 16—17 сентября](http://fronttalks.ru/)

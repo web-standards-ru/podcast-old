@@ -1,15 +1,13 @@
-# Выпуск №82. 28 августа 2017
+# Выпуск №82
 
-Safari, Stylo, PWA и Android, Polymer 3.0, читайте Шорты, React или CSS, шрифты, новичкам, RadioJS.
+28 августа 2017: Safari, Stylo, PWA и Android, Polymer 3.0, читайте Шорты, React или CSS, шрифты, новичкам, RadioJS.
 
 - Вадим Макеев
 - Алексей Симоненко
 
-[Слушайте в iTunes](https://itunes.apple.com/ru/podcast/veb-standarty/id1080500016)
-[Слушайте на SoundCloud](https://soundcloud.com/web-standards/episode-N)
-[Обсуждайте в Слаке](http://slack.web-standards.ru/)
+Слушайте [в iTunes](https://itunes.apple.com/ru/podcast/veb-standarty/id1080500016), [на Ютубе](https://www.youtube.com/playlist?list=PLMBnwIwFEFHcwuevhsNXkFTcadeX5R1Go) или [на SoundCloud](https://soundcloud.com/web-standards), подписывайтесь [на RSS](https://pcr.apple.com/id1080500016) и [обсуждайте в Слаке](http://slack.web-standards.ru/).
 
-## События (00:11:00)
+## События (00:00:11)
 
 - [LvivJS во Львове 26 августа](http://lvivjs.org.ua/)
 - [DevFest Siberia в Новосибирске 23—24 сентября](https://gdg-siberia.com/ru/schedule/)

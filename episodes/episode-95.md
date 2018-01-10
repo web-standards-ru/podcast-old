@@ -1,11 +1,11 @@
-# Выпуск №95. 20 ноября 2017
+# Выпуск №95
 
-Firefox жив! Парное программирование, дорогой JS, доступность, книги и термины, школы при компаниях, юниоры.
+20 ноября 2017: Firefox жив! Парное программирование, дорогой JS, доступность, книги и термины, школы при компаниях, юниоры.
 
 - Саша Годун
 - Вадим Макеев
 
-Слушайте [в iTunes](https://itunes.apple.com/ru/podcast/veb-standarty/id1080500016) или [на SoundCloud](https://soundcloud.com/web-standards/episode-95), [обсуждайте в Слаке](http://slack.web-standards.ru/).
+Слушайте [в iTunes](https://itunes.apple.com/ru/podcast/veb-standarty/id1080500016), [на Ютубе](https://www.youtube.com/playlist?list=PLMBnwIwFEFHcwuevhsNXkFTcadeX5R1Go) или [на SoundCloud](https://soundcloud.com/web-standards), подписывайтесь [на RSS](https://pcr.apple.com/id1080500016) и [обсуждайте в Слаке](http://slack.web-standards.ru/).
 
 ## События (00:02:17)
 

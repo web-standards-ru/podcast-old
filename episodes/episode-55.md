@@ -1,16 +1,14 @@
-# Выпуск №55. 13 февраля 2017
+# Выпуск №55
 
-Графика в WebKit, ссылки в Opera, дизайнеры верстают, HTML API, кастомные свойства, фигуры в CSS, обещанный бургер, быстрый старт JS, отчёты W3C TAG.
+13 февраля 2017: Графика в WebKit, ссылки в Opera, дизайнеры верстают, HTML API, кастомные свойства, фигуры в CSS, обещанный бургер, быстрый старт JS, отчёты W3C TAG.
 
 - Вадим Макеев
 - Алексей Симоненко
 - Милена
 
-[Слушайте в iTunes](https://itunes.apple.com/ru/podcast/veb-standarty/id1080500016)
-[Слушайте на SoundCloud](https://soundcloud.com/web-standards/episode-55)
-[Обсуждайте в Слаке](http://slack.web-standards.ru/)
+Слушайте [в iTunes](https://itunes.apple.com/ru/podcast/veb-standarty/id1080500016), [на Ютубе](https://www.youtube.com/playlist?list=PLMBnwIwFEFHcwuevhsNXkFTcadeX5R1Go) или [на SoundCloud](https://soundcloud.com/web-standards), подписывайтесь [на RSS](https://pcr.apple.com/id1080500016) и [обсуждайте в Слаке](http://slack.web-standards.ru/).
 
-## События (00:13)
+## События (00:00:13)
 
 - [UralJS №2 в Екатеринбурге 13 февраля](https://uraljs.timepad.ru/event/442524/)
 - [MoscowJS №35 17 февраля](http://moscowjs.ru/event/moscowjs-35)
@@ -20,41 +18,41 @@
 - [KharkivCSS №2 в Харькове 22 апреля](http://kharkivcss.org/)
 - [Приём докладов на pitercss_conf 16 июня](https://pitercss.com/)
 
-## Графика в WebKit (07:39)
+## Графика в WebKit (00:07:39)
 
 - [Next-generation 3D Graphics on the Web](https://webkit.org/blog/7380/next-generation-3d-graphics-on-the-web/)
 
-## Ссылки в Opera (13:51)
+## Ссылки в Opera (00:13:51)
 
 - [What’s new in Chromium 56 and Opera 43](https://dev.opera.com/blog/opera-43/)
 
-## Дизайнеры верстают (17:33)
+## Дизайнеры верстают (00:17:33)
 
 - [Веб-дизайнеры, начните верстать!](https://medium.com/p/c44fa28b6ad9)
 - [Технолог — тоже дизайнер](https://events.yandex.ru/lib/talks/460/)
 - [Как «прокачаться» дизайнеру: советы и полезные ссылки](https://habr.ru/p/321498/)
 
-## HTML API (29:24)
+## HTML API (00:29:24)
 
 - [HTML APIs: What They Are And How To Design A Good One](https://www.smashingmagazine.com/2017/02/designing-html-apis/)
 - [MarkApp](http://markapp.io/)
 
-## Кастомные свойства (36:48)
+## Кастомные свойства (00:36:48)
 
 - [CSS Custom Properties. The Basics](https://sgom.es/posts/2017-01-27-css-custom-properties-the-basics/)
 - [More Readable CSS with CSS Custom Properties](https://sgom.es/posts/2017-02-03-more-readable-css-with-css-custom-properties/)
 - [Bridging CSS and JS with Custom Properties](https://sgom.es/posts/2017-02-10-bridging-css-and-js-with-custom-properties/)
 
-## Фигуры в CSS (42:21)
+## Фигуры в CSS (00:42:21)
 
 - [Basic Shapes & Path](https://css-tricks.com/basic-shapes-path-never-twain-shall-meet/)
 
-## Обещанный бургер (45:31)
+## Обещанный бургер (00:45:31)
 
 - [Обещание бургерной вечеринки](https://medium.com/p/b0ed209809ab)
 - [Ты кто такой, сервис-воркер?](https://medium.com/p/9bce3b1201b6)
 
-## Быстрый старт JS (50:05)
+## Быстрый старт JS (00:50:05)
 
 - [JavaScript Start-up Performance](https://medium.com/p/69200f43b201)
 - [optimize-js](https://github.com/nolanlawson/optimize-js)

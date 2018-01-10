@@ -1,12 +1,12 @@
-# Выпуск №86. 18 сентября 2017
+# Выпуск №86
 
-Как вписаться в iPhone X, редакторы кода, инверсная тема в 153 байтах, жизнь после git --force, история гридов, вёрстка и программирование, ES-модули в Node и в бою.
+18 сентября 2017: Как вписаться в iPhone X, редакторы кода, инверсная тема в 153 байтах, жизнь после git --force, история гридов, вёрстка и программирование, ES-модули в Node и в бою.
 
 - Ольга Алексашенко
 - Вадим Макеев
 - Алексей Симоненко
 
-Слушайте [в iTunes](https://itunes.apple.com/ru/podcast/veb-standarty/id1080500016) или [на SoundCloud](https://soundcloud.com/web-standards/episode-86), [обсуждайте в Слаке](http://slack.web-standards.ru/).
+Слушайте [в iTunes](https://itunes.apple.com/ru/podcast/veb-standarty/id1080500016), [на Ютубе](https://www.youtube.com/playlist?list=PLMBnwIwFEFHcwuevhsNXkFTcadeX5R1Go) или [на SoundCloud](https://soundcloud.com/web-standards), подписывайтесь [на RSS](https://pcr.apple.com/id1080500016) и [обсуждайте в Слаке](http://slack.web-standards.ru/).
 
 ## События (00:00:12)
 

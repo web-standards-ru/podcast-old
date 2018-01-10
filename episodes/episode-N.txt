@@ -1,14 +1,18 @@
-Выпуск №0. 1 января 1970
+Выпуск №0
 
-Описание.
+1 января 1970: Описание.
 
 — Ольга Алексашенко
 — Вадим Макеев
 — Алексей Симоненко
 
-Обсуждайте в Слаке http://slack.web-standards.ru/
+iTunes https://itunes.apple.com/ru/podcast/veb-standarty/id1080500016
+Ютуб https://www.youtube.com/playlist?list=PLMBnwIwFEFHcwuevhsNXkFTcadeX5R1Go
+SoundCloud https://soundcloud.com/web-standards
+RSS https://pcr.apple.com/id1080500016
+Обсуждение https://slack.web-standards.ru/
 
-≡ Тема (00:00:00)
+Тема (00:00:00)
 
 Статья ссылка
 Статья ссылка

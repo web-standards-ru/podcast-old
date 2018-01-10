@@ -1,11 +1,11 @@
-# Выпуск №91. 24 октября 2017
+# Выпуск №91
 
-Новинки браузеров, общая документация на MDN, ошибки верстальщиков, дизайнеры учатся кодить, харассмент.
+24 октября 2017: Новинки браузеров, общая документация на MDN, ошибки верстальщиков, дизайнеры учатся кодить, харассмент.
 
 - Ольга Алексашенко
 - Вадим Макеев
 
-Слушайте [в iTunes](https://itunes.apple.com/ru/podcast/veb-standarty/id1080500016) или [на SoundCloud](https://soundcloud.com/web-standards/episode-N), [обсуждайте в Слаке](http://slack.web-standards.ru/).
+Слушайте [в iTunes](https://itunes.apple.com/ru/podcast/veb-standarty/id1080500016), [на Ютубе](https://www.youtube.com/playlist?list=PLMBnwIwFEFHcwuevhsNXkFTcadeX5R1Go) или [на SoundCloud](https://soundcloud.com/web-standards), подписывайтесь [на RSS](https://pcr.apple.com/id1080500016) и [обсуждайте в Слаке](http://slack.web-standards.ru/).
 
 ## События (00:00:11)
 

@@ -1,11 +1,11 @@
-# Выпуск №87. 25 сентября 2017
+# Выпуск №87
 
-Зачем вообще Edge, новинки Safari, бета Chrome 62, кому нужен CoffeeScript 2, идеи для DevTools.
+25 сентября 2017: Зачем вообще Edge, новинки Safari, бета Chrome 62, кому нужен CoffeeScript 2, идеи для DevTools.
 
 - Вадим Макеев
 - Алексей Симоненко
 
-Слушайте [в iTunes](https://itunes.apple.com/ru/podcast/veb-standarty/id1080500016) или [на SoundCloud](https://soundcloud.com/web-standards/episode-87), [обсуждайте в Слаке](http://slack.web-standards.ru/).
+Слушайте [в iTunes](https://itunes.apple.com/ru/podcast/veb-standarty/id1080500016), [на Ютубе](https://www.youtube.com/playlist?list=PLMBnwIwFEFHcwuevhsNXkFTcadeX5R1Go) или [на SoundCloud](https://soundcloud.com/web-standards), подписывайтесь [на RSS](https://pcr.apple.com/id1080500016) и [обсуждайте в Слаке](http://slack.web-standards.ru/).
 
 ## События (00:00:08)
 

@@ -7,7 +7,7 @@
     "rss": "node rss"
   },
   "dependencies": {
-    "demarked": "^0.0.3",
+    "demarked": "0.0.4",
     "fs": "0.0.1-security",
     "https": "^1.0.0",
     "marked": "^0.3.6",
