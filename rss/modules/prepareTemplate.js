@@ -25,9 +25,14 @@ module.exports = (file) => {
             const paragraphs = content.match(/[^\n].*/g);
 
             const N = header.match(/\d+/)[0];
-            const title = header.match(/\S+\s+.\d+\./)[0];
-            const subtitle = paragraphs[1].replace('<picture>', '');
-            const dateRaw = header.match(/\d+\s.+/) ? header.match(/\d+\s.+/)[0] : '';
+            const title = header.match(/\S+\s+.\d+/)[0];
+            const summary = paragraphs[1]
+                .replace(/.+:\s/, '')
+                .replace('<picture>', '');
+            const dateRaw = paragraphs[1].match(/.+:/) ?
+                paragraphs[1].match(/.+:/)[0]
+                    .replace(':', '') :
+                '';
             const date = moment(dateRaw, DATE_PARSE_FORMAT).locale('en').format(DATE_SHOW_FORMAT);
             const html = converter.makeHtml(content.replace(/^#.*\n\n/, '# '));
 
@@ -59,7 +64,7 @@ module.exports = (file) => {
              */
             return getMp3Length(N)
                 .then(lenght => process.nextTick(resolve(
-                    { N, title, subtitle, date, authors: authors.join(', '), size: lenght.size, duration: lenght.duration, html })))
+                    { N, title, summary, date, authors: authors.join(', '), size: lenght.size, duration: lenght.duration, html })))
                 .catch(err => reject(err));
 
         })
