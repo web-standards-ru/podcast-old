@@ -54,6 +54,6 @@
 
 - [Intent to Implement: JavaScript module import](https://groups.google.com/a/chromium.org/d/msg/blink-dev/wRLMM5-kpCY/Y0be_ASaAwAJ)
 
-## 01:04:10 Подкасты
+## Подкасты (01:04:10)
 
 - [Подкасты про фронтенд](http://5minreact.ru/24-podcasts/)
