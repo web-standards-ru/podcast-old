@@ -42,11 +42,11 @@
 - [Styled JSX](https://github.com/zeit/styled-jsx)
 - [A new world: writing CSS in ClojureScript and life after Sass](https://medium.com/p/bdf5bc80a24f)
 
-## 01:02:52 Хайп
+## Хайп (01:02:52)
 
 - [Hype Driven Development](https://habrahabr.ru/company/edison/blog/316668/)
 
-## 01.12:24 Прогрессивное улучшение
+## Прогрессивное улучшение (01:12:24)
 
 - [The Case Against PE’s Flimsy Moral Foundation](https://www.viget.com/articles/the-case-against-progressive-enhancements-flimsy-moral-foundation)
 - [Insert Clickbait Headline About PE Here](https://www.aaron-gustafson.com/notebook/insert-clickbait-headline-about-progressive-enhancement-here/)

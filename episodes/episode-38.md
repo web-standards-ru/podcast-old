@@ -59,6 +59,6 @@
 - [You Might Not Need JavaScript](http://youmightnotneedjs.com/)
 - [You Might Need JavaScript](http://hugogiraudel.com/2016/10/13/you-might-need-javascript/)
 
-## 01:04:51 Прогрессивное улучшение
+## Прогрессивное улучшение (01:04:51)
 
 - [Progressive enhancement isn’t dead, but it smells funny](https://nolanlawson.com/2016/10/13/progressive-enhancement-isnt-dead-but-it-smells-funny/)

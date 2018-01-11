@@ -56,10 +56,10 @@
 - [postcss-import](https://github.com/postcss/postcss-import)
 - [postcss-easy-import](https://github.com/trysound/postcss-easy-import)
 
-## 01:01:51 Сахарный CSS
+## Сахарный CSS (01:01:51)
 
 - [SugarSS](https://github.com/postcss/sugarss)
 
-## 01:04:51 Это была шутка!
+## Это была шутка! (01:04:51)
 
 - [Прогрессивное улучшение меня расстраивает](https://medium.com/p/7084fa62d967)

@@ -53,6 +53,6 @@
 - [Autofixing in stylelint](https://stylelint.io/CHANGELOG/#7110)
 - [Prettier 1.4.0](https://github.com/prettier/prettier/releases/tag/1.4.0)
 
-## 01:02:03 Node.js
+## Node.js (01:02:03)
 
 - [Node.js canary builds](https://twitter.com/mathias/status/873204105161961473)

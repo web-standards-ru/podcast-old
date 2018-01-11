@@ -50,16 +50,16 @@
 - [An Update on ES6 Modules in Node.js](https://medium.com/p/42c958b890c)
 - [High-performance ES2015 and beyond](https://v8project.blogspot.com.by/2017/02/high-performance-es2015-and-beyond.html)
 
-## 01:01:46 Спокойный UI
+## Спокойный UI (01:01:46)
 
 - [Reduced Motion Media Query](https://css-tricks.com/introduction-reduced-motion-media-query/)
 
-## 01:04:59 Книга с рыбами
+## Книга с рыбами (01:04:59)
 
 - [CSS: The Definitive Guide, 4th edition](http://shop.oreilly.com/product/0636920012726.do)
 - [CSS. Каскадные таблицы стилей. Подробное руководство](https://www.ozon.ru/context/detail/id/3881079/)
 
-## 01:07:01 CSS-переменные
+## CSS-переменные (01:07:01)
 
 - [Houdini: CSS Properties and Values API](https://www.chromestatus.com/feature/5640265926705152)
 - [You might not need a CSS preprocessor](https://blog.hospodarets.com/you-might-not-need-a-css-preprocessor/)

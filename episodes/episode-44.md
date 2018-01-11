@@ -67,7 +67,7 @@
 
 - [AMP, Instant Articles, Instant View](http://telegra.ph/AMP-Instant-Articles-Instant-View-whut-11-23)
 
-## 01:03:17 Подкаст жив!
+## Подкаст жив! (01:03:17)
 
 - [Пятиминутка React](http://5minreact.ru/)
 - [Веб-стандарты в iTunes](https://itunes.apple.com/ru/podcast/veb-standarty/id1080500016)

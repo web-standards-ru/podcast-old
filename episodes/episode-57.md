@@ -48,7 +48,7 @@
 
 - [Casper: No `lang` attribute](https://github.com/TryGhost/Casper/issues/286)
 
-## 01:14:00 W3C против WHATWG
+## W3C против WHATWG (01:14:00)
 
 - [What is the difference between the W3C and the WHATWG?](https://redd.it/5swe9b)
 - [HTML Living Standard](https://html.spec.whatwg.org/multipage/)

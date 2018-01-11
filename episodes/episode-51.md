@@ -54,6 +54,6 @@
 
 - [FOUT, FOIT, FOFT](https://css-tricks.com/fout-foit-foft/)
 
-## 01:01:30 Динамический импорт JS-модулей
+## Динамический импорт JS-модулей (01:01:30)
 
 - [ES proposal: `import()`](http://www.2ality.com/2017/01/import-operator.html)

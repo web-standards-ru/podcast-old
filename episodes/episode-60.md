@@ -69,6 +69,6 @@
 - [Designer vs. Developer](https://youtu.be/8T94qu8IWWk)
 - [Настройка сервера и деплой приложения на Node.js](https://youtu.be/1OU5ngq-WyM?list=PLQlWzK5tU-gDyxC1JTpyC2avvJlt3hrIh)
 
-## 01:13:09 Фронтёрки
+## Фронтёрки (01:13:09)
 
 - [Подкаст Фронтёрки №1](https://soundcloud.com/fronterki/ep-001)

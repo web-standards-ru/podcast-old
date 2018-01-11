@@ -57,7 +57,7 @@
 - [A Unified Styling Language](https://markdalgleish.github.io/presentation-a-unified-styling-language/)
 - [With real empathy for CSS devs](https://twitter.com/markdalgleish/status/860552496904908800)
 
-## 01:15:16 ES-модули
+## ES-модули (01:15:16)
 
 - [ES6 Modules in Chrome Canary (M60+)](https://medium.com/p/ba588dfb8ab7)
 - [ES Modules in Browsers](https://jakearchibald.com/2017/es-modules-in-browsers/)
