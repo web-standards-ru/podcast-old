@@ -78,13 +78,13 @@
 
 - [Delivering Octicons with SVG](https://github.com/blog/2112-delivering-octicons-with-svg)
 
-## 01:02:18 Флексбокс года
+## Флексбокс года (01:02:18)
 
-## 01:04:49 JavaScript года
+## JavaScript года (01:04:49)
 
 - [ECMAScript 6 compatibility table](https://kangax.github.io/compat-table/es6/)
 
-## 01:13:08 Что будет в 2017
+## Что будет в 2017 (01:13:08)
 
 - [Можно вообще всё. Раскладка по гриду, Вадим Макеев](https://youtu.be/JoRVUILXLxU)
 - [CSS Variables: `var(--subtitle)`, Lea Verou](https://youtu.be/kZOJCVvyF-4)

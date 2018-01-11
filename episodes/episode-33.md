@@ -61,8 +61,8 @@
 - [Autoprefixing, with CSS variables!](http://lea.verou.me/2016/09/autoprefixing-with-css-variables/)
 - [CSS Custom Properties in development in Edge](https://twitter.com/gregwhitworth/status/773194110576451586)
 
-## 01:01:54 Строчный код
+## Строчный код (01:01:54)
 
 - [Оформление строчных блоков кода](http://kizu.ru/blog/styling-inline-code/)
 
-## 01:06:49 Платные конференции
+## Платные конференции (01:06:49)

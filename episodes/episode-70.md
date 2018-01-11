@@ -56,7 +56,7 @@
 - [Learn CSS Grid](http://learncssgrid.com/)
 - [Accurately checking for CSS Grid support in Edge](http://gwhitworth.com/blog/2017/05/accurately-checking-for-css-grid-support-in-microsoft-edge)
 
-## 01:01:13 Новичкам
+## Новичкам (01:01:13)
 
 - [Статьи Артёма Горбунова про типографику и вёрстку](https://isqua.ru/blog/2017/05/21/artgorbunov-typography/)
 - [Открыть папку или файл из терминала](https://isqua.ru/blog/2017/05/18/open-file-from-terminal/)

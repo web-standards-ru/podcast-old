@@ -52,18 +52,18 @@
 
 - [Native form validation — part 3](https://medium.com/p/8e643e1dd06)
 
-## 01:07:44 Фронтенд заговорил
+## Фронтенд заговорил (01:07:44)
 
 - [Как правильно вставлять SVG?](https://youtu.be/TNX0-JLdM_U)
 - [Frontend Weekend](https://soundcloud.com/frontend-weekend)
 
-## 01:10:09 Perf.HTML
+## Perf.HTML (01:10:09)
 
 - [Understanding the network bottleneck](https://youtu.be/xpsrtYcBy10)
 - [Identifying the JavaScript slowdown](https://youtu.be/W4zp79QyDXA)
 - [Profiling Paint Perf](https://youtu.be/Wfxm56ttAmE)
 
-## 01:12:11 ES-модули
+## ES-модули (01:12:11)
 
 - [Module specifiers: what’s new with ES modules?](http://2ality.com/2017/05/es-module-specifiers.html)
 - [Native ES Modules — Ready for Prime Time?](https://medium.com/p/87c64d294d3c)

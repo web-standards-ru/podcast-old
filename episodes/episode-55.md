@@ -58,7 +58,7 @@
 - [optimize-js](https://github.com/nolanlawson/optimize-js)
 - [Preact](https://preactjs.com/)
 
-## 01:01:21 Отчёты W3C TAG
+## Отчёты W3C TAG (01:01:21)
 
 - [Polyfills and the evolution of the Web](https://w3ctag.github.io/polyfills/)
 - [Houdini: Demystifying the Future of CSS](https://youtu.be/sE3ttkP15f8)
