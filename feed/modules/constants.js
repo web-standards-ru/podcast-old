@@ -1,7 +1,11 @@
 const { existsSync, readFileSync } = require('fs');
 
+/**
+ * Main template folder
+ * @default 'templates' root folder.
+ */
 const TPL_FOLDER = process.argv[2] || 'templates';
-
+// Check that directory with templates is exists
 if (!existsSync(`${__dirname}/../${TPL_FOLDER}`)) {
     return console.error('Make sure that you entered a valid directory with templates');
 }
