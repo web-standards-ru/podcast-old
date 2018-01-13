@@ -4,7 +4,7 @@
     "test": "yaspeller episodes",
     "text": "demarked",
     "html": "marked",
-    "rss": "node rss"
+    "feed": "node feed"
   },
   "dependencies": {
     "demarked": "0.0.4",

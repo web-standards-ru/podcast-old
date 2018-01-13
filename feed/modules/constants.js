@@ -1,14 +1,14 @@
 const { existsSync, readFileSync } = require('fs');
 
-const TPL_FOLDER = process.argv[2];
+const TPL_FOLDER = process.argv[2] || 'templates';
 
-if (TPL_FOLDER === undefined || !existsSync(`${__dirname}/../${TPL_FOLDER}`)) {
+if (!existsSync(`${__dirname}/../${TPL_FOLDER}`)) {
     return console.error('Make sure that you entered a valid directory with templates');
 }
 
 const MD_FOLDER = `${__dirname}/../../episodes/`;
-const XML_ITEM_TPL = readFileSync(`${__dirname}/../${TPL_FOLDER}/_tpl-item.xml`).toString();
-const XML_WRAPPER_TPL = readFileSync(`${__dirname}/../${TPL_FOLDER}/_tpl-wrapper.xml`).toString();
+const XML_ITEM_TPL = readFileSync(`${__dirname}/../${TPL_FOLDER}/episode.xml`).toString();
+const XML_WRAPPER_TPL = readFileSync(`${__dirname}/../${TPL_FOLDER}/feed.xml`).toString();
 /**
  * @param DATE_PARSE_FORMAT 1 января 20017
  * @param DATE_SHOW_FORMAT  Mon, 1 Jan 2017 00:00:00 +0000

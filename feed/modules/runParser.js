@@ -36,13 +36,13 @@ readdir(MD_FOLDER, (err, files) => {
                 XML_ITEMS_ARRAY.push(raw);
             })
 
-            createWriteStream(`${__dirname}/../${TPL_FOLDER}/result.xml`)
+            createWriteStream(`${__dirname}/../${TPL_FOLDER}/index.xml`)
                 .once('open', function (err) {
                     const content = XML_WRAPPER_TPL.replace('{% items %}', XML_ITEMS_ARRAY.join('\n'));
                     this.write(xmlBeautifier(content));
                     this.end();
                 })
-                .on('close', () => console.log(`Succesfully written file '${__dirname}/itunes-result.xml'`))
+                .on('close', () => console.log(`Succesfully written file '${__dirname}/index.xml'`))
                 .on('error', () => console.error('Something wrong try again'));
         })
         .catch(err => console.error(err));
