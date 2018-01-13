@@ -11,6 +11,6 @@
     <itunes:author>{% authors %}</itunes:author>
     <itunes:explicit>no</itunes:explicit>
     <itunes:summary>{% summary %}</itunes:summary>
-    <itunes:image href="https://web-standards.ru/podcast/episode.jpg"/>
+    <itunes:image href="https://web-standards.ru/podcast/cover.png"/>
 
 </item>
