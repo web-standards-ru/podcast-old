@@ -1,11 +1,12 @@
 const { readdir, createWriteStream } = require('fs');
-const xmlBeautifier = require('xml-beautifier');
+const prettyData = require('pretty-data').pd;
 
 const {
     MD_FOLDER,
     TPL_FOLDER,
     XML_ITEM_TPL,
-    XML_WRAPPER_TPL
+    XML_WRAPPER_TPL,
+    IS_PRODUCTION,
 } = require('./constants');
 const prepareTemplate = require('./prepareTemplate');
 
@@ -43,7 +44,14 @@ readdir(MD_FOLDER, (err, files) => {
             createWriteStream(`${__dirname}/../${TPL_FOLDER}/index.xml`)
                 .once('open', function (err) {
                     const content = XML_WRAPPER_TPL.replace('{% items %}', XML_ITEMS_ARRAY.join('\n'));
-                    this.write(xmlBeautifier(content));
+                    // Minify result on production
+                    if (IS_PRODUCTION) {
+                        this.write(
+                            prettyData.xmlmin(content, [, true]));
+                    } else {
+                        this.write(
+                            prettyData.xml(content));
+                    }
                     this.end();
                 })
                 .on('close', () => console.log(`Succesfully written file '${__dirname}/index.xml'`))

@@ -19,6 +19,8 @@ const XML_WRAPPER_TPL = readFileSync(`${__dirname}/../${TPL_FOLDER}/feed.xml`).t
  */
 const [DATE_PARSE_FORMAT, DATE_SHOW_FORMAT] = ['DD MMMM YYYY Z', 'ddd, D MMM Y hh:mm:ss Z'];
 
+const IS_PRODUCTION = process.env.NODE_ENV === 'production'
+
 module.exports = {
     TPL_FOLDER,
     MD_FOLDER,
@@ -26,4 +28,5 @@ module.exports = {
     XML_WRAPPER_TPL,
     DATE_PARSE_FORMAT,
     DATE_SHOW_FORMAT,
+    IS_PRODUCTION,
 };

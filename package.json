@@ -12,8 +12,8 @@
     "https": "^1.0.0",
     "marked": "^0.3.6",
     "moment": "^2.19.3",
+    "pretty-data": "^0.40.0",
     "showdown": "^1.8.5",
-    "xml-beautifier": "^0.3.0",
     "yaspeller": "^4.0.3"
   }
 }
