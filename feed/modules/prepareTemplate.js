@@ -29,7 +29,7 @@ module.exports = (file) => {
             const summary = paragraphs[1]
                 .replace(/.+:\s/, '')
                 .replace('<picture>', '');
-            const dateRaw = paragraphs[1].match(/.+:/) ?
+            const dateRaw = paragraphs[1].match(/\d+ \S+ \d+:/) ?
                 paragraphs[1].match(/.+:/)[0]
                     .replace(':', '') :
                 '';

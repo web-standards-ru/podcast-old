@@ -19,7 +19,11 @@ readdir(MD_FOLDER, (err, files) => {
     const isEpisode = (filename) => {
         return !isNaN(+filename.split('-')[1].split('.md')[0])
     }
-    const episodes = files.filter(filename => isEpisode(filename));
+    const episodes = files
+        .filter(filename => isEpisode(filename))
+        .sort((prev, next) => {
+            return prev.split('-')[1].split('.md')[0] - next.split('-')[1].split('.md')[0]
+        });
 
     Promise.all(episodes.map(episode => prepareTemplate(episode)))
         .then(res => {
