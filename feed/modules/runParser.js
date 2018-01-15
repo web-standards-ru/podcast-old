@@ -14,7 +14,7 @@ const prepareTemplate = require('./prepareTemplate');
 readdir(MD_FOLDER, (err, files) => {
     if (err) {
         console.error(err);
-        return process.exit(1);
+        process.exit(1);
     }
 
     const isEpisode = (filename) => {
@@ -23,7 +23,8 @@ readdir(MD_FOLDER, (err, files) => {
     const episodes = files
         .filter(filename => isEpisode(filename))
         .sort((prev, next) => {
-            return prev.split('-')[1].split('.md')[0] - next.split('-')[1].split('.md')[0]
+            const episodeRe = /episode-([0-9]+)\.md/;
+            return prev.match(episodeRe)[1] - next.match(episodeRe)[1];
         });
 
     Promise.all(episodes.map(episode => prepareTemplate(episode)))

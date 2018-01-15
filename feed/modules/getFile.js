@@ -8,8 +8,8 @@ module.exports = (url) => {
     return new Promise((resolve) => {
         return get(url, res => resolve(res.headers['content-length']))
             .on('error', err => {
+                console.warn(`HTTPS: file ${url} not found`);
                 resolve(0);
-                console.warn(`HTTPS: file ${id} not found`);
             })
     });
 }

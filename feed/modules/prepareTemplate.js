@@ -63,8 +63,8 @@ module.exports = (file) => {
              * @returns {Promise}   resolve object for XML template generator
              */
             return getMp3Length(N)
-                .then(lenght => process.nextTick(resolve(
-                    { N, title, summary, date, authors: authors.join(', '), size: lenght.size, duration: lenght.duration, html })))
+                .then(length => process.nextTick(resolve(
+                    { N, title, summary, date, authors: authors.join(', '), size: length.size, duration: length.duration, html })))
                 .catch(err => reject(err));
 
         })
