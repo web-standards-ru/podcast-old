@@ -1,4 +1,4 @@
-const getFile = require('./getFile');
+const getFile = require('./getFileHeaders');
 const hhmmss = require('./timeToStringConverter');
 
 const { MP3_BITRATE } = require('./constants');
