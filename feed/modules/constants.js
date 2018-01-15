@@ -21,6 +21,16 @@ const [DATE_PARSE_FORMAT, DATE_SHOW_FORMAT] = ['DD MMMM YYYY Z', 'ddd, D MMM Y h
 
 const IS_PRODUCTION = process.env.NODE_ENV === 'production';
 const MP3_BITRATE = 8000;
+/**
+ * Web-standarts URLS fabric
+ */
+const WS_SITE_URLS = (function () {
+    this.main = 'https://web-standards.ru';
+    this.podcast = `${this.main}/podcast/`;
+    this.episodes = `${this.podcast}/episodes`;
+
+    return this;
+})();
 
 module.exports = {
     TPL_FOLDER,
@@ -31,4 +41,5 @@ module.exports = {
     DATE_SHOW_FORMAT,
     IS_PRODUCTION,
     MP3_BITRATE,
+    WS_SITE_URLS,
 };
