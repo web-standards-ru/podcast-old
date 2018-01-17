@@ -9,7 +9,6 @@ const { WS_SITE } = require('./constants');
 module.exports = (file) => {
     const options = {
         host: WS_SITE.domain,
-        // hostname: WS_SITE.domain,
         path: `${WS_SITE.paths.podcast}/${file}`,
         method: 'HEAD',
     };
