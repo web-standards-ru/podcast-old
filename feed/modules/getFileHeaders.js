@@ -15,13 +15,13 @@ module.exports = (file) => {
 
     return new Promise((resolve, reject) => {
         return request(options, (res) => {
-            const header = +res.headers['content-length']
+            const length = +res.headers['content-length']
             // TODO: consult to add some other header like x-xss-protection to check file realy exists
-            if (header === undefined || header === 166) {
+            if (length === undefined || length === 166) {
                 return reject(`File https://${options.host}/${options.path} not found on server`);
             }
 
-            return resolve(header);
+            return resolve(length);
         }).end();
     })
 }
