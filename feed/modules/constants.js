@@ -24,13 +24,12 @@ const MP3_BITRATE = 8000;
 /**
  * Web-standarts URLS fabric
  */
-const WS_SITE_URLS = (function () {
-    this.main = 'https://web-standards.ru';
-    this.podcast = `${this.main}/podcast/`;
-    this.episodes = `${this.podcast}/episodes`;
-
-    return this;
-})();
+const WS_SITE = {
+    domain: 'web-standards.ru',
+    paths: {
+        podcast: '/podcast/episodes'
+    }
+}
 
 module.exports = {
     TPL_FOLDER,
@@ -41,5 +40,5 @@ module.exports = {
     DATE_SHOW_FORMAT,
     IS_PRODUCTION,
     MP3_BITRATE,
-    WS_SITE_URLS,
+    WS_SITE,
 };

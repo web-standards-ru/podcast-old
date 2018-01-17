@@ -13,10 +13,9 @@ const {
  * @returns {Promise}   object contains size and dutation of file
  */
 module.exports = (id) => {
-    const url = `${WS_SITE_URLS.episodes}/${id}.mp3`;
 
     return new Promise((resolve, reject) => {
-        return getFile(url)
+        return getFile(`${id}.mp3`)
             .then(size => {
                 resolve({ size, duration: hhmmss(size / MP3_BITRATE) });
             })

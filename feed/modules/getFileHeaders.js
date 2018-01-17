@@ -1,20 +1,28 @@
-const { exec } = require('child_process');
+const { request } = require('https');
+const { WS_SITE } = require('./constants');
 
 /**
- * Get file headers via curl
- * @param   {String}    - file url
+ * Get file headers
+ * @param {String} file - filename
  * @returns {Promise}   - resolve content-length of file
  */
-module.exports = (url) => {
+module.exports = (file) => {
+    const options = {
+        host: WS_SITE.domain,
+        // hostname: WS_SITE.domain,
+        path: `${WS_SITE.paths.podcast}/${file}`,
+        method: 'HEAD',
+    };
+
     return new Promise((resolve, reject) => {
-        return exec(`curl -I ${url} | grep 'content-length: '`, (err, stdout, stderr) => {
-            if (err) {
-                return reject(err);
+        return request(options, (res) => {
+            const header = +res.headers['content-length']
+            // TODO: consult to add some other header like x-xss-protection to check file realy exists
+            if (header === undefined || header === 166) {
+                return reject(`File https://${options.host}/${options.path} not found on server`);
             }
 
-            const length = stdout.match(/\d+/);
-            resolve(+length[0]);
-
-        });
-    });
+            return resolve(header);
+        }).end();
+    })
 }
