@@ -16,11 +16,9 @@ module.exports = (file) => {
     return new Promise((resolve, reject) => {
         return request(options, (res) => {
             const length = +res.headers['content-length']
-            // TODO: consult to add some other header like x-xss-protection to check file realy exists
-            if (length === undefined || length === 166) {
-                return reject(`File https://${options.host}/${options.path} not found on server`);
+            if (res.statusCode !== 200) {
+                return reject(`File https://${options.host}${options.path} not found on server`);
             }
-
             return resolve(length);
         }).end();
     })
