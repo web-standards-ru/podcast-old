@@ -42,7 +42,7 @@ readdir(MD_FOLDER, (err, files) => {
                 XML_ITEMS_ARRAY.push(raw);
             })
 
-            createWriteStream(`${__dirname}/../${TPL_FOLDER}/index.xml`)
+            createWriteStream('index.xml')
                 .once('open', function (err) {
                     const content = XML_WRAPPER_TPL.replace('{% items %}', XML_ITEMS_ARRAY.join('\n'));
                     // Minify result on production
@@ -55,8 +55,8 @@ readdir(MD_FOLDER, (err, files) => {
                     }
                     this.end();
                 })
-                .on('close', () => console.log(`Succesfully written file '${__dirname}/index.xml'`))
-                .on('error', () => console.error('Something wrong try again'));
+                .on('close', () => console.log(`Succesfully written file index.xml`))
+                .on('error', () => console.error('Something’s wrong try again'));
         })
         .catch(err => console.error(err));
 
