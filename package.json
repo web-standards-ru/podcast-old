@@ -3,11 +3,17 @@
   "scripts": {
     "test": "yaspeller episodes",
     "text": "demarked",
-    "html": "marked"
+    "html": "marked",
+    "feed": "node feed"
   },
   "dependencies": {
     "demarked": "0.0.4",
+    "fs": "0.0.1-security",
+    "https": "^1.0.0",
     "marked": "^0.3.6",
+    "moment": "^2.19.3",
+    "pretty-data": "^0.40.0",
+    "showdown": "^1.8.5",
     "yaspeller": "^4.0.3"
   }
 }

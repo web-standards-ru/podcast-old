@@ -1,0 +1,16 @@
+<item>
+
+    <title>{% title %}</title>
+    <pubDate>{% date %}</pubDate>
+    <description>
+        <![CDATA[{% html %}]]>
+    </description>
+    <enclosure type="audio/mpeg" url="https://web-standards.ru/podcast/episodes/{% N %}.mp3" length="{% size %}"/>
+
+    <itunes:duration>{% duration %}</itunes:duration>
+    <itunes:author>{% authors %}</itunes:author>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:summary>{% summary %}</itunes:summary>
+    <itunes:image href="https://web-standards.ru/podcast/cover.png"/>
+
+</item>
