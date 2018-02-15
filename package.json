@@ -16,5 +16,8 @@
     "pretty-data": "^0.40.0",
     "showdown": "^1.8.5",
     "yaspeller": "^4.0.3"
+  },
+  "devDependencies": {
+    "git-hooks": "^1.1.10"
   }
 }
