@@ -4,7 +4,8 @@
     "test": "yaspeller episodes",
     "text": "demarked",
     "html": "marked",
-    "feed": "node feed"
+    "feed": "node feed",
+    "validate:audio": "node feed/validation/audioExists"
   },
   "dependencies": {
     "demarked": "0.0.4",
