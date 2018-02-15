@@ -2,7 +2,6 @@ const { readdir } = require('fs');
 const { MD_FOLDER } = require('./constants');
 
 module.exports = new Promise((resolve, reject) => {
-    console.log(MD_FOLDER)
     return readdir(MD_FOLDER, (err, files) => {
         if (err) {
             return reject(err);
