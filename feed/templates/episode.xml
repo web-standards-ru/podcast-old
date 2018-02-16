@@ -5,6 +5,7 @@
     <description>
         <![CDATA[{% html %}]]>
     </description>
+    <guid isPermaLink="true">https://web-standards.ru/podcast/episodes/{% N %}.mp3</guid>
     <enclosure type="audio/mpeg" url="https://web-standards.ru/podcast/episodes/{% N %}.mp3" length="{% size %}"/>
 
     <itunes:duration>{% duration %}</itunes:duration>

@@ -22,7 +22,7 @@ collectEpisodes
                 let raw = XML_ITEM_TPL;
 
                 Object.keys(episode).forEach(key => {
-                    raw = raw.replace(`{% ${key} %}`, episode[key]);
+                    raw = raw.replace(new RegExp(`{% ${key} %}`, 'g'), episode[key]);
                 })
 
                 XML_ITEMS_ARRAY.push(raw);
