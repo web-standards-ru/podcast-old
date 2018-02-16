@@ -1,3 +1,17 @@
+sudo: required
+dist: trusty
 language: node_js
 node_js:
-  - "6"
+- '8'
+addons:
+  ssh_known_hosts:
+  - web-standards.ru
+before_deploy:
+- .travis/setup_ssh
+deploy:
+  skip_cleanup: true
+  provider: script
+  script: "./.travis/publish_feed"
+  on:
+    branch: master
+    repo: web-standards-ru/podcast
