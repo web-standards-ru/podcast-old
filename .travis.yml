@@ -13,5 +13,5 @@ deploy:
   provider: script
   script: "./.travis/publish_feed"
   on:
-    all_branches: true
+    branch: master
     repo: web-standards-ru/podcast
