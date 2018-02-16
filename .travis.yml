@@ -1,3 +1,16 @@
+sudo: required
+dist: trusty
 language: node_js
 node_js:
-  - "6"
+- '8'
+addons:
+  ssh_known_hosts:
+  - web-standards.ru
+before_deploy:
+- .travis/set-up-ssh
+deploy:
+  skip_cleanup: true
+  provider: script
+  script: "./.travis/publish"
+  on:
+    repo: web-standards-ru/calendar

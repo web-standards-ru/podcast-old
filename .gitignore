@@ -1,3 +1,5 @@
 node_modules
 index.xml
 .vscode
+.travis/deploy_key
+
