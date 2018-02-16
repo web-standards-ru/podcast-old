@@ -11,7 +11,7 @@ before_deploy:
 deploy:
   skip_cleanup: true
   provider: script
-  script: "./.travis/publish"
+  script: "./.travis/publish_feed"
   on:
     all_branches: true
     repo: web-standards-ru/podcast
