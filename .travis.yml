@@ -13,4 +13,5 @@ deploy:
   provider: script
   script: "./.travis/publish"
   on:
+    all_branches: true
     repo: web-standards-ru/calendar
