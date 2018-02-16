@@ -17,7 +17,7 @@ const XML_WRAPPER_TPL = readFileSync(`${__dirname}/../${TPL_FOLDER}/feed.xml`).t
  * @param DATE_PARSE_FORMAT 1 января 20017
  * @param DATE_SHOW_FORMAT  Mon, 1 Jan 2017 00:00:00 +0000
  */
-const [DATE_PARSE_FORMAT, DATE_SHOW_FORMAT] = ['DD MMMM YYYY Z', 'ddd, D MMM Y hh:mm:ss Z'];
+const [DATE_PARSE_FORMAT, DATE_SHOW_FORMAT] = ['DD MMMM YYYY Z', 'ddd, D MMM Y hh:mm:ss ZZ'];
 
 const IS_PRODUCTION = process.env.NODE_ENV === 'production';
 const MP3_BITRATE = 8000;
