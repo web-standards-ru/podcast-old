@@ -36,7 +36,6 @@
 ## React на веб-компонентах (00:33:26)
 
 - [Web Components, the React way](https://medium.com/p/8ed5b6f4f942)
-- [Статья](ссылка)
 
 ## Суровый Unix (00:34:57)
 

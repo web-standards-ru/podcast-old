@@ -20,7 +20,6 @@
 ## Safari TP24 (00:05:04)
 
 - [Release Notes for Safari Technology Preview 24](https://webkit.org/blog/7423/release-notes-for-safari-technology-preview-24/)
-- [Статья](ссылка)
 
 ## Как работают браузеры в 2017 (00:08:43)
 

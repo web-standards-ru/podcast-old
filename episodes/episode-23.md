@@ -20,7 +20,6 @@
 
 - [HTML5.0 уходит в прошлое](http://css-live.ru/vecssti-s-polej/html5-0-uxodit-v-proshloe.html)
 - [Multirange](http://leaverou.github.io/multirange/)
-- [Статья](ссылка)
 
 ## Откопали Dreamweaver (00:07:57)
 
