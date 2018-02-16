@@ -28,7 +28,9 @@ module.exports = (file) => {
             const title = header.match(/\S+\s+.\d+/)[0];
             const summary = paragraphs[1]
                 .replace(/.+:\s/, '')
-                .replace('<picture>', '');
+                .replace(/`/g, '')
+                .replace(/</g, '&lt;')
+                .replace(/>/g, '&gt;');
             const dateRaw = paragraphs[1].match(/\d+ \S+ \d+:/) ?
                 paragraphs[1].match(/.+:/)[0]
                     .replace(':', '') :

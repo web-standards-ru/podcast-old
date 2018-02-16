@@ -4,7 +4,8 @@
     "test": "yaspeller episodes",
     "text": "demarked",
     "html": "marked",
-    "feed": "node feed"
+    "feed": "node feed",
+    "validate:audio": "node feed/validation/audioExists"
   },
   "dependencies": {
     "demarked": "0.0.4",
@@ -15,5 +16,8 @@
     "pretty-data": "^0.40.0",
     "showdown": "^1.8.5",
     "yaspeller": "^4.0.3"
+  },
+  "devDependencies": {
+    "git-hooks": "^1.1.10"
   }
 }

@@ -9,25 +9,11 @@ const {
     IS_PRODUCTION,
 } = require('./constants');
 const prepareTemplate = require('./prepareTemplate');
+const collectEpisodes = require('./collectEpisodes');
 
-
-readdir(MD_FOLDER, (err, files) => {
-    if (err) {
-        console.error(err);
-        process.exit(1);
-    }
-
-    const isEpisode = (filename) => {
-        return !isNaN(+filename.split('-')[1].split('.md')[0])
-    }
-    const episodes = files
-        .filter(filename => isEpisode(filename))
-        .sort((prev, next) => {
-            const episodeRe = /episode-([0-9]+)\.md/;
-            return prev.match(episodeRe)[1] - next.match(episodeRe)[1];
-        });
-
-    Promise.all(episodes.map(episode => prepareTemplate(episode)))
+collectEpisodes
+    .then(episodes => {
+        return Promise.all(episodes.map(episode => prepareTemplate(episode)))
         .then(res => {
             const XML_ITEMS_ARRAY = [];
 
@@ -59,9 +45,8 @@ readdir(MD_FOLDER, (err, files) => {
                 .on('error', () => console.error('Something’s wrong try again'));
         })
         .catch(err => console.error(err));
-
-    // TODO remove before production, denug only
-    /* prepareTemplate(episodes[94])
-        .then(res => console.log(res))
-        .catch(err => console.error(err)); */
+    })
+    .catch(err => {
+        console.error(err);
+        process.exit(1);
 })
