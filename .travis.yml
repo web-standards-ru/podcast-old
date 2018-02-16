@@ -7,7 +7,7 @@ addons:
   ssh_known_hosts:
   - web-standards.ru
 before_deploy:
-- .travis/set-up-ssh
+- .travis/setup_ssh
 deploy:
   skip_cleanup: true
   provider: script
