@@ -29,8 +29,8 @@ module.exports = (file) => {
             const summary = paragraphs[1]
                 .replace(/.+:\s/, '')
                 .replace(/`/g, '')
-                .replace(/</g, '&lt;')
-                .replace(/>/g, '&gt;');
+                .replace(/</g, '&#x3C;')
+                .replace(/>/g, '&#x3E;');
             const dateRaw = paragraphs[1].match(/\d+ \S+ \d+:/) ?
                 paragraphs[1].match(/.+:/)[0]
                     .replace(':', '') :
