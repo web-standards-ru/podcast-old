@@ -6,7 +6,7 @@
 - Вадим Макеев
 - Алексей Симоненко
 
-Слушайте [в iTunes](https://itunes.apple.com/ru/podcast/veb-standarty/id1080500016), [на Ютубе](https://www.youtube.com/playlist?list=PLMBnwIwFEFHcwuevhsNXkFTcadeX5R1Go) или [на SoundCloud](https://soundcloud.com/web-standards), подписывайтесь [на RSS](https://pcr.apple.com/id1080500016) и [обсуждайте в Слаке](http://slack.web-standards.ru/).
+Слушайте [в iTunes](https://itunes.apple.com/ru/podcast/veb-standarty/id1080500016), [на Ютубе](https://www.youtube.com/playlist?list=PLMBnwIwFEFHcwuevhsNXkFTcadeX5R1Go) или [на SoundCloud](https://soundcloud.com/web-standards), подписывайтесь [на RSS](https://web-standards.ru/podcast/feed/) и [обсуждайте в Слаке](http://slack.web-standards.ru/).
 
 ## События (00:00:13)
 
@@ -36,7 +36,6 @@
 ## React на веб-компонентах (00:33:26)
 
 - [Web Components, the React way](https://medium.com/p/8ed5b6f4f942)
-- [Статья](ссылка)
 
 ## Суровый Unix (00:34:57)
 

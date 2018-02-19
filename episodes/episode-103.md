@@ -1,11 +1,11 @@
 # Выпуск №103
 
-15 января 2018: браузеры и разработка интерфейсов, где искать, если потеряли статью, точка с запятой в JS, понятно о выравнивании в CSS, трюки Сары с SVG, управление проектами, фронтендер в Берлине.
+15 января 2018: Браузеры и разработка интерфейсов, где искать, если потеряли статью, точка с запятой в JS, понятно о выравнивании в CSS, трюки Сары с SVG, управление проектами, фронтендер в Берлине.
 
 - Андрей Саломатин
 - Вадим Макеев
 
-Слушайте [в iTunes](https://itunes.apple.com/ru/podcast/veb-standarty/id1080500016), [на Ютубе](https://www.youtube.com/playlist?list=PLMBnwIwFEFHcwuevhsNXkFTcadeX5R1Go) или [на SoundCloud](https://soundcloud.com/web-standards), подписывайтесь [на RSS](https://pcr.apple.com/id1080500016) и [обсуждайте в Слаке](http://slack.web-standards.ru/).
+Слушайте [в iTunes](https://itunes.apple.com/ru/podcast/veb-standarty/id1080500016), [на Ютубе](https://www.youtube.com/playlist?list=PLMBnwIwFEFHcwuevhsNXkFTcadeX5R1Go) или [на SoundCloud](https://soundcloud.com/web-standards), подписывайтесь [на RSS](https://web-standards.ru/podcast/feed/) и [обсуждайте в Слаке](http://slack.web-standards.ru/).
 
 ## События (00:02:13)
 

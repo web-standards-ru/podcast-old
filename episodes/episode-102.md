@@ -1,11 +1,11 @@
 # Выпуск №102
 
-9 января 2017: Зачем нужны эксперименты с CSS, Хаяку на JS, как развиваются спецификации CSS и что им мешает, стили в компонентном стеке.
+9 января 2018: Зачем нужны эксперименты с CSS, Хаяку на JS, как развиваются спецификации CSS и что им мешает, стили в компонентном стеке.
 
 - Роман Комаров
 - Вадим Макеев
 
-Слушайте [в iTunes](https://itunes.apple.com/ru/podcast/veb-standarty/id1080500016), [на Ютубе](https://www.youtube.com/playlist?list=PLMBnwIwFEFHcwuevhsNXkFTcadeX5R1Go) или [на SoundCloud](https://soundcloud.com/web-standards), подписывайтесь [на RSS](https://pcr.apple.com/id1080500016) и [обсуждайте в Слаке](http://slack.web-standards.ru/).
+Слушайте [в iTunes](https://itunes.apple.com/ru/podcast/veb-standarty/id1080500016), [на Ютубе](https://www.youtube.com/playlist?list=PLMBnwIwFEFHcwuevhsNXkFTcadeX5R1Go) или [на SoundCloud](https://soundcloud.com/web-standards), подписывайтесь [на RSS](https://web-standards.ru/podcast/feed/) и [обсуждайте в Слаке](http://slack.web-standards.ru/).
 
 ## События (00:01:59)
 

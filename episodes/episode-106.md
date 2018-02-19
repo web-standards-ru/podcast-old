@@ -1,12 +1,12 @@
 # Выпуск №106
 
-5 февраля 2018: возвращение из Америки, фронтенд и боль, цикличность в CSS, история флексов, PWA в Safari, как случился Edge.
+5 февраля 2018: Возвращение из Америки, фронтенд и боль, цикличность в CSS, история флексов, PWA в Safari, как случился Edge.
 
 - Алекс Могилевский
 - Вадим Макеев
 - Алексей Симоненко
 
-Слушайте [в iTunes](https://itunes.apple.com/ru/podcast/veb-standarty/id1080500016), [на Ютубе](https://www.youtube.com/playlist?list=PLMBnwIwFEFHcwuevhsNXkFTcadeX5R1Go) или [на SoundCloud](https://soundcloud.com/web-standards), подписывайтесь [на RSS](https://pcr.apple.com/id1080500016) и [обсуждайте в Слаке](http://slack.web-standards.ru/).
+Слушайте [в iTunes](https://itunes.apple.com/ru/podcast/veb-standarty/id1080500016), [на Ютубе](https://www.youtube.com/playlist?list=PLMBnwIwFEFHcwuevhsNXkFTcadeX5R1Go) или [на SoundCloud](https://soundcloud.com/web-standards), подписывайтесь [на RSS](https://web-standards.ru/podcast/feed/) и [обсуждайте в Слаке](http://slack.web-standards.ru/).
 
 ## События (00:02:40)
 

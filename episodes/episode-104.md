@@ -1,12 +1,12 @@
 # Выпуск №104
 
-22 января 2018: уточнение про селектор `matches`, гриды для бизнеса, нейровёрстка, или как машины вас не заменят, согласие по `<main>`, общие JS-модули, шортики и уважение.
+22 января 2018: Уточнение про селектор `matches`, гриды для бизнеса, нейровёрстка, или как машины вас не заменят, согласие по `<main>`, общие JS-модули, шортики и уважение.
 
 - Ольга Алексашенко
 - Вадим Макеев
 - Алексей Симоненко
 
-Слушайте [в iTunes](https://itunes.apple.com/ru/podcast/veb-standarty/id1080500016), [на Ютубе](https://www.youtube.com/playlist?list=PLMBnwIwFEFHcwuevhsNXkFTcadeX5R1Go) или [на SoundCloud](https://soundcloud.com/web-standards), подписывайтесь [на RSS](https://pcr.apple.com/id1080500016) и [обсуждайте в Слаке](http://slack.web-standards.ru/).
+Слушайте [в iTunes](https://itunes.apple.com/ru/podcast/veb-standarty/id1080500016), [на Ютубе](https://www.youtube.com/playlist?list=PLMBnwIwFEFHcwuevhsNXkFTcadeX5R1Go) или [на SoundCloud](https://soundcloud.com/web-standards), подписывайтесь [на RSS](https://web-standards.ru/podcast/feed/) и [обсуждайте в Слаке](http://slack.web-standards.ru/).
 
 ## События (00:00:35)
 

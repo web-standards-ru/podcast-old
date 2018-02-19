@@ -1,16 +1,14 @@
 /**
  * Converting seconds to 'hh:mm:ss:'
- * @see https://stackoverflow.com/a/31340408
+ * @see https://stackoverflow.com/questions/5539028/converting-seconds-into-hhmmss
  *
  * @param   {Number} secs - seconds
  * @returns {String}
  */
-module.exports = (secs) => {
-    let minutes = Math.floor(secs / 60);
-    secs = secs % 60;
-    const hours = Math.floor(minutes / 60)
-    minutes = minutes % 60;
-    const pad = (num) => ("0" + num).slice(-2);
 
-    return pad(hours) + ":" + pad(minutes) + ":" + pad(secs);
-}
+module.exports = secs => {
+    const h = Math.floor(secs / 3600);
+    const m = Math.floor((secs % 3600) / 60);
+    const s = Math.floor((secs % 3600) % 60);
+    return `${`0${h}`.slice(-2)}:${`0${m}`.slice(-2)}:${`0${s}`.slice(-2)}`;
+  };

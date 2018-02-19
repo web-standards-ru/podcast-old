@@ -1,0 +1,7 @@
+#!/bin/bash
+
+echo "generate feed"
+NODE_ENV=production npm run feed || exit 1
+
+echo "deploy feed"
+scp ${TRAVIS_BUILD_DIR}/index.xml web-standards.ru:/var/www/web-standards.ru/html/podcast/feed

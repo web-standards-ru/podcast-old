@@ -8,12 +8,13 @@
 - Вадим Макеев
 - Алексей Симоненко
 
-Слушайте нас [в iTunes](https://itunes.apple.com/ru/podcast/veb-standarty/id1080500016), [на Ютубе](https://www.youtube.com/playlist?list=PLMBnwIwFEFHcwuevhsNXkFTcadeX5R1Go) или [на SoundCloud](https://soundcloud.com/web-standards), подписывайтесь [на RSS](https://pcr.apple.com/id1080500016) и [обсуждайте в Слаке](http://slack.web-standards.ru/).
+Слушайте нас [в iTunes](https://itunes.apple.com/ru/podcast/veb-standarty/id1080500016), [на Ютубе](https://www.youtube.com/playlist?list=PLMBnwIwFEFHcwuevhsNXkFTcadeX5R1Go) или [на SoundCloud](https://soundcloud.com/web-standards), подписывайтесь [на RSS](https://web-standards.ru/podcast/feed/) и [обсуждайте в Слаке](http://slack.web-standards.ru/).
 
 ## Экспорт
 
 - Текст: `npm run text -- episodes/episode-N.md`
 - HTML: `npm run html -- episodes/episode-N.md`
+- XML: `npm run feed`
 
 ## Выпуски
 
@@ -29,7 +30,7 @@
 | [71][]  | [72][]  | [73][]  | [74][]  | [75][]  | [76][]  | [77][]  | [78][]  | [79][]  | [80][]  |
 | [81][]  | [82][]  | [83][]  | [84][]  | [85][]  | [86][]  | [87][]  | [88][]  | [89][]  | [90][]  |
 | [91][]  | [92][]  | [93][]  | [94][]  | [95][]  | [96][]  | [97][]  | [98][]  | [99][]  | [100][] |
-| [101][] | [102][] | [103][] | [104][] | [105][] | [106][] | [107][] |         |         |         |
+| [101][] | [102][] | [103][] | [104][] | [105][] | [106][] | [107][] | [108][] |         |         |
 
 [01]: episodes/episode-01.md
 [02]: episodes/episode-02.md
@@ -138,23 +139,11 @@
 [105]: episodes/episode-105.md
 [106]: episodes/episode-106.md
 [107]: episodes/episode-107.md
+[108]: episodes/episode-108.md
 
 ## Расшифровки
 
 Полные или частичные расшифровки выпусков лежат в папке [transcripts](https://github.com/web-standards-ru/podcast/tree/master/transcripts). Хотите помочь с расшифровкой любимых выпусков? [Заходите в ишью](https://github.com/web-standards-ru/podcast/issues).
-
-## XML парсер
-
-Используется для интеграции с iTunes подкастами и т.д.
-
-Информация парсится из *.md файлов каждого эпизода и генерится в файл `feed/templates/index.xml`.
-Для запуска парсера необходимо запустить комнанду `npm run feed`.
-<!--
-TODO В будущем если потребуется расширение парсера можно будет указать директорию с темплейтами
-Где в качестве ключа `${folder}` необходимо указать папку с темплейтами XML и результатами.
-Например для генерации подкастов itunes используется `npm run rss -- itunes`
--->
-[Подробное описание модуля](feed/README.md)
 
 ---
 Распространяется под лицензией [СС BY-NC-ND 4.0](LICENSE.md).
