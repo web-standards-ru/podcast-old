@@ -1,6 +1,6 @@
 # Выпуск №89
 
-9 октября 2017: Браузеры и разнообразие, сетки и смерть сайтов, плохая кнопка, зачем доступность, знакомьтесь: JS.
+9 октября 2017: Браузеры и разнообразие, сетки и смерть сайтов, плохая кнопка, зачем доступность, знакомьтесь, JS.
 
 - Ольга Алексашенко
 - Вадим Макеев
@@ -39,6 +39,6 @@
 - [ARIA Authoring Practices 1.1](https://www.w3.org/TR/wai-aria-practices-1.1/)
 - [The future of accessibility for custom elements](https://robdodson.me/the-future-of-accessibility-for-custom-elements/)
 
-## Знакомьтесь: JS (01:02:38)
+## Знакомьтесь, JS (01:02:38)
 
 - [Знакомство с JavaScript](https://htmlacademy.ru/courses/207)
