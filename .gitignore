@@ -1,8 +1,4 @@
 node_modules
 index.xml
 .vscode
-<<<<<<< HEAD
-=======
 .travis/deploy_key
-
->>>>>>> 722dbb27e8e99961de268be2a24ba365625885f2
