@@ -39,8 +39,9 @@ module.exports = (file) => {
             const date = moment(dateRaw, DATE_PARSE_FORMAT).locale('en').format(DATE_SHOW_FORMAT);
             const html = converter
                 .makeHtml(content.replace(/^#.*\n\n/, '# '))
-                .replace('<h1>', '<p>')
-                .replace('</h1>', '</p>');
+                // Replace first available header with <p></p>
+                .replace(/^<h1>/, '<p>')
+                .replace(/<\/h1>$/m, '</p>');
 
             /**
              * fabric to create array of authors
