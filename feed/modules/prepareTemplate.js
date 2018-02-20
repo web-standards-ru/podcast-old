@@ -27,16 +27,21 @@ module.exports = (file) => {
             const N = header.match(/\d+/)[0];
             const title = header.match(/\S+\s+.\d+/)[0];
             const summary = paragraphs[1]
-                .replace(/.+:\s/, '')
+                .replace(/.+\d+:/, '')
                 .replace(/`/g, '')
                 .replace(/</g, '&#x3C;')
-                .replace(/>/g, '&#x3E;');
+                .replace(/>/g, '&#x3E;')
+                .trim();
             const dateRaw = paragraphs[1].match(/\d+ \S+ \d+:/) ?
                 paragraphs[1].match(/.+:/)[0]
                     .replace(':', '') :
                 '';
             const date = moment(dateRaw, DATE_PARSE_FORMAT).locale('en').format(DATE_SHOW_FORMAT);
-            const html = converter.makeHtml(content.replace(/^#.*\n\n/, '# '));
+            const html = converter
+                .makeHtml(content.replace(/^#.*\n\n/, '# '))
+                // Replace first available header with <p></p>
+                .replace(/^<h1>/, '<p>')
+                .replace(/<\/h1>$/m, '</p>');
 
             /**
              * fabric to create array of authors
