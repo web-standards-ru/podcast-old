@@ -12,7 +12,7 @@
     "fs": "0.0.2",
     "https": "^1.0.0",
     "marked": "^0.3.6",
-    "moment": "^2.19.3",
+    "moment-timezone": "^0.5.14",
     "pretty-data": "^0.40.0",
     "showdown": "^1.8.5",
     "yaspeller": "^4.0.3"

@@ -1,5 +1,5 @@
 const { readFile } = require('fs');
-const moment = require('moment');
+const moment = require('moment-timezone');
 const showdown = require('showdown');
 const converter = new showdown.Converter({ noHeaderId: true });
 
@@ -36,7 +36,7 @@ module.exports = (file) => {
                 paragraphs[1].match(/.+:/)[0]
                     .replace(':', '') :
                 '';
-            const date = moment(dateRaw, DATE_PARSE_FORMAT).locale('en').format(DATE_SHOW_FORMAT);
+            const date = moment(dateRaw, DATE_PARSE_FORMAT).tz('Europe/Moscow').locale('en').format(DATE_SHOW_FORMAT);
             const html = converter
                 .makeHtml(content.replace(/^#.*\n\n/, '# '))
                 // Replace first available header with <p></p>
