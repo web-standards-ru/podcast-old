@@ -10,7 +10,7 @@ iTunes https://itunes.apple.com/ru/podcast/veb-standarty/id1080500016
 Ютуб https://www.youtube.com/playlist?list=PLMBnwIwFEFHcwuevhsNXkFTcadeX5R1Go
 SoundCloud https://soundcloud.com/web-standards
 RSS https://web-standards.ru/podcast/feed/
-Обсуждение https://slack.web-standards.ru/
+Обсуждение http://slack.web-standards.ru/
 
 Тема (00:00:00)
 
