@@ -22,6 +22,7 @@ const SHOW_TIME = '12:00';
 
 const IS_PRODUCTION = process.env.NODE_ENV === 'production';
 const MP3_BITRATE = 8000;
+const MP3_TIME_PADDING = 63; // is time padding from server;
 /**
  * Web-standarts URLS fabric
  */
@@ -43,4 +44,5 @@ module.exports = {
     MP3_BITRATE,
     WS_SITE,
     SHOW_TIME,
+    MP3_TIME_PADDING,
 };
