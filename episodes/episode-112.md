@@ -22,6 +22,7 @@
 
 - [SECON в Пензе 16–17 марта](https://2018.secon.ru/)
 - [YGLF в Киеве 24–25 мая](http://yglf.com.ua/)
+- 15% скидка на YGLF: wstspring
 
 ## Новинки Firefox 59
 
