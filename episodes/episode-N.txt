@@ -7,6 +7,10 @@
 — Мария Просвирнина
 — Алексей Симоненко
 
+Содержание
+
+00:00:00 Тема
+
 iTunes — https://itunes.apple.com/ru/podcast/veb-standarty/id1080500016
 Ютубе — https://www.youtube.com/playlist?list=PLMBnwIwFEFHcwuevhsNXkFTcadeX5R1Go
 SoundCloud — https://soundcloud.com/web-standards
@@ -18,7 +22,7 @@ RSS — https://web-standards.ru/podcast/feed/
 Фейсбук — https://www.facebook.com/webstandardsru
 Телеграм — https://t.me/webstandards_ru
 
-Тема (00:00:00)
+Тема
 
 Статья ссылка
 Статья ссылка
