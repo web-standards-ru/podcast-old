@@ -8,14 +8,14 @@
 
 ## Содержание
 
-## События
-## Единицы измерения шрифта (00:02:10
-## Инлайнить ли шрифты
-## Новинки браузеров
-## Голый CSS на отступах
-## Лево и право для CSS-свойств
-## Критика React
-## Опрос Stack Overflow
+- 00:00:21 События
+- 00:02:10 Единицы измерения шрифта
+- 00:18:07 Инлайнить ли шрифты
+- 00:23:19 Новинки браузеров
+- 00:36:36 Голый CSS на отступах
+- 00:42:10 Лево и право для CSS-свойств
+- 00:45:00 Критика React
+- 00:55:36 Опрос Stack Overflow
 
 Слушайте [в iTunes](https://itunes.apple.com/ru/podcast/veb-standarty/id1080500016), [на Ютубе](https://www.youtube.com/playlist?list=PLMBnwIwFEFHcwuevhsNXkFTcadeX5R1Go) или [на SoundCloud](https://soundcloud.com/web-standards), подписывайтесь [на RSS](https://web-standards.ru/podcast/feed/) и [обсуждайте в Слаке](http://slack.web-standards.ru/). Читайте новости в [Твиттере](https://twitter.com/webstandards_ru), [Вконтакте](https://vk.com/webstandards_ru), [Фейсбуке](https://www.facebook.com/webstandardsru) или [Телеграме](https://t.me/webstandards_ru).
 
