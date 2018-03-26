@@ -6,9 +6,18 @@
 - Вадим Макеев
 - Алексей Симоненко
 
+## Содержание
+
+- 00:03:21 События
+- 00:15:47 Бета Chrome 64 и V8
+- 00:20:30 Поддержка опенсорса
+- 00:50:00 Что не так с CSS
+- 01:05:50 Что не так с классами в JS
+- 01:22:22 HTML 5.2 и WHATWG
+
 Слушайте [в iTunes](https://itunes.apple.com/ru/podcast/veb-standarty/id1080500016), [на Ютубе](https://www.youtube.com/playlist?list=PLMBnwIwFEFHcwuevhsNXkFTcadeX5R1Go) или [на SoundCloud](https://soundcloud.com/web-standards), подписывайтесь [на RSS](https://web-standards.ru/podcast/feed/) и [обсуждайте в Слаке](http://slack.web-standards.ru/). Читайте новости в [Твиттере](https://twitter.com/webstandards_ru), [Вконтакте](https://vk.com/webstandards_ru), [Фейсбуке](https://www.facebook.com/webstandardsru) или [Телеграме](https://t.me/webstandards_ru).
 
-## События (00:03:21)
+## События
 
 - [Pitercss_meetup №17 в Питере 20 декабря](https://pitercss.timepad.ru/event/627086/)
 - [WSD в Москве 3 февраля](https://wsd.events/2018/02/03/)
@@ -21,26 +30,26 @@
 - [Pitercss_conf в Питере 8–9 июня](https://pitercss.com/)
 - [CSS Day в Амстердаме 14–15 июня](https://cssday.nl/2018)
 
-## Бета Chrome 64 и V8 (00:15:47)
+## Бета Chrome 64 и V8
 
 - [Chrome 64 Beta](https://developers.google.com/web/updates/2017/12/chrome-63-64-media-updates)
 - [V8 JavaScript code coverage](https://v8project.blogspot.ru/2017/12/javascript-code-coverage.html)
 
-## Поддержка опенсорса (00:20:30)
+## Поддержка опенсорса
 
 - [Sindre Sorhus is creating open source software](https://www.patreon.com/sindresorhus)
 - [Gitcoin](https://gitcoin.co/)
 
-## Что не так с CSS (00:50:00)
+## Что не так с CSS
 
 - [CSS Reset: Bert Bos & Håkon Wium Lie](https://vimeo.com/237192358)
 
-## Что не так с классами в JS (01:05:50)
+## Что не так с классами в JS
 
 - [I don’t like this pattern, Аксель Раухшмайер](https://twitter.com/rauschma/status/937832318177366016)
 - [Ideally the latter I'd say, Бенедикт Мауэр](https://twitter.com/bmeurer/status/937968208140750851)
 
-## HTML 5.2 и WHATWG (01:22:22)
+## HTML 5.2 и WHATWG
 
 - [Рекомендация HTML 5.2](https://www.w3.org/TR/html52/changes.html#changes)
 - [Thanks Steve for everything](https://lists.w3.org/Archives/Public/public-html/2017Dec/0006.html)

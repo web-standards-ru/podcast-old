@@ -5,9 +5,17 @@
 - Ольга Алексашенко
 - Вадим Макеев
 
+## Содержание
+
+- 00:00:11 События
+- 00:05:02 Браузеры и MDN
+- 00:35:15 Ошибки верстальщиков
+- 00:46:27 Дизайнеры учатся кодить
+- 00:56:36 Харассмент
+
 Слушайте [в iTunes](https://itunes.apple.com/ru/podcast/veb-standarty/id1080500016), [на Ютубе](https://www.youtube.com/playlist?list=PLMBnwIwFEFHcwuevhsNXkFTcadeX5R1Go) или [на SoundCloud](https://soundcloud.com/web-standards), подписывайтесь [на RSS](https://web-standards.ru/podcast/feed/) и [обсуждайте в Слаке](http://slack.web-standards.ru/). Читайте новости в [Твиттере](https://twitter.com/webstandards_ru), [Вконтакте](https://vk.com/webstandards_ru), [Фейсбуке](https://www.facebook.com/webstandardsru) или [Телеграме](https://t.me/webstandards_ru).
 
-## События (00:00:11)
+## События
 
 - [WSD в Минске](https://wsd.events/2017/10/21/) прошёл 21 октября
 - [Exantech Code Jam](https://exantech.timepad.ru/event/592878/), 28 октября
@@ -16,7 +24,7 @@
 - [Rolling Scopes в Минске](https://2018.conf.rollingscopes.com/) 10–11 февраля
 - [Front‑Trends в Варшаве](https://2018.front-trends.com/speaking-at-front-trends/) 24–25 мая, CFS
 
-## Браузеры и MDN (00:05:02)
+## Браузеры и MDN
 
 - [EdgeHTML 16](https://blogs.windows.com/msedgedev/2017/10/17/edgehtml-16-fall-creators-update/)
 - [Chrome 62](https://youtu.be/jO8iVc4hEe8)
@@ -29,17 +37,17 @@
 - [W3Fools](http://www.w3fools.com/)
 - [WebPlatform](https://webplatform.github.io/)
 
-## Ошибки верстальщиков (00:35:15)
+## Ошибки верстальщиков
 
 - [Ошибки и спорные вопросы вёрстки: разметка](http://nicothin.pro/page/oshibki-i-spornye-voprosy-v-html-css-vjorstke-2)
 - [Ошибки и спорные вопросы вёрстки: стилизация](http://nicothin.pro/page/oshibki-i-spornye-voprosy-v-html-css-vjorstke-3)
 
-## Дизайнеры учатся кодить (00:46:27)
+## Дизайнеры учатся кодить
 
 - [Почему я решил изучать код](https://teletype.in/@design-code/S1ZGYIt2Z)
 - [Хороший старт и первые проблемы](https://teletype.in/@design-code/SJM-kcITb)
 - [Технолог — тоже дизайнер](https://events.yandex.ru/lib/talks/460/)
 
-## Харассмент (00:56:36)
+## Харассмент
 
 - [How microaggressions are like mosquito bites](https://youtu.be/hDd3bzA7450)

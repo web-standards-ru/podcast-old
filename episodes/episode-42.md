@@ -6,9 +6,19 @@
 - Андрей Оконечников
 - Алексей Симоненко
 
+## Содержание
+
+- 00:02:38 События
+- 00:06:56 Safari TP 17
+- 00:16:41 Доступность
+- 00:26:31 Fetch не торт
+- 00:34:35 Результаты 10K Apart
+- 00:36:45 Вредные советы
+- 00:40:37 Людоедский фронтенд и JS-in-JS
+
 Слушайте [в iTunes](https://itunes.apple.com/ru/podcast/veb-standarty/id1080500016), [на Ютубе](https://www.youtube.com/playlist?list=PLMBnwIwFEFHcwuevhsNXkFTcadeX5R1Go) или [на SoundCloud](https://soundcloud.com/web-standards), подписывайтесь [на RSS](https://web-standards.ru/podcast/feed/) и [обсуждайте в Слаке](http://slack.web-standards.ru/). Читайте новости в [Твиттере](https://twitter.com/webstandards_ru), [Вконтакте](https://vk.com/webstandards_ru), [Фейсбуке](https://www.facebook.com/webstandardsru) или [Телеграме](https://t.me/webstandards_ru).
 
-## События (00:02:38)
+## События
 
 - [Профессия фронтенд-архитектор, РИТ 2007](https://twitter.com/okonetchnikov/status/793752358584930304)
 - [Chrome Dev Summit](https://developer.chrome.com/devsummit/)
@@ -17,7 +27,7 @@
 - [MinskCSS 15 декабря](https://minskcss.timepad.ru/event/396816/)
 - [HolyJS в Москве 11 декабря](http://holyjs.ru/)
 
-## Safari TP17 (00:06:56)
+## Safari TP 17
 
 - [Release Notes for Safari Technology Preview 17](https://webkit.org/blog/7071/release-notes-for-safari-technology-preview-17/)
 - [What’s new in IndexedDB 2.0?](https://hacks.mozilla.org/2016/10/whats-new-in-indexeddb-2-0/)
@@ -25,25 +35,25 @@
 - [WOFF2 на Can I Use](http://caniuse.com/#feat=woff2)
 - [ColorSnapper](http://colorsnapper.com/)
 
-## Доступность (00:16:41)
+## Доступность
 
 - [Доступность сайтов для самых маленьких](https://medium.com/p/28d8ab6ebd3d)
 - [Госсайт, доступный для людей с ограниченными возможностями](http://gov.design/blog/2016/11/08/accessibility.html)
 - [WAVE Evaluation Tool](https://chrome.google.com/webstore/detail/wave-evaluation-tool/jbbplnpkjmmeebjpijfedlgcdilocofh)
 
-## Fetch не торт (00:26:31)
+## Fetch не торт
 
 - [Why I won’t be using Fetch API in my apps](https://medium.com/p/6900e6c6fe78)
 
-## Результаты 10K Apart (00:34:35)
+## Результаты 10K Apart
 
 - [Announcing the winners of the 2016 10k Apart contest](https://blogs.windows.com/msedgedev/2016/11/04/announcing-the-winners-of-the-2016-10k-apart-contest/)
 
-## Вредные советы (00:36:45)
+## Вредные советы
 
 - [Как отравить мобильного пользователя](http://prgssr.ru/development/kak-otravit-polzovatelya-s-mobilnym.html)
 
-## Людоедский фронтенд и JS-in-JS (00:40:37)
+## Людоедский фронтенд и JS-in-JS
 
 - [CSS Modules](https://github.com/css-modules/css-modules)
 - [Styled Components](https://styled-components.com/)

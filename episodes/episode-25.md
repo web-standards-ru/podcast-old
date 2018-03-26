@@ -6,9 +6,21 @@
 - Вадим Макеев
 - Алексей Симоненко
 
+## Содержание
+
+- 00:00:13 События
+- 00:03:03 Плагины для Atom
+- 00:10:44 Доступность
+- 00:14:26 Загрузка шрифтов
+- 00:19:59 Введение в промисы
+- 00:26:16 Векторные эффекты
+- 00:29:10 Кто такой Антон Виноградов?
+- 00:39:39 Инструменты для дизайнеров
+- 00:58:13 Расшифровки подкаста
+
 Слушайте [в iTunes](https://itunes.apple.com/ru/podcast/veb-standarty/id1080500016), [на Ютубе](https://www.youtube.com/playlist?list=PLMBnwIwFEFHcwuevhsNXkFTcadeX5R1Go) или [на SoundCloud](https://soundcloud.com/web-standards), подписывайтесь [на RSS](https://web-standards.ru/podcast/feed/) и [обсуждайте в Слаке](http://slack.web-standards.ru/). Читайте новости в [Твиттере](https://twitter.com/webstandards_ru), [Вконтакте](https://vk.com/webstandards_ru), [Фейсбуке](https://www.facebook.com/webstandardsru) или [Телеграме](https://t.me/webstandards_ru).
 
-## События (00:00:13)
+## События
 
 - [IT Global Meetup](http://piter-united.ru/itgm8/itgm.html)
 - [Frontend Union Conf](http://frontend-union.co/), промо-код WelcomeWST со скидкой 15%
@@ -16,34 +28,34 @@
 - FrontendFellows в Казахстане: [29 июля Астана](https://frontendfellows.timepad.ru/event/328848/), [30 июля Алматы](https://frontendfellows.timepad.ru/event/349319/)
 - [WSD осенью](https://wsd.events/#calendar), заявки на wst@web-standards.ru
 
-## Плагины для Atom (00:03:03)
+## Плагины для Atom
 
 - [Atom treasures, a list of Atom plugins I can’t live without](https://medium.com/p/82a64ac391c)
 - [HyperTerm](https://hyperterm.org/), терминал на Electron и веб-технологиях
 - [Atom Minimap](https://atom.io/packages/minimap)
 - [Atom Pair](https://atom.io/packages/atom-pair)
 
-## Доступность (00:10:44)
+## Доступность
 
 - [ChromeLens](http://chromelens.xyz/)
 - [Accessibility Developer Tools](https://chrome.google.com/webstore/detail/accessibility-developer-t/fpkknkljclfencbdbgkenhalefipecmb?hl=en)
 - [A11y Command-line Tools](https://addyosmani.com/a11y/)
 
-## Загрузка шрифтов (00:14:26)
+## Загрузка шрифтов
 
 - [A Comprehensive Guide to Font Loading Strategies](https://www.zachleat.com/web/comprehensive-webfonts/)
 - [CSS Font Rendering Controls](https://tabatkins.github.io/specs/css-font-display/)
 - [Can I use: font-display support](https://github.com/Fyrd/caniuse/issues/2001)
 
-## Введение в промисы (00:19:59)
+## Введение в промисы
 
 - [JavaScript Promises 101](https://bitsofco.de/javascript-promises-101/)
 
-## Векторные эффекты (00:26:16)
+## Векторные эффекты
 
 - [SVG Vector Effects](http://callmenick.com/post/svg-vector-effects)
 
-## Кто такой Антон Виноградов? (00:29:10)
+## Кто такой Антон Виноградов?
 
 - [Антон Виноградов](https://www.facebook.com/awinogradov)
 - [Данила Ковчий](https://events.yandex.ru/lib/people/403/) и [Антон Шеин](https://events.yandex.ru/lib/people/3421690/)
@@ -52,13 +64,13 @@
 - [О чём смеются верстальщики](https://www.youtube.com/watch?v=lW4uzJp6uIg)
 - [Школа дизайна Яндекса](https://www.youtube.com/playlist?list=PLLkvpHo_HuBMU_fM4v-VS5VbUi9QuKyDR)
 
-## Инструменты для дизайнеров (00:39:39)
+## Инструменты для дизайнеров
 
 - [Next-Generation RWD Tools: Webflow, Edge Reflow, Macaw](https://www.smashingmagazine.com/2014/05/next-generation-responsive-web-design-tools-webflow-edge-reflow-macaw/)
 - [Protein](http://theprotein.io/)
 - [Protein Dynamics for Sketch](https://github.com/theprotein/dynamics-sketch)
 - [Framer](http://framerjs.com/)
 
-## Расшифровки подкаста (00:58:13)
+## Расшифровки подкаста
 
 - [Выпуск №24](https://github.com/web-standards-ru/podcast/blob/master/episodes/episode-24.md)

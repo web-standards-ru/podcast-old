@@ -6,9 +6,18 @@
 - Вадим Макеев
 - Алексей Симоненко
 
+## Содержание
+
+- 00:00:13 События
+- 00:02:55 Лицензии и DRM
+- 00:25:35 Чудеса SVG и `border-image`
+- 00:42:34 Оптимизация графики
+- 00:55:31 Шорты и JS-типизация
+- 01:03:39 Доступные диалоги
+
 Слушайте [в iTunes](https://itunes.apple.com/ru/podcast/veb-standarty/id1080500016), [на Ютубе](https://www.youtube.com/playlist?list=PLMBnwIwFEFHcwuevhsNXkFTcadeX5R1Go) или [на SoundCloud](https://soundcloud.com/web-standards), подписывайтесь [на RSS](https://web-standards.ru/podcast/feed/) и [обсуждайте в Слаке](http://slack.web-standards.ru/). Читайте новости в [Твиттере](https://twitter.com/webstandards_ru), [Вконтакте](https://vk.com/webstandards_ru), [Фейсбуке](https://www.facebook.com/webstandardsru) или [Телеграме](https://t.me/webstandards_ru).
 
-## События (00:00:13)
+## События
 
 - [WSD в Минске 21 октября](https://wsd.events/2017/10/21/)
 - [WSD в Киеве 4 ноября](https://wsd.events/2017/11/04/)
@@ -18,7 +27,7 @@
 - [FrontFest в Москве 18 ноября](http://frontfest.ru/)
 - [HolyJS в Москве 10 декабря](https://holyjs-moscow.ru/)
 
-## Лицензии и DRM (00:02:55)
+## Лицензии и DRM
 
 - [Relicensing React, Jest, Flow, and Immutable.js](https://code.facebook.com/posts/300798627056246)
 - [Relicensing the GraphQL specification](https://code.facebook.com/posts/121714468491809/relicensing-the-graphql-specification/)
@@ -26,25 +35,25 @@
 - [EME Misdirection](https://alastairc.ac/2017/09/eme-misdirection/)
 - [Considering Open Source Licenses](https://alistapart.com/article/considering-open-source-licenses)
 
-## Чудеса SVG и border-image (00:25:35)
+## Чудеса SVG и `border-image`
 
 - [SQIP, SVG-Based Image Placeholder](https://github.com/technopagan/sqip)
 - [`border-image` + `linear-gradient`](http://jsbin.com/nopihep/edit?css,output)
 - [`border-image` + Houdini Paint API](https://twitter.com/iamvdo/status/913765484402790400)
 - [Рамки и фоны, часть 2](https://htmlacademy.ru/courses/88)
 
-## Оптимизация графики (00:42:34)
+## Оптимизация графики
 
 - [Essential Image Optimization](https://images.guide/)
 - [HEIC](https://en.wikipedia.org/wiki/High_Efficiency_Image_File_Format)
 - [HEIV](https://en.wikipedia.org/wiki/High_Efficiency_Video_Coding)
 
-## Шорты и JS-типизация (00:55:31)
+## Шорты и JS-типизация
 
 - [Сахарный JS](https://habr.ru/p/338914/)
 - [Draggable JS](https://shopify.github.io/draggable/)
 - [Covfefescript?](http://coub.com/view/y2kir)
 
-## Доступные диалоги (01:03:39)
+## Доступные диалоги
 
 - [It’s a (focus) Trap!](https://habr.ru/p/338130/)

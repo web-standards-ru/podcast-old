@@ -5,9 +5,20 @@
 - Андрей Саломатин
 - Вадим Макеев
 
+## Содержание
+
+- 00:02:13 События
+- 00:05:39 Браузеры и интерфейсы
+- 00:29:57 Что-то помню, где искать?
+- 00:32:46 Точка с запятой в JS
+- 00:43:54 Выравнивание в CSS
+- 01:02:47 Трюки Сары с SVG
+- 01:07:57 Управление проектами
+- 01:24:38 Фронтендер в Берлине
+
 Слушайте [в iTunes](https://itunes.apple.com/ru/podcast/veb-standarty/id1080500016), [на Ютубе](https://www.youtube.com/playlist?list=PLMBnwIwFEFHcwuevhsNXkFTcadeX5R1Go) или [на SoundCloud](https://soundcloud.com/web-standards), подписывайтесь [на RSS](https://web-standards.ru/podcast/feed/) и [обсуждайте в Слаке](http://slack.web-standards.ru/). Читайте новости в [Твиттере](https://twitter.com/webstandards_ru), [Вконтакте](https://vk.com/webstandards_ru), [Фейсбуке](https://www.facebook.com/webstandardsru) или [Телеграме](https://t.me/webstandards_ru).
 
-## События (00:02:13)
+## События
 
 - [PiterJS в Питере 18 января](https://meetabit.com/events/piterjs-21)
 - [Я.Субботник в Нижнем Новгороде 20 января](https://events.yandex.ru/events/yasubbotnik/20-Jan-2018/)
@@ -15,7 +26,7 @@
 - [MinskJS в Минске 25 января](https://minskjs.timepad.ru/event/606146/)
 - [WSD в Москве 3 февраля](https://wsd.events/2018/02/03/)
 
-## Браузеры и интерфейсы (00:05:39)
+## Браузеры и интерфейсы
 
 - [Intent to Implement `:matches()`](https://groups.google.com/a/chromium.org/d/msg/blink-dev/kqD_G4sxfZE/6CJM01X2BwAJ)
 - [Enable Custom Elements v1](https://bugzilla.mozilla.org/1406825)
@@ -24,29 +35,29 @@
 - [Code Podcast: Don’t make me write UI!](https://soundcloud.com/podcastcode/6-dont-make-me-write-ui)
 - [CSS Houdini](https://github.com/w3c/css-houdini-drafts/wiki)
 
-## Что-то помню, где искать? (00:29:57)
+## Что-то помню, где искать?
 
 - [Слак](http://slack.web-standards.ru/)
 - [Телеграм](https://telegram.me/webstandards_ru)
 
-## Точка с запятой в JS (00:32:46)
+## Точка с запятой в JS
 
 - [Hazard of Automatic Semicolon Insertion](https://github.com/tc39/ecma262/pull/1062)
 - [Prettier](https://prettier.io/)
 - [JavaScript Standard Style](https://github.com/standard/standard)
 - [Airbnb JavaScript Style Guide](https://github.com/airbnb/javascript)
 
-## Выравнивание в CSS (00:43:54)
+## Выравнивание в CSS
 
 - [Demystifying CSS alignment](https://medium.com/p/2d3ea7a02a36)
 
-## Трюки Сары с SVG (01:02:47)
+## Трюки Сары с SVG
 
 - [Optimizing SVG Text & Image Delivery with Inline SVG](https://www.sarasoueidan.com/blog/optimizing-svg-delivery-with-svg/)
 - [Cropping & Scaling Images Using SVG Documents](http://www.sarasoueidan.com/blog/svg-object-fit/)
 
-## Управление проектами (01:07:57)
+## Управление проектами
 
 - [Systems thinking in management](https://medium.com/p/c3ed049e8d91)
 
-## Фронтендер в Берлине (01:24:38)
+## Фронтендер в Берлине

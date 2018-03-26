@@ -6,9 +6,17 @@
 - Вадим Макеев
 - Алексей Симоненко
 
+## Содержание
+
+- 00:01:47 События
+- 00:14:18 Node.js
+- 00:22:31 Типографика и CSS
+- 00:29:34 Интервенции Chrome
+- 00:44:39 Дизайн в Деньгах
+
 Слушайте [в iTunes](https://itunes.apple.com/ru/podcast/veb-standarty/id1080500016), [на Ютубе](https://www.youtube.com/playlist?list=PLMBnwIwFEFHcwuevhsNXkFTcadeX5R1Go) или [на SoundCloud](https://soundcloud.com/web-standards), подписывайтесь [на RSS](https://web-standards.ru/podcast/feed/) и [обсуждайте в Слаке](http://slack.web-standards.ru/). Читайте новости в [Твиттере](https://twitter.com/webstandards_ru), [Вконтакте](https://vk.com/webstandards_ru), [Фейсбуке](https://www.facebook.com/webstandardsru) или [Телеграме](https://t.me/webstandards_ru).
 
-## События (00:01:47)
+## События
 
 - [Видео с FrontTalks в Екатеринбурге 16–17 сентября](https://www.youtube.com/playlist?list=PLKaafC45L_SQR57ehut1UTl1gcEZZ9hqL)
 - [Видео с WSD в Минске 21 октября](https://www.youtube.com/playlist?list=PLMBnwIwFEFHcH08btMm9QFbdOCvHqHz8G)
@@ -19,23 +27,23 @@
 - [KharkivFrontend в Харькове 9 декабря](https://twitter.com/KharkivFrontend)
 - [JS Fest в Киеве 30–31 марта](http://www.jsfest.com.ua/)
 
-## Node.js (00:14:18)
+## Node.js
 
 - [Node.js 8 Moves into LTS](https://medium.com/p/74cf754a10a0)
 - [Жду npm install уже минут 10](https://twitter.com/pepelsbey/status/928216083248623616)
 
-## Типографика и CSS (00:22:31)
+## Типографика и CSS
 
 - [Intent to Ship `text-decoration-skip-ink`](https://groups.google.com/a/chromium.org/d/msg/blink-dev/47BHtmz0jVY/itAC_xpwBgAJ)
 - [CSS Text Decoration L3](https://drafts.csswg.org/css-text-decor-3/#text-decoration-line-property)
 - [CSS Pseudo-Elements L4](https://drafts.csswg.org/css-pseudo-4/#highlight-selectors)
 
-## Интервенции Chrome (00:29:34)
+## Интервенции Chrome
 
 - [My web app died from performance bankruptcy](http://tonsky.me/blog/chrome-intervention/)
 - [Chrome Platform Status: Interventions](https://www.chromestatus.com/features#intervention)
 
-## Дизайн в Деньгах (00:44:39)
+## Дизайн в Деньгах
 
 - [Grid Layout + 3:4 modular scale](https://twitter.com/nicewebtype/status/929035812662063105)
 - [bemdesign/bem-layouts](https://github.com/bemdesign/bem-layouts)

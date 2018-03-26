@@ -6,9 +6,21 @@
 - Вадим Макеев
 - Алексей Симоненко
 
+## Содержание
+
+- 00:00:12 События
+- 00:07:57 Маркетинг Firefox
+- 00:16:44 Npm 5 догоняет
+- 00:29:00 Доступность
+- 00:36:12 Почему шорты и шоу
+- 00:41:10 CSS-в-JS
+- 00:49:51 Webpack и SPA
+- 00:58:02 Гриды
+- 01:01:13 Новичкам
+
 Слушайте [в iTunes](https://itunes.apple.com/ru/podcast/veb-standarty/id1080500016), [на Ютубе](https://www.youtube.com/playlist?list=PLMBnwIwFEFHcwuevhsNXkFTcadeX5R1Go) или [на SoundCloud](https://soundcloud.com/web-standards), подписывайтесь [на RSS](https://web-standards.ru/podcast/feed/) и [обсуждайте в Слаке](http://slack.web-standards.ru/). Читайте новости в [Твиттере](https://twitter.com/webstandards_ru), [Вконтакте](https://vk.com/webstandards_ru), [Фейсбуке](https://www.facebook.com/webstandardsru) или [Телеграме](https://t.me/webstandards_ru).
 
-## События (00:00:12)
+## События
 
 - [Front-Trends](https://2017.front-trends.com/)
 - [Drone hijacked on stage](https://twitter.com/pertjensen/status/867683070861864961)
@@ -20,24 +32,24 @@
 - [OdessaJS 1—2 июля](http://odessajs.org)
 - [FrontTalks in English?](https://twitter.com/FrontTalks/status/867475908806017025)
 
-## Маркетинг Firefox (00:07:57)
+## Маркетинг Firefox
 
 - [Browse Against the Machine](https://medium.com/p/e793c0fee917)
 
-## Npm 5 догоняет (00:16:44)
+## Npm 5 догоняет
 
 - [Npm: v5.0.0](http://blog.npmjs.org/post/161081169345/v500)
 
-## Доступность (00:29:00)
+## Доступность
 
 - [Just landed behind a flag in Canary: inert](https://twitter.com/rob_dodson/status/868296999375847424)
 - [Why headings and landmarks are so important](https://youtu.be/vAAzdi1xuUY)
 
-## Почему шорты и шоу (00:36:12)
+## Почему шорты и шоу
 
 - [Зачем нужен БЭМ вне Яндекса?](https://youtu.be/lQPs20b3Ey8?list=PLQJNT2fdCJngOj0mGZaTcZRyfSBTCWHe1)
 
-## CSS-в-JS (00:41:10)
+## CSS-в-JS
 
 - [A Unified Styling Language](https://medium.com/p/d0c208de2660)
 - [Let There Be Peace On CSS](https://speakerdeck.com/didoo/let-there-be-peace-on-css)
@@ -45,18 +57,18 @@
 - [Андрей Оконечников на pitercss_conf](https://pitercss.com/#AndreyOkonetchnikov)
 - [Андрей Оконечников в 42 выпуске](https://soundcloud.com/web-standards/episode-42)
 
-## Webpack и SPA (00:49:51)
+## Webpack и SPA
 
 - [Введение в философию Webpack](https://medium.com/p/d12415cc8594)
 - [Custom Elements v1: Reusable Web Components](https://developers.google.com/web/fundamentals/getting-started/primers/customelements)
 - [Shadow DOM v1: Self-Contained Web Components](https://developers.google.com/web/fundamentals/getting-started/primers/shadowdom)
 
-## Гриды (00:58:02)
+## Гриды
 
 - [Learn CSS Grid](http://learncssgrid.com/)
 - [Accurately checking for CSS Grid support in Edge](http://gwhitworth.com/blog/2017/05/accurately-checking-for-css-grid-support-in-microsoft-edge)
 
-## Новичкам (01:01:13)
+## Новичкам
 
 - [Статьи Артёма Горбунова про типографику и вёрстку](https://isqua.ru/blog/2017/05/21/artgorbunov-typography/)
 - [Открыть папку или файл из терминала](https://isqua.ru/blog/2017/05/18/open-file-from-terminal/)
