@@ -8,16 +8,16 @@
 
 ## Содержание
 
-- 00:00:47 События
-- 00:03:19 Safari 11.1 и 20 лет Mozilla
-- 00:21:00 Спеки CSS и доверие к W3C
-- 00:34:11 Нюансы `display: contents`
-- 00:36:37 Выравнивание текста
-- 00:42:14 ES-модули уже здесь
-- 00:52:41 Новинки WebStorm
-- 01:05:05 React v16.3.0
-- 01:08:32 V8 и веб-сокеты в Node.js
-- 01:16:18 Картина отрасли
+- 00:00:57 События
+- 00:03:29 Safari 11.1 и 20 лет Mozilla
+- 00:21:11 Спеки CSS и доверие к W3C
+- 00:34:21 Нюансы `display: contents`
+- 00:36:47 Выравнивание текста
+- 00:42:24 ES-модули уже здесь
+- 00:52:52 Новинки WebStorm
+- 01:05:15 React v16.3.0
+- 01:08:42 V8 и веб-сокеты в Node.js
+- 01:16:28 Картина отрасли
 
 Слушайте [в iTunes](https://itunes.apple.com/ru/podcast/veb-standarty/id1080500016), [на Ютубе](https://www.youtube.com/playlist?list=PLMBnwIwFEFHcwuevhsNXkFTcadeX5R1Go) или [на SoundCloud](https://soundcloud.com/web-standards), подписывайтесь [на RSS](https://web-standards.ru/podcast/feed/) и [обсуждайте в Слаке](http://slack.web-standards.ru/). Читайте новости в [Твиттере](https://twitter.com/webstandards_ru), [Вконтакте](https://vk.com/webstandards_ru), [Фейсбуке](https://www.facebook.com/webstandardsru) или [Телеграме](https://t.me/webstandards_ru).
 
