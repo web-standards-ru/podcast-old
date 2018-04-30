@@ -7,6 +7,7 @@ addons:
   ssh_known_hosts:
   - web-standards.ru
 before_deploy:
+- export TZ=Europe/Moscow
 - .travis/setup_ssh
 deploy:
   skip_cleanup: true
