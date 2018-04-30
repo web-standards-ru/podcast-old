@@ -30,28 +30,28 @@
 
 ## Node.js 10 и npm 6
 
-[The Node.js Project Introduces Latest Release Line: Node.js 10.x](https://medium.com/p/bf07abfa9076)
-[Announcing npm@6](https://medium.com/p/5d0b1799a905)
+- [The Node.js Project Introduces Latest Release Line: Node.js 10.x](https://medium.com/p/bf07abfa9076)
+- [Announcing npm@6](https://medium.com/p/5d0b1799a905)
 
 ## Google Fonts и HTTPS
 
-[Google Webfonts Helper](https://google-webfonts-helper.herokuapp.com/)
-[Google Security: Distrust of the Symantec PKI](https://security.googleblog.com/2018/03/distrust-of-symantec-pki-immediate.html)
-[How HTTPS works](https://howhttps.works/)
+- [Google Webfonts Helper](https://google-webfonts-helper.herokuapp.com/)
+- [Google Security: Distrust of the Symantec PKI](https://security.googleblog.com/2018/03/distrust-of-symantec-pki-immediate.html)
+- [How HTTPS works](https://howhttps.works/)
 
 ## Фолбэки для гридов
 
-[Grid to Flex](http://www.gridtoflex.com/)
+- [Grid to Flex](http://www.gridtoflex.com/)
 
 ## ФП или ООП
 
-[Можно ли избежать функционального программирования?](https://medium.com/p/c1e812533f6)
+- [Можно ли избежать функционального программирования?](https://medium.com/p/c1e812533f6)
 
 ## Хабр по-английски
 
-[Habrahabr.ru → habr.com](https://habr.com/p/93946/)
+- [Habrahabr.ru → habr.com](https://habr.com/p/93946/)
 
 ## Заголовки для SPA
 
-[Managing Heading Levels In Design Systems](https://medium.com/p/18be9a746fa3)
-[Самый плохой SPA в интернете](http://www.specphoto.ru/)
+- [Managing Heading Levels In Design Systems](https://medium.com/p/18be9a746fa3)
+- [Самый плохой SPA в интернете](http://www.specphoto.ru/)
