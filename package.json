@@ -8,7 +8,7 @@
     "validate:audio": "node feed/validation/audioExists"
   },
   "dependencies": {
-    "demarked": "0.0.4",
+    "demarked": "0.0.5",
     "fs": "0.0.2",
     "https": "^1.0.0",
     "marked": "^0.3.6",
