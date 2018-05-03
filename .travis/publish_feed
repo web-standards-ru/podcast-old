@@ -1,4 +1,5 @@
 #!/bin/bash
+set -e
 
 echo "generate feed"
 NODE_ENV=production npm run feed || exit 1
