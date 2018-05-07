@@ -21,7 +21,7 @@
 ## События
 
 - [PiterJS №25 в Питере 10 мая](https://medium.com/p/eff54c37b110)
-- [Pitercss_meetup №22 в Питере 16 мая](https://pitercss.timepad.ru/)
+- [Pitercss_meetup №22 в Питере 16 мая](https://pitercss.timepad.ru/event/719233/)
 - [HolyJS Piter в Питере 19–20 мая](https://holyjs-piter.ru/)
 - [FrontDays в Тольятти 26 мая](https://frontdays.ru/)
 - [Krasnodar Frontend Meetup #3 в Краснодаре 2 июня](https://krddevdays.timepad.ru/event/717194/)
