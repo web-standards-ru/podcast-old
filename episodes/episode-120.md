@@ -27,7 +27,7 @@
 - [Frontend Conf в Москве 28–29 мая](http://frontendconf.ru/)
 - [ITweekend в Самаре 2–3 июня](https://events.epam.com/events/it-weekend-samara)
 - [Pitercss_conf в Питере 8–9 июня](https://pitercss.com/)
-- [Мастер-класс Виталия Фридмана 10 июня](https://htmlacademy.timepad.ru/)
+- [Мастер-класс Виталия Фридмана 10 июня](https://htmlacademy.timepad.ru/event/723197/)
 
 ## Firefox 60
 
