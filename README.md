@@ -155,7 +155,7 @@
 [118]: episodes/episode-118.md
 [119]: episodes/episode-119.md
 [120]: episodes/episode-120.md
-[121]: episodes/episode-120.md
+[121]: episodes/episode-121.md
 
 ## Расшифровки
 
