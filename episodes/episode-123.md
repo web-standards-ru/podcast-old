@@ -1,6 +1,6 @@
 # Выпуск №123
 
-4 июня 2018: YaC и WWDC, новинки Chrome, Edge и Firefox, вложенность, calc и CSS-хакеры, как писать код быстро, вариативные шрифты, await и ES-модули, есть ли зверь фулстек, Яндекс Лэндинги.
+4 июня 2018: YaC и WWDC, новинки Chrome, Edge и Firefox, вложенность, `calc` и CSS-хакеры, как писать код быстро, вариативные шрифты, await и ES-модули, есть ли зверь фулстек, Яндекс Лэндинги.
 
 - Вадим Макеев
 - Мария Просвирнина
@@ -10,7 +10,7 @@
 
 - 00:00:15 События, YaC и WWDC
 - 00:12:52 Новинки Chrome, Edge и Firefox
-- 00:24:45 Вложенность, calc и CSS-хакеры
+- 00:24:45 Вложенность, `calc` и CSS-хакеры
 - 00:38:26 Как писать код быстро
 - 00:43:16 Вариативные шрифты
 - 00:48:13 Await и ES-модули
@@ -40,7 +40,7 @@
 - [Shadow DOM in Firefox Nightly](https://twitter.com/FirefoxNightly/status/1001104178146611202)
 - [MDN: Using shadow DOM](https://developer.mozilla.org/en-US/docs/Web/Web_Components/Using_shadow_DOM)
 
-## Вложенность, calc и CSS-хакеры
+## Вложенность, `calc` и CSS-хакеры
 
 - [Request to pick up the CSS nesting proposal](https://github.com/w3c/csswg-drafts/issues/2701)
 - [Майские новинки CSS](http://css-live.ru/vecssti-s-polej/algebra-v-calc-novaya-specifichnost-selektorov-4-urovnya-i-drugie-majskie-novinki-css.html)
