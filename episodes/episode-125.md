@@ -40,10 +40,11 @@
 ## Впечатления с pitercss_conf
 
 - [Pitercss_conf в Питере 8–9 июня](https://pitercss.com/)
-- [Отчёт Андрея Мелихова на Дев Шахте](https://youtu.be/r3km4QP4v0Y)
 - [Community tickets](https://pitercss.com/community)
-- [Видео открытия pitercss_conf](https://youtu.be/rXGHz1bu-PA)
+- [Инстаграм pitercss_conf](https://www.instagram.com/pitercss_conf/)
 - [Pitercss_conf в YouTube](https://www.youtube.com/channel/UCtPAnbDiup_1jWSDNBu_zVw)
+- [Отчёт Андрея Мелихова на Дев Шахте](https://youtu.be/r3km4QP4v0Y)
+- [Видео открытия pitercss_conf](https://youtu.be/rXGHz1bu-PA)
 - [Фото: первый день в Фейсбуке](https://www.facebook.com/media/set/?set=a.609420032769836)
 - [Фото: второй день в Фейсбуке](https://www.facebook.com/media/set/?set=a.610076079370898)
 - [Фото: первый день в ВК](https://vk.com/album-161554363_253331504)
