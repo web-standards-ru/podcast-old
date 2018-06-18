@@ -34,6 +34,7 @@
 - [CSS-Minsk-JS в Минске 21–21 сентября](http://css-minsk-js.by/)
 - [FrontendConf в Москве 4–5 октября](http://frontendconf.ru/moscow/2018)
 - [KharkivJS в Харькове 5–6 октября](https://kharkivjs.org/)
+- [Фестиваль 404 в Самаре 6–7 октября](http://2018.404fest.ru/)
 - [HolyJS в Москве 24–25 ноября](https://holyjs-moscow.ru/)
 - [JSConf AM в Ереване](https://jsconf.am/)
 
