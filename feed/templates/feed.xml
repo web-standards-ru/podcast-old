@@ -3,7 +3,7 @@
     <channel>
 
         <title>Веб-стандарты</title>
-        <description>Новости фронтенда за неделю: Алексей Симоненко, Ольга Алексашенко, Вадим Макеев. Подкаст сообщества «Веб-стандарты».</description>
+        <description>Новости фронтенда за неделю в подкасте сообщества «Веб-стандарты».</description>
         <copyright>СС BY-NC-ND 4.0</copyright>
         <language>ru</language>
         <link>https://web-standards.ru/podcast/feed/</link>
@@ -11,7 +11,7 @@
         <atom:link href="https://web-standards.ru/podcast/feed/" rel="self" type="application/rss+xml"/>
 
         <itunes:subtitle>Новости фронтенда за неделю</itunes:subtitle>
-        <itunes:author>Ольга Алексашенко, Вадим Макеев, Алексей Симоненко</itunes:author>
+        <itunes:author>Ольга Алексашенко, Вадим Макеев, Мария Просвирнина, Алексей Симоненко</itunes:author>
         <itunes:explicit>no</itunes:explicit>
         <itunes:owner>
             <itunes:name>Веб-стандарты</itunes:name>
