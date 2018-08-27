@@ -44,7 +44,7 @@
 ## API для доступности
 
 - [Как не создавать барьеры для незрячих](https://youtu.be/nWJpA5MQx7s)
-- [Верстка Canvas, Алексей Охрименко](https://youtu.be/TxNfcvT9sAg)
+- [Вёрстка Canvas, Алексей Охрименко](https://youtu.be/TxNfcvT9sAg)
 - [Accessibility Object Model](https://wicg.github.io/aom/spec/#computed-accessibility-tree)
 
 ## Выгорание

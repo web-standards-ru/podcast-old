@@ -45,7 +45,7 @@
 - [Дилемма инноватора](https://www.litres.ru/kleyton-kristensen/dilemma-innovatora-kak-iz-za-novyh-tehnologiy-pogibaut-silnye-kompanii/)
 - [Sapiens. Краткая история человечества](https://www.litres.ru/uval-noy-harari/sapiens-kratkaya-istoriya-chelovechestva/)
 - [Орфография](https://www.litres.ru/dmitriy-bykov/orfografiya/)
-- [Вся кремлевская рать](https://www.litres.ru/mihail-zygar/vsya-kremlevskaya-rat-kratkaya-istoriya-sovremennoy-rossii/)
+- [Вся кремлёвская рать](https://www.litres.ru/mihail-zygar/vsya-kremlevskaya-rat-kratkaya-istoriya-sovremennoy-rossii/)
 - [Донна Тартт](https://www.litres.ru/donna-tartt-2/)
 - [Никколо Амманити](https://ru.wikipedia.org/wiki/Амманити,_Никколо)
 - [Лёха Андреев](http://fuga.ru/)

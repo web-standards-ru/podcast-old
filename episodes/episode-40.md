@@ -64,7 +64,7 @@
 
 ## Забытый `border-image`
 
-- [Еще раз про `border-image`](http://css-live.ru/articles-css/understanding-border-image.html)
+- [Ещё раз про `border-image`](http://css-live.ru/articles-css/understanding-border-image.html)
 - [Can I Use: `border-image`](http://caniuse.com/#feat=border-image)
 - [Slicing SVG 9 Ways](https://aerotwist.com/blog/slicing-svg-9-ways/)
 

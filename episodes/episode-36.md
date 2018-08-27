@@ -1,6 +1,6 @@
 # Выпуск №36
 
-4 октября 2016: Safari TP, async/await, HTML 5.2, JS-модули, недооцененные CSS и SVG, псевдоэлементы, доступность, полифилы и React.
+4 октября 2016: Safari TP, async/await, HTML 5.2, JS-модули, недооценённые CSS и SVG, псевдоэлементы, доступность, полифилы и React.
 
 - Ольга Алексашенко
 - Алексей Симоненко
@@ -12,7 +12,7 @@
 - 00:10:45 `Async` и `await` в Chrome
 - 00:13:03 Куда двигается HTML
 - 00:16:24 Сложности с JS-модулями
-- 00:22:00 Недооцененный CSS
+- 00:22:00 Недооценённый CSS
 - 00:27:21 Больший потенциал SVG
 - 00:30:41 Псевдоэлементы
 - 00:35:26 Доступность
@@ -46,9 +46,9 @@
 
 - [Node.js, TC-39, and Modules](https://hackernoon.com/node-js-tc-39-and-modules-a1118aecf95e)
 
-## Недооцененный CSS
+## Недооценённый CSS
 
-- [9 недооцененных возможностей CSS](http://prgssr.ru/development/9-nedoocenivaemyh-vozmozhnostej-css.html)
+- [9 недооценённых возможностей CSS](http://prgssr.ru/development/9-nedoocenivaemyh-vozmozhnostej-css.html)
 
 ## Больший потенциал SVG
 

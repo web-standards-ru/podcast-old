@@ -23,7 +23,7 @@
 
 - [UralJS в Екатеринбурге 5 июля](https://uraljs.timepad.ru/event/751795/)
 - [FreeCodeCamp №21 в Москве 22 июля](https://freecodecamp.timepad.ru/event/752289/)
-- [Прием докладов на 404fest в Самаре 6–7 октября](https://docs.google.com/forms/d/e/1FAIpQLSfSjYTvK1tDBYosipjjvqZXPmZGvB2lrPwQb_KXDomHCsjNvw/viewform)
+- [Приём докладов на 404fest в Самаре 6–7 октября](https://docs.google.com/forms/d/e/1FAIpQLSfSjYTvK1tDBYosipjjvqZXPmZGvB2lrPwQb_KXDomHCsjNvw/viewform)
 - [CSS-Minks-JS в Минске 21–22 сентября](http://css-minsk-js.by/)
 
 ## Доклады на BeerJS

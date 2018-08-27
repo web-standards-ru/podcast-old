@@ -42,7 +42,7 @@
 
 ## Спеки CSS и доверие к W3C
 
-- [CSS-2018: каким возможностям дать «зеленый свет»](http://css-live.ru/vecssti-s-polej/css-2018-w3c-vybiraet-kakim-vozmozhnostyam-pora-dat-zelenyj-svet.html)
+- [CSS-2018: каким возможностям дать «зелёный свет»](http://css-live.ru/vecssti-s-polej/css-2018-w3c-vybiraet-kakim-vozmozhnostyam-pora-dat-zelenyj-svet.html)
 
 ## Нюансы `display: contents`
 

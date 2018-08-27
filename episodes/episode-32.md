@@ -14,7 +14,7 @@
 - 00:12:21 Chrome 53, уже
 - 00:22:27 Кастомные элементы
 - 00:32:34 Компоненты по старинке
-- 00:36:27 Cлайсинг в `border-image`
+- 00:36:27 Слайсинг в `border-image`
 - 00:40:25 Очень ждём `font-display`
 - 00:44:12 Лия Веру и HTML
 - 00:50:28 Вомбаты в носках и npm
@@ -62,7 +62,7 @@
 
 - [Developing Extensible HTML and CSS Components](https://css-tricks.com/developing-extensible-html-css-components/)
 
-## Cлайсинг в `border-image`
+## Слайсинг в `border-image`
 
 - [Supercharged](https://www.youtube.com/playlist?list=PLNYkxOF6rcIBz9ACEQRmO9Lw8PW7vn0lr)
 - [Slicing SVG 9 Ways](https://aerotwist.com/blog/slicing-svg-9-ways/)
