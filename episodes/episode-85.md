@@ -1,47 +1,48 @@
-# Выпуск №85
+# Episode #85
 
-14 сентября 2017: Спецвыпуск с пятью короткими интервью докладчиков CSS-Minsk-JS, записанными Вадимом Макеевым.
+14 сентября 2017: Five interviews with CSS-Minsk-JS speakers: Aga Naplocha, Harry Roberts, Eva Lettner, Zach Leatherman, Hugo Giraudel recorded by Vadim Makeev.
 
-- Ага Наплоха
-- Гарри Робертс
-- Ева Леттнер
-- Зак Лезерман
-- Хьюго Жиродель
+- Vadim Makeev
+- Aga Naplocha
+- Harry Roberts
+- Eva Lettner
+- Zach Leatherman
+- Hugo Giraudel
 
-## Содержание
+## Topics
 
-- 00:00:27 Ага Наплоха
-- 00:13:18 Гарри Робертс
-- 00:34:02 Ева Леттнер
-- 00:48:20 Зак Лезерман
-- 01:02:14 Хьюго Жиродель
+- 00:00:27 Aga Naplocha
+- 00:13:18 Harry Roberts
+- 00:34:02 Eva Lettner
+- 00:48:20 Zach Leatherman
+- 01:02:14 Hugo Giraudel
 
-Слушайте [в iTunes](https://itunes.apple.com/ru/podcast/veb-standarty/id1080500016), [на Ютубе](https://www.youtube.com/playlist?list=PLMBnwIwFEFHcwuevhsNXkFTcadeX5R1Go) или [на SoundCloud](https://soundcloud.com/web-standards), подписывайтесь [на RSS](https://web-standards.ru/podcast/feed/) и [обсуждайте в Слаке](http://slack.web-standards.ru/). Читайте новости в [Твиттере](https://twitter.com/webstandards_ru), [Вконтакте](https://vk.com/webstandards_ru), [Фейсбуке](https://www.facebook.com/webstandardsru) или [Телеграме](https://t.me/webstandards_ru).
+Listen on [iTunes](https://itunes.apple.com/ru/podcast/veb-standarty/id1080500016), [YouTube](https://www.youtube.com/playlist?list=PLMBnwIwFEFHcwuevhsNXkFTcadeX5R1Go) или [SoundCloud](https://soundcloud.com/web-standards), subscribe to [RSS](https://web-standards.ru/podcast/feed/) and discuss in [Slack](http://slack.web-standards.ru/). Read news on [Twitter](https://twitter.com/webstandards_ru), [VK](https://vk.com/webstandards_ru), [Facebook](https://www.facebook.com/webstandardsru) or [Telegram](https://t.me/webstandards_ru).
 
-## Ага Наплоха
+## Aga Naplocha
 
-- [Ага в Твиттере](https://twitter.com/aganaplocha)
+- [Aga on Twitter](https://twitter.com/aganaplocha)
 - [The Awwwesomes](http://theawwwesomes.org/)
 - [CSSclasses](http://cssclass.es/)
 
-## Гарри Робертс
+## Harry Roberts
 
-- [Гарри в Твиттере](https://twitter.com/csswizardry)
+- [Harry on Twitter](https://twitter.com/csswizardry)
 - [CSS Wizardry](https://csswizardry.com/)
 - [Inuitcss](https://github.com/inuitcss/inuitcss)
 
-## Ева Леттнер
+## Eva Lettner
 
-- [Ева в Твиттере](https://twitter.com/eva_trostlos)
-- [Ева на CodePen](https://codepen.io/eva_trostlos/)
+- [Eva on Twitter](https://twitter.com/eva_trostlos)
+- [Eva on CodePen](https://codepen.io/eva_trostlos/)
 
-## Зак Лезерман
+## Zach Leatherman
 
-- [Зак в Твиттере](https://twitter.com/zachleat)
-- [Брэм Штайн в Твиттере](https://twitter.com/bram_stein)
+- [Zach on Twitter](https://twitter.com/zachleat)
+- [Bram Stein on Twitter](https://twitter.com/bram_stein)
 - [A Comprehensive Guide to Font Loading Strategies](https://www.zachleat.com/web/comprehensive-webfonts/)
 
-## Хьюго Жиродель
+## Hugo Giraudel
 
-- [Хьюго в Твиттере](https://twitter.com/HugoGiraudel)
+- [Hugo on Twitter](https://twitter.com/HugoGiraudel)
 - [Sass Guidelines](https://sass-guidelin.es/)
