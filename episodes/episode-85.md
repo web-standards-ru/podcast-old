@@ -1,6 +1,6 @@
 # Episode #85
 
-14 сентября 2017: Five interviews with CSS-Minsk-JS speakers: Aga Naplocha, Harry Roberts, Eva Lettner, Zach Leatherman, Hugo Giraudel recorded by Vadim Makeev.
+September 14th, 2017: Five interviews with CSS-Minsk-JS speakers: Aga Naplocha, Harry Roberts, Eva Lettner, Zach Leatherman, Hugo Giraudel recorded by Vadim Makeev.
 
 - Vadim Makeev
 - Aga Naplocha
