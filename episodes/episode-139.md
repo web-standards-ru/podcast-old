@@ -1,6 +1,6 @@
 # Episode #139
 
-September 25th, 2018: Four interviews with CSS-Minsk-JS speakers: Bram Stein, Patrick Lauke, Hui Jing Chen, Anna Migas recorded by Vadim Makeev.
+25 сентября 2018: Four interviews with CSS-Minsk-JS speakers: Bram Stein, Patrick Lauke, Hui Jing Chen, Anna Migas recorded by Vadim Makeev.
 
 - Vadim Makeev
 - Bram Stein
