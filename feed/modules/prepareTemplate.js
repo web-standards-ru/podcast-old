@@ -6,7 +6,7 @@ const converter = new showdown.Converter({ noHeaderId: true });
 const getMp3Length = require('./getMp3Length');
 const { MD_FOLDER, DATE_PARSE_FORMAT, DATE_SHOW_FORMAT } = require('./constants');
 
-moment.locale('RU');
+moment.locale('ru');
 /**
  * Parse *.md file and return object
  *
@@ -32,12 +32,11 @@ module.exports = (file) => {
                 .replace(/</g, '&#x3C;')
                 .replace(/>/g, '&#x3E;')
                 .trim();
-            const dateRaw = paragraphs[1].match(/\d+ \S+ \d+:/) ?
-                paragraphs[1].match(/.+:/)[0]
-                    .replace(':', '') :
-                '';
+            const dateRaw = paragraphs[1].match(/\d+ \S+ \d+:/)[0]
+                    .replace(':', '') || '';
             const locale = title.toLowerCase().indexOf('episode') > -1 ? 'en' : 'ru';
-            const date = moment(dateRaw, DATE_PARSE_FORMAT).tz('Europe/Moscow').locale(locale).format(DATE_SHOW_FORMAT);
+            const _parsedDate = moment(dateRaw, DATE_PARSE_FORMAT).tz('Europe/Moscow').toDate();
+            const date = moment(_parsedDate).locale(locale).format(DATE_SHOW_FORMAT);
             const html = converter
                 .makeHtml(content.replace(/^#.*\n\n/, '# '))
                 // Replace first available header with <p></p>
