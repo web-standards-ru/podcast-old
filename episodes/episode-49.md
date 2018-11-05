@@ -52,7 +52,7 @@
 
 - [WSD](https://wsd.events/)
 - [Фото с WSD](https://vk.com/albums-32017543)
-- [Видео с WSD и pitercss](https://www.youtube.com/user/wstdays)
+- [Видео с WSD и pitercss](https://www.youtube.com/webstandards_ru)
 - [Подкаст на SoundCloud](https://soundcloud.com/web-standards)
 - [Подкаст в iTunes](https://itunes.apple.com/podcast/id1080500016)
 

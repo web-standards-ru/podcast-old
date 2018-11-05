@@ -50,7 +50,7 @@
 
 ## Новые форматы новостей
 
-- [Веб-стандарты на Ютубе](https://www.youtube.com/user/wstdays/)
+- [Веб-стандарты на Ютубе](https://www.youtube.com/webstandards_ru/)
 - [Best Dynamic USB Microphone](https://youtu.be/Gnu0QBNZ4AU)
 - [Good Starter Microphone](https://youtu.be/EHgSC3C0pTw)
 
