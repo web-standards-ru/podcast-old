@@ -35,8 +35,16 @@ module.exports = (file) => {
             const dateRaw = paragraphs[1].match(/\d+ \S+ \d+:/)[0]
                     .replace(':', '') || '';
             const locale = title.toLowerCase().indexOf('episode') > -1 ? 'en' : 'ru';
-            const _parsedDate = moment(dateRaw, DATE_PARSE_FORMAT).tz('Europe/Moscow').toDate();
-            const date = moment(_parsedDate).locale(locale).format(DATE_SHOW_FORMAT);
+            const _parsedDate = moment(dateRaw, DATE_PARSE_FORMAT)
+                .set({
+                    hours: 9,
+                    minutes: 0,
+                    seconds: 0,
+                })
+                .tz('Europe/Moscow')
+                .toDate();
+            const date = moment(_parsedDate).locale(locale)
+                .format(DATE_SHOW_FORMAT);
             const html = converter
                 .makeHtml(content.replace(/^#.*\n\n/, '# '))
                 // Replace first available header with <p></p>

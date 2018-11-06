@@ -9,7 +9,7 @@
 - Мария Просвирнина
 - Алексей Симоненко
 
-Слушайте [в iTunes](https://itunes.apple.com/ru/podcast/veb-standarty/id1080500016), [на Ютубе](https://www.youtube.com/playlist?list=PLMBnwIwFEFHcwuevhsNXkFTcadeX5R1Go) или [на SoundCloud](https://soundcloud.com/web-standards), подписывайтесь [на RSS](https://web-standards.ru/podcast/feed/) и [обсуждайте в Слаке](http://slack.web-standards.ru/). Читайте новости в [Твиттере](https://twitter.com/webstandards_ru), [Вконтакте](https://vk.com/webstandards_ru), [Фейсбуке](https://www.facebook.com/webstandardsru) или [Телеграме](https://t.me/webstandards_ru).
+Слушайте [в iTunes](https://itunes.apple.com/podcast/id1080500016), [на Ютубе](https://www.youtube.com/playlist?list=PLMBnwIwFEFHcwuevhsNXkFTcadeX5R1Go) или [на SoundCloud](https://soundcloud.com/web-standards), подписывайтесь [на RSS](https://web-standards.ru/podcast/feed/) и [обсуждайте в Слаке](http://slack.web-standards.ru/). Читайте новости в [Твиттере](https://twitter.com/webstandards_ru), [Вконтакте](https://vk.com/webstandards_ru), [Фейсбуке](https://www.facebook.com/webstandardsru) или [Телеграме](https://t.me/webstandards_ru).
 
 ## Экспорт
 
@@ -18,6 +18,9 @@
 - XML: `npm run feed`
 
 ## Выпуски
+
+<details>
+    <summary>№0–100</summary>
 
 | №       |         |         |         |         |         |         |         |         |         |
 | ------- | ------- | ------- | ------- | ------- | ------- | ------- | ------- | ------- | ------- |
@@ -31,11 +34,26 @@
 | [71][]  | [72][]  | [73][]  | [74][]  | [75][]  | [76][]  | [77][]  | [78][]  | [79][]  | [80][]  |
 | [81][]  | [82][]  | [83][]  | [84][]  | [85][]  | [86][]  | [87][]  | [88][]  | [89][]  | [90][]  |
 | [91][]  | [92][]  | [93][]  | [94][]  | [95][]  | [96][]  | [97][]  | [98][]  | [99][]  | [100][] |
+
+</details>
+
+<details>
+    <summary>№101–200</summary>
+
+| №       |         |         |         |         |         |         |         |         |         |
+| ------- | ------- | ------- | ------- | ------- | ------- | ------- | ------- | ------- | ------- |
 | [101][] | [102][] | [103][] | [104][] | [105][] | [106][] | [107][] | [108][] | [109][] | [110][] |
 | [111][] | [112][] | [113][] | [114][] | [115][] | [116][] | [117][] | [118][] | [119][] | [120][] |
 | [121][] | [122][] | [123][] | [124][] | [125][] | [126][] | [127][] | [128][] | [129][] | [130][] |
 | [131][] | [132][] | [133][] | [134][] | [135][] | [136][] | [137][] | [138][] | [139][] | [140][] |
-| [141][] | [142][] |         |         |         |         |         |         |         |         |
+| [141][] | [142][] | [143][] | [144][] | [145][] | 146     | 147     | 148     | 149     | 150     |
+| 151     | 152     | 153     | 154     | 155     | 156     | 157     | 158     | 159     | 160     |
+| 161     | 162     | 163     | 164     | 165     | 166     | 167     | 168     | 169     | 170     |
+| 171     | 172     | 173     | 174     | 175     | 176     | 177     | 178     | 179     | 180     |
+| 181     | 182     | 183     | 184     | 185     | 186     | 187     | 188     | 189     | 190     |
+| 191     | 192     | 193     | 194     | 195     | 196     | 197     | 198     | 199     | 200     |
+
+</details>
 
 [01]: episodes/episode-01.md
 [02]: episodes/episode-02.md
@@ -179,6 +197,9 @@
 [140]: episodes/episode-140.md
 [141]: episodes/episode-141.md
 [142]: episodes/episode-142.md
+[143]: episodes/episode-143.md
+[144]: episodes/episode-144.md
+[145]: episodes/episode-145.md
 
 ## Расшифровки
 

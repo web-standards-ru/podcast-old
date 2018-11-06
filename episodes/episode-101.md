@@ -17,7 +17,7 @@
 - 01:24:41 Закругляемся
 - 01:28:24 Песня
 
-Слушайте [в iTunes](https://itunes.apple.com/ru/podcast/veb-standarty/id1080500016), [на Ютубе](https://www.youtube.com/playlist?list=PLMBnwIwFEFHcwuevhsNXkFTcadeX5R1Go) или [на SoundCloud](https://soundcloud.com/web-standards), подписывайтесь [на RSS](https://web-standards.ru/podcast/feed/) и [обсуждайте в Слаке](http://slack.web-standards.ru/). Читайте новости в [Твиттере](https://twitter.com/webstandards_ru), [Вконтакте](https://vk.com/webstandards_ru), [Фейсбуке](https://www.facebook.com/webstandardsru) или [Телеграме](https://t.me/webstandards_ru).
+Слушайте [в iTunes](https://itunes.apple.com/podcast/id1080500016), [на Ютубе](https://www.youtube.com/playlist?list=PLMBnwIwFEFHcwuevhsNXkFTcadeX5R1Go) или [на SoundCloud](https://soundcloud.com/web-standards), подписывайтесь [на RSS](https://web-standards.ru/podcast/feed/) и [обсуждайте в Слаке](http://slack.web-standards.ru/). Читайте новости в [Твиттере](https://twitter.com/webstandards_ru), [Вконтакте](https://vk.com/webstandards_ru), [Фейсбуке](https://www.facebook.com/webstandardsru) или [Телеграме](https://t.me/webstandards_ru).
 
 ## Как отмечаем НГ
 
