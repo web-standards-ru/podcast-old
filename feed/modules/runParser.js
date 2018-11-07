@@ -1,9 +1,7 @@
-const { readdir, createWriteStream } = require('fs');
+const { createWriteStream } = require('fs');
 const prettyData = require('pretty-data').pd;
 
 const {
-    MD_FOLDER,
-    TPL_FOLDER,
     XML_ITEM_TPL,
     XML_WRAPPER_TPL,
     IS_PRODUCTION,
