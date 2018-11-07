@@ -16,7 +16,8 @@ function validate(content) {
     const _date = moment(paragraphs[1], 'LL');
 
     if (!_date.isValid()) {
-        throw Error('\033[31m Date format for' + title + 'is not valid');
+        console.log('\033[31m', `Date format for ${title} is not valid`);
+        process.exit(1);
     }
 }
 
