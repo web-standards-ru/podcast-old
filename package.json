@@ -1,11 +1,12 @@
 {
   "private": true,
   "scripts": {
-    "test": "yaspeller episodes",
+    "test": "yaspeller episodes && npm run validate:dates",
     "text": "demarked",
     "html": "marked",
     "feed": "node feed",
-    "validate:audio": "node feed/validation/audioExists"
+    "validate:audio": "node feed/validation/audioExists",
+    "validate:dates": "node feed/validation/datesValidation"
   },
   "dependencies": {
     "demarked": "0.0.5",

@@ -6,7 +6,7 @@ const converter = new showdown.Converter({ noHeaderId: true });
 const getMp3Length = require('./getMp3Length');
 const { MD_FOLDER, DATE_PARSE_FORMAT, DATE_SHOW_FORMAT } = require('./constants');
 
-moment.locale('RU');
+moment.locale('ru');
 /**
  * Parse *.md file and return object
  *
@@ -32,20 +32,28 @@ module.exports = (file) => {
                 .replace(/</g, '&#x3C;')
                 .replace(/>/g, '&#x3E;')
                 .trim();
-            const dateRaw = paragraphs[1].match(/\d+ \S+ \d+:/) ?
-                paragraphs[1].match(/.+:/)[0]
-                    .replace(':', '') :
-                '';
-            const date = moment(dateRaw, DATE_PARSE_FORMAT)
-                .set({
+
+            const dateRaw = (str => {
+                const locale = title.toLowerCase().indexOf('episode') > -1 ? 'en' : 'ru';
+                moment.locale(locale);
+                const _date = moment(str, 'LL');
+
+                if (!_date.isValid()) {
+                    console.log('\033[31m', `Date format for ${title} is not valid`);
+                    process.exit(1);
+                }
+
+                return _date.set({
                     hours: 9,
                     minutes: 0,
                     seconds: 0,
                 })
-                .tz('Europe/Moscow')
-                .locale('en')
-                .format(DATE_SHOW_FORMAT);
+                    .tz('Europe/Moscow')
+                    .toDate();
+            })(paragraphs[1]);
 
+            const date = moment(dateRaw).locale('en')
+                .format(DATE_SHOW_FORMAT);
             const html = converter
                 .makeHtml(content.replace(/^#.*\n\n/, '# '))
                 // Replace first available header with <p></p>
