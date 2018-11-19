@@ -17,6 +17,8 @@ September 25th, 2018: Four interviews with CSS-Minsk-JS speakers: Bram Stein, Pa
 
 Listen on [iTunes](https://itunes.apple.com/podcast/id1080500016), [YouTube](https://www.youtube.com/playlist?list=PLMBnwIwFEFHcwuevhsNXkFTcadeX5R1Go) или [SoundCloud](https://soundcloud.com/web-standards), subscribe to [RSS](https://web-standards.ru/podcast/feed/) and discuss in [Slack](http://slack.web-standards.ru/). Read news on [Twitter](https://twitter.com/webstandards_ru), [VK](https://vk.com/webstandards_ru), [Facebook](https://www.facebook.com/webstandardsru) or [Telegram](https://t.me/webstandards_ru).
 
+Support community: [Yandex Money](https://money.yandex.ru/to/41001119329753), [PayPal](https://www.paypal.me/pepelsbey).
+
 ## Bram Stein
 
 - [Bram on Twitter](https://twitter.com/bram_stein)

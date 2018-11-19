@@ -19,6 +19,8 @@ September 14th, 2017: Five interviews with CSS-Minsk-JS speakers: Aga Naplocha, 
 
 Listen on [iTunes](https://itunes.apple.com/podcast/id1080500016), [YouTube](https://www.youtube.com/playlist?list=PLMBnwIwFEFHcwuevhsNXkFTcadeX5R1Go) или [SoundCloud](https://soundcloud.com/web-standards), subscribe to [RSS](https://web-standards.ru/podcast/feed/) and discuss in [Slack](http://slack.web-standards.ru/). Read news on [Twitter](https://twitter.com/webstandards_ru), [VK](https://vk.com/webstandards_ru), [Facebook](https://www.facebook.com/webstandardsru) or [Telegram](https://t.me/webstandards_ru).
 
+Support community: [Yandex Money](https://money.yandex.ru/to/41001119329753), [PayPal](https://www.paypal.me/pepelsbey).
+
 ## Aga Naplocha
 
 - [Aga on Twitter](https://twitter.com/aganaplocha)
