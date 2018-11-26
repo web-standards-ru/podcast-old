@@ -21,6 +21,12 @@
 
 Поддержать сообщество: [Яндекс Деньги](https://money.yandex.ru/to/41001119329753), [PayPal](https://www.paypal.me/pepelsbey).
 
+## Интро
+
+- [Артём Поликарпов в Бюро Горбунова](https://bureau.ru/burosfera/artem-polikarpov)
+- [Технолог — тоже дизайнер](https://artpolikarpov.ru/2012/01/10/1/)
+- [Фоторама](http://fotorama.io/)
+
 ## События
 
 - [DevFest SPB в Питере 27 ноября](https://devfest-spb.com/)
