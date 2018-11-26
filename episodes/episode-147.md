@@ -9,9 +9,9 @@
 
 - 00:00:28 События
 - 00:06:51 Chrome Dev Summit
-- 00:36:45 API к персональным данным
-- 00:52:12 HTTP уже 3
-- 01:13:27 Веб-компоненты
+- 00:36:43 API к персональным данным
+- 00:52:10 HTTP уже 3
+- 01:13:26 Веб-компоненты
 
 Слушайте [в iTunes](https://itunes.apple.com/podcast/id1080500016), [на Ютубе](https://www.youtube.com/playlist?list=PLMBnwIwFEFHcwuevhsNXkFTcadeX5R1Go) или [на SoundCloud](https://soundcloud.com/web-standards), подписывайтесь [на RSS](https://web-standards.ru/podcast/feed/) и [обсуждайте в Слаке](http://slack.web-standards.ru/). Читайте новости в [Твиттере](https://twitter.com/webstandards_ru), [Вконтакте](https://vk.com/webstandards_ru), [Фейсбуке](https://www.facebook.com/webstandardsru) или [Телеграме](https://t.me/webstandards_ru).
 
