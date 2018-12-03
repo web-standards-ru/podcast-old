@@ -1,6 +1,6 @@
 # Выпуск №149
 
-2 декабря 2018: Rolling Scopes, доступность, фигуры и шрифты, прогрессивная графика, как же без React, опасный npm.
+3 декабря 2018: Rolling Scopes, доступность, фигуры и шрифты, прогрессивная графика, как же без React, опасный опенсорс.
 
 - Вадим Макеев
 - Егор Гуринович
@@ -62,7 +62,7 @@
 - [Перенос на новую строку в JSX](https://medium.com/p/50a200dfd5a5)
 - [5 Ways to Style React Components in 2019](https://medium.com/p/30f1ccc2b5b)
 
-## Опасный npm
+## Опасный опенсорс
 
 - [Event-stream vulnerability explained](https://schneid.io/blog/event-stream-vulnerability-explained/)
 - [Snyk](https://snyk.io/)
