@@ -36,8 +36,8 @@
 
 ## Браузерная поддержка
 
-[GitHub ships native ES and WC, by the way](https://twitter.com/mislav/status/1083063045360939013)
-[We’re looking to do this at LinkedIn too](https://twitter.com/scalvert/status/1083600041728663552)
+- [GitHub ships native ES and WC, by the way](https://twitter.com/mislav/status/1083063045360939013)
+- [We’re looking to do this at LinkedIn too](https://twitter.com/scalvert/status/1083600041728663552)
 
 ## CSS-vs-JS
 
