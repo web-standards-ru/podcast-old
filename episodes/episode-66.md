@@ -16,9 +16,11 @@
 - 00:43:30 HTML Шорты
 - 00:45:02 Дизайнеры и код в Яндексе
 
-Слушайте [в iTunes](https://itunes.apple.com/podcast/id1080500016), [на Ютубе](https://www.youtube.com/playlist?list=PLMBnwIwFEFHcwuevhsNXkFTcadeX5R1Go) или [на SoundCloud](https://soundcloud.com/web-standards), подписывайтесь [на RSS](https://web-standards.ru/podcast/feed/) и [обсуждайте в Слаке](http://slack.web-standards.ru/). Читайте новости в [Твиттере](https://twitter.com/webstandards_ru), [Вконтакте](https://vk.com/webstandards_ru), [Фейсбуке](https://www.facebook.com/webstandardsru) или [Телеграме](https://t.me/webstandards_ru).
+Слушайте: [iTunes](https://itunes.apple.com/podcast/id1080500016), [ВКонтакте](https://vk.com/podcasts-32017543), [Яндекс.Музыка](https://music.yandex.ru/album/6245956), [Spotify](https://open.spotify.com/show/3rzAcADjpBpXt73L0epTjV), [Ютуб](https://www.youtube.com/playlist?list=PLMBnwIwFEFHcwuevhsNXkFTcadeX5R1Go), [SoundCloud](https://soundcloud.com/web-standards). Подписывайтесь [на RSS](https://web-standards.ru/podcast/feed/), [обсуждайте в Слаке](http://slack.web-standards.ru/).
 
-Поддержать сообщество: [Яндекс Деньги](https://money.yandex.ru/to/41001119329753), [PayPal](https://www.paypal.me/pepelsbey).
+Читайте: [Твиттер](https://twitter.com/webstandards_ru), [ВКонтакте](https://vk.com/webstandards_ru), [Фейсбук](https://www.facebook.com/webstandardsru) или [Телеграм](https://t.me/webstandards_ru).
+
+Поддержите: [Патреон](https://www.patreon.com/webstandards_ru), [Яндекс.Деньги](https://money.yandex.ru/to/41001119329753), [PayPal](https://www.paypal.me/pepelsbey).
 
 ## События
 
