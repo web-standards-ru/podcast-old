@@ -12,7 +12,7 @@
     "demarked": "0.0.5",
     "fs": "0.0.2",
     "https": "^1.0.0",
-    "marked": "^0.5.0",
+    "marked": "^0.6.0",
     "moment-timezone": "^0.5.14",
     "pretty-data": "^0.40.0",
     "showdown": "^1.8.5",
