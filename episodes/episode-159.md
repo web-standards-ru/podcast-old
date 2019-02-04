@@ -8,13 +8,13 @@
 
 ## Содержание
 
-- 00:00:00 Три года в эфире
-- 00:00:00 События
-- 00:00:00 JS-разработчики для ТВ
-- 00:00:00 Chrome, Safari, PWA
-- 00:00:00 Safari и JS Core
-- 00:00:00 CSS против JS
-- 00:00:00 ES2019
+- 00:02:13 Три года в эфире
+- 00:04:30 События
+- 00:05:38 JS-разработчики для ТВ
+- 00:12:08 Chrome, Safari, PWA
+- 00:29:34 Safari и JS Core
+- 00:46:43 CSS против JS
+- 01:07:17 ES2019
 
 Слушайте: [iTunes](https://itunes.apple.com/podcast/id1080500016), [ВКонтакте](https://vk.com/podcasts-32017543), [Яндекс.Музыка](https://music.yandex.ru/album/6245956), [Spotify](https://open.spotify.com/show/3rzAcADjpBpXt73L0epTjV), [Ютуб](https://www.youtube.com/playlist?list=PLMBnwIwFEFHcwuevhsNXkFTcadeX5R1Go), [SoundCloud](https://soundcloud.com/web-standards), [RSS](https://web-standards.ru/podcast/feed/).
 
@@ -69,4 +69,4 @@
 - [Что нового в JavaScript 2019? Дэвид Нил](https://medium.com/p/417d8b406346)
 - [Что нового в JavaScript 2019? Сергей Рубанов](http://t.me/juliarderity/359)
 - [Future JavaScript: what is still missing?](http://2ality.com/2019/01/future-js.html)
-- [When past decisions come back to bite us](https://twitter.com/razvancaliman/status/1091335189400354818?s=09)
+- [When past decisions come back to bite us](https://twitter.com/razvancaliman/status/1091335189400354818)
