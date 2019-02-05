@@ -20,9 +20,11 @@
 
 [Обсуждайте в Слаке](http://slack.web-standards.ru/).
 
-Читайте: [Твиттер](https://twitter.com/webstandards_ru), [ВКонтакте](https://vk.com/webstandards_ru), [Фейсбук](https://www.facebook.com/webstandardsru) или [Телеграм](https://t.me/webstandards_ru).
+Читайте: [Твиттер](https://twitter.com/webstandards_ru), [ВКонтакте](https://vk.com/webstandards_ru), [Фейсбук](https://www.facebook.com/webstandardsru), [Телеграм](https://t.me/webstandards_ru).
 
 Поддержите: [Патреон](https://www.patreon.com/webstandards_ru), [Яндекс.Деньги](https://money.yandex.ru/to/41001119329753), [PayPal](https://www.paypal.me/pepelsbey).
+
+[Обсуждайте в Слаке](http://slack.web-standards.ru/).
 
 ## Три года в эфире
 
