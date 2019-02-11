@@ -75,5 +75,5 @@
 - [Handy Colors](https://yoksel.github.io/handy-colors/)
 - [Flexbox Cheatsheet](http://yoksel.github.io/flex-cheatsheet/)
 - [Таблица символов юникода](http://yoksel.github.io/unicode-table/)
-- [Wave Maker](http://yoksel.github.io/shadowPainter/)
+- [Wave Maker](http://yoksel.github.io/wave-maker/)
 - [Shadow Painter](http://yoksel.github.io/shadowPainter/)
