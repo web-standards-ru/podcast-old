@@ -27,6 +27,7 @@
 
 ## Автор JS-интенсивов
 
+- [Автор интенсивных курсов по JS](https://moikrug.ru/vacancies/1000041017)
 - [Профессиональный JS, уровень 1](https://htmlacademy.ru/intensive/javascript)
 - [Профессиональный JS, уровень 2](https://htmlacademy.ru/intensive/ecmascript)
 - [Профессиональный JS, уровень 3](https://htmlacademy.ru/intensive/react)
