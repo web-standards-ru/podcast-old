@@ -73,7 +73,7 @@
 
 ## Рисование на CSS
 
-- [Анимация на CSS](https://codepen.io/miocene/pens/public/#)
+- [Анимация на CSS](https://codepen.io/miocene/pens/public/)
 - [Pure CSS Figures](https://codepen.io/miocene/pen/LOoGpr)
 - [Spirit](https://spiritapp.io/)
 - [Сергей Ратников](http://aduiart.ru/)
