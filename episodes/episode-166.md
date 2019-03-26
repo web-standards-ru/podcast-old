@@ -26,6 +26,7 @@
 
 ## Юля Музафарова
 
+- [Портфолио](https://miocene.github.io/web-miocene/)
 - [CodePen](https://codepen.io/miocene/)
 - [Твиттер](https://twitter.com/julia_miocene)
 
