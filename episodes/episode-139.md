@@ -21,7 +21,7 @@ Read: [Twitter](https://twitter.com/webstandards_ru), [VK](https://vk.com/websta
 
 Support: [Patreon](https://www.patreon.com/webstandards_ru), [Yandex.Money](https://money.yandex.ru/to/41001119329753), [PayPal](https://www.paypal.me/pepelsbey).
 
-[Discuss in Slack](http://slack.web-standards.ru/).
+[Discuss in Slack](http://slack.web-standards.ru/).
 
 ## Bram Stein
 
