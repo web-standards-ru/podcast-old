@@ -8,10 +8,10 @@
 
 ## Содержание
 
-- 00:00:00 События
-- 00:00:00 Safari 12.1 и IE11
-- 00:00:00 Веб-воркеры и ленивые картинки
-- 00:00:00 Sass, Эрик Мейер и CSSBattle
+- 00:02:33 События
+- 00:15:46 Safari 12.1 и IE11
+- 00:32:16 Веб-воркеры и ленивые картинки
+- 00:49:17 Sass, Эрик Мейер и CSSBattle
 
 Слушайте: [iTunes](https://itunes.apple.com/podcast/id1080500016), [ВКонтакте](https://vk.com/podcasts-32017543), [Яндекс.Музыка](https://music.yandex.ru/album/6245956), [Spotify](https://open.spotify.com/show/3rzAcADjpBpXt73L0epTjV), [Ютуб](https://www.youtube.com/playlist?list=PLMBnwIwFEFHcwuevhsNXkFTcadeX5R1Go), [SoundCloud](https://soundcloud.com/web-standards), [RSS](https://web-standards.ru/podcast/feed/).
 
