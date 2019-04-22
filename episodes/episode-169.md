@@ -28,13 +28,13 @@
 
 ## События
 
-- [Tech Meetup 6 апреля в Витебске](https://www.facebook.com/events/2001899896773489/2012861519010660/)
-- [Specia Front-end Meetup 9 апреля в Питере](https://specia-events.timepad.ru/event/933947/)
-- [Raiffeisen Front-end MeetUp 11 апреля в Москве](https://raiffeisen-events.timepad.ru/event/942752/)
-- [MinskCSS Meetup 11 апреля в Минске](https://minskcss.timepad.ru/event/926331/)
-- [WSD 13 апреля в Москве](https://wsd.events/2019/04/13/)
-- [DUMP 19 апреля в Екатеринбурге](https://dump-conf.ru/)
-- [KharkivCSS 20 апреля в Харькове](http://kharkivcss.org/)
+- [Tech Meetup в Витебске 6 апреля](https://www.facebook.com/events/2001899896773489/2012861519010660/)
+- [Specia Front-end Meetup в Питере 9 апреля](https://specia-events.timepad.ru/event/933947/)
+- [Raiffeisen Front-end MeetUp в Москве 11 апреля](https://raiffeisen-events.timepad.ru/event/942752/)
+- [MinskCSS Meetup в Минске 11 апреля](https://minskcss.timepad.ru/event/926331/)
+- [WSD в Москве 13 апреля](https://wsd.events/2019/04/13/)
+- [DUMP в Екатеринбурге 19 апреля](https://dump-conf.ru/)
+- [KharkivCSS в Харькове 20 апреля](http://kharkivcss.org/)
 - [Google I/O 7–9 мая](https://events.google.com/io/)
 
 ## Safari 12.1 и IE11
