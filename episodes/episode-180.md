@@ -29,7 +29,7 @@
 - [Почта wst@web-standards.ru](mailto:wst@web-standards.ru)
 - [«Веб-стандарты» на Патреоне](https://www.patreon.com/webstandards_ru)
 
-## Cобытия
+## События
 
 - [BEMup в Москве 14 июня](https://events.yandex.ru/events/bemup/14-june-2019/)
 - [Moscowcss №13 в Москве 18 июня](https://moscowcss.timepad.ru/event/993875/)
