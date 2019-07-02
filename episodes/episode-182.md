@@ -45,6 +45,7 @@
 - [Node 12.5.0](https://nodejs.org/en/blog/release/v12.5.0/)
 - [The economics of open source](https://2019.jsconf.eu/c-j-silverio/the-economics-of-open-source.html)
 - [JetBrains Open Day](https://www.jetbrains.com/promo/openday/)
+- [Видео доклада IDE Wars](https://youtu.be/qxg1pGptND0?t=20608)
 
 ## Сервис-воркеры и WebAssembly
 
