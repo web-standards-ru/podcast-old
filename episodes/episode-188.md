@@ -48,7 +48,7 @@
 ## Инструменты: PageSpeed, DevTools, ndb
 
 - [Как работает Google PageSpeed](https://habr.com/p/462005/)
-- [Бенедикт Мауэр переходит в Chrome DevTools](https://twitter.com/bmeurer/status/1155903428218019840)
+- [I’ve officially left the V8 to work on DevTools](https://twitter.com/bmeurer/status/1155903428218019840)
 - [Ndb: DevTools для Node.js](https://github.com/GoogleChromeLabs/ndb)
 
 ## Зачем Puppeteer, если WebDriver
