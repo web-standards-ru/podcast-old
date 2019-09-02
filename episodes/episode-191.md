@@ -41,7 +41,7 @@
 
 ## Доступность
 
-- [How to Accessibly Split Text](https://css-irl.info/how-to-accessibly-split-text/), Мишель Баркер
+- [How to Accessibly Split Text](https://css-irl.info/how-to-accessibly-split-text/)
 
 ## Реклама в npm
 
