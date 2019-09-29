@@ -14,7 +14,7 @@ August 7th, 2019: HTML semantics use cases, Web Components, W3C and WHATWG, HTML
 - 00:35:50 Accessible PDF with Prince XML
 - 00:49:22 Web Monetization API
 
-Listen: [iTunes](https://itunes.apple.com/podcast/id1080500016), [VK](https://vk.com/podcasts-32017543), [Yandex.Music](https://music.yandex.ru/album/6245956), [Spotify](https://open.spotify.com/show/3rzAcADjpBpXt73L0epTjV), [YouTube](https://www.youtube.com/playlist?list=PLMBnwIwFEFHcwuevhsNXkFTcadeX5R1Go), [SoundCloud](https://soundcloud.com/web-standards), [RSS](https://web-standards.ru/podcast/feed/).
+Listen: [Google Podcasts](https://podcasts.google.com/?feed=aHR0cHM6Ly93ZWItc3RhbmRhcmRzLnJ1L3BvZGNhc3QvZmVlZC8), [Apple Podcasts](https://itunes.apple.com/podcast/id1080500016), [VK](https://vk.com/podcasts-32017543), [Yandex.Music](https://music.yandex.ru/album/6245956), [Spotify](https://open.spotify.com/show/3rzAcADjpBpXt73L0epTjV), [YouTube](https://www.youtube.com/playlist?list=PLMBnwIwFEFHcwuevhsNXkFTcadeX5R1Go), [SoundCloud](https://soundcloud.com/web-standards), [RSS](https://web-standards.ru/podcast/feed/).
 
 Read: [Twitter](https://twitter.com/webstandards_ru), [VK](https://vk.com/webstandards_ru), [Facebook](https://www.facebook.com/webstandardsru), [Telegram](https://t.me/webstandards_ru).
 
