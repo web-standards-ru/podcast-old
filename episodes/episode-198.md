@@ -41,22 +41,22 @@
 - [SmashingConf в Остине 9–10 июня](https://smashingconf.com/austin-2020/)
 - [SmashingConf во Фрайбурге 7–8 сентября](https://smashingconf.com/freiburg-2020/)
 
-## Sass
+## Sass оказывается жив
 
 - [The Module System is Launched](http://sass.logdown.com/posts/7858341-the-module-system-is-launched)
 - [Профессиональный HTML и CSS, уровень 2](TODO)
 
-## Components
+## Динамические компоненты без JS
 
 - [Dynamic CSS Components Without JS](https://every-layout.dev/blog/css-components/)
 
-## Reset
+## Новый взгляд на сброс стилей
 
 - [A Modern CSS Reset](https://hankchizljaw.com/wrote/a-modern-css-reset/)
 - [Reset.css](https://meyerweb.com/eric/tools/css/reset/)
 - [Normalize.css](https://necolas.github.io/normalize.css/)
 
-## Mozilla
+## Очень странный CSS
 
 - [Why Is CSS So Weird?](https://youtu.be/aHUtMbJw8iA)
 - [Susy](https://www.oddbird.net/susy/)
