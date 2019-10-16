@@ -22,7 +22,7 @@
 
 [Обсуждайте в Слаке](http://slack.web-standards.ru/).
 
-## Meta
+## Мета
 
 - [Репозиторий сайта](https://github.com/web-standards-ru/nouvelle)
 - [Дизайн сайта в Figma](https://www.figma.com/file/kHj7Cs5lJsKDgFZS0UjOij/milestone-1)
