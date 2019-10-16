@@ -44,7 +44,7 @@
 ## Sass оказывается жив
 
 - [The Module System is Launched](http://sass.logdown.com/posts/7858341-the-module-system-is-launched)
-- [Профессиональный HTML и CSS, уровень 2](TODO)
+- [Профессиональный HTML и CSS, уровень 2](https://htmlacademy.ru/intensive/adaptive)
 
 ## Динамические компоненты без JS
 
