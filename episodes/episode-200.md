@@ -2,8 +2,8 @@
 
 October 28th: CSS passion, Every Layout, why Sass, owls or gaps, Container Queries, BEM variations.
 
-— Vadim Makeev
-— Andy Bell
+- Vadim Makeev
+- Andy Bell
 
 ## Topics
 
