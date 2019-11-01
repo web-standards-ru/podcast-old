@@ -30,10 +30,10 @@
 
 January 1st: Description.
 
-— Olga Alexashenko
-— Vadim Makeev
-— Maria Prosvirnina
-— Alexey Simonenko
+- Olga Alexashenko
+- Vadim Makeev
+- Maria Prosvirnina
+- Alexey Simonenko
 
 ## Topics
 
