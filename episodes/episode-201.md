@@ -23,7 +23,7 @@ Support: [Patreon](https://www.patreon.com/webstandards_ru), [Yandex.Money](http
 
 ## Rachel Andrew
 
-- [Rachel on Twitter](https://twitter.com/hankchizljaw)
+- [Rachel on Twitter](https://twitter.com/rachelandrew)
 - [Blog](https://rachelandrew.co.uk/)
 - [Perch](https://grabaperch.com/)
 - [Notist](https://noti.st/)
