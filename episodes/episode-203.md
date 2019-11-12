@@ -59,3 +59,4 @@
 ## WeakMap и GC
 
 - [Inside V8: weak collections, ephemerons, and private fields](https://youtu.be/MQsUiqVCJMc)
+- [Канал Рубанова в Телеграме](https://t.me/juliarderity)
