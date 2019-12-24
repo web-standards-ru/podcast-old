@@ -17,7 +17,7 @@
 - 01:03:13 JS для старых браузеров
 - 01:22:35 Модули и импорт без Webpack
 
-Слушайте: [Google Podcasts](https://podcasts.google.com/?feed=aHR0cHM6Ly93ZWItc3RhbmRhcmRzLnJ1L3BvZGNhc3QvZmVlZC8), [Apple Podcasts](https://itunes.apple.com/podcast/id1080500016), [ВКонтакте](https://vk.com/podcasts-32017543), [Яндекс.Музыка](https://music.yandex.ru/album/6245956), [Spotify](https://open.spotify.com/show/3rzAcADjpBpXt73L0epTjV), [YouTube](https://www.youtube.com/playlist?list=PLMBnwIwFEFHcwuevhsNXkFTcadeX5R1Go), [SoundCloud](https://soundcloud.com/web-standards), [RSS](https://web-standards.ru/podcast/feed/).
+Слушайте: [Google Podcasts](https://podcasts.google.com/?feed=aHR0cHM6Ly93ZWItc3RhbmRhcmRzLnJ1L3BvZGNhc3QvZmVlZC8), [Apple Podcasts](https://podcasts.apple.com/podcast/id1080500016), [ВКонтакте](https://vk.com/podcasts-32017543), [Яндекс.Музыка](https://music.yandex.ru/album/6245956), [Spotify](https://open.spotify.com/show/3rzAcADjpBpXt73L0epTjV), [YouTube](https://www.youtube.com/playlist?list=PLMBnwIwFEFHcwuevhsNXkFTcadeX5R1Go), [SoundCloud](https://soundcloud.com/web-standards), [RSS](https://web-standards.ru/podcast/feed/).
 
 Читайте: [Твиттер](https://twitter.com/webstandards_ru), [ВКонтакте](https://vk.com/webstandards_ru), [Фейсбук](https://www.facebook.com/webstandardsru), [Телеграм](https://t.me/webstandards_ru).
 

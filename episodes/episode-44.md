@@ -22,7 +22,7 @@
 - 00:57:25 HTML на стероидах
 - 01:03:17 Подкаст жив!
 
-Слушайте: [Google Podcasts](https://podcasts.google.com/?feed=aHR0cHM6Ly93ZWItc3RhbmRhcmRzLnJ1L3BvZGNhc3QvZmVlZC8), [Apple Podcasts](https://itunes.apple.com/podcast/id1080500016), [ВКонтакте](https://vk.com/podcasts-32017543), [Яндекс.Музыка](https://music.yandex.ru/album/6245956), [Spotify](https://open.spotify.com/show/3rzAcADjpBpXt73L0epTjV), [YouTube](https://www.youtube.com/playlist?list=PLMBnwIwFEFHcwuevhsNXkFTcadeX5R1Go), [SoundCloud](https://soundcloud.com/web-standards), [RSS](https://web-standards.ru/podcast/feed/).
+Слушайте: [Google Podcasts](https://podcasts.google.com/?feed=aHR0cHM6Ly93ZWItc3RhbmRhcmRzLnJ1L3BvZGNhc3QvZmVlZC8), [Apple Podcasts](https://podcasts.apple.com/podcast/id1080500016), [ВКонтакте](https://vk.com/podcasts-32017543), [Яндекс.Музыка](https://music.yandex.ru/album/6245956), [Spotify](https://open.spotify.com/show/3rzAcADjpBpXt73L0epTjV), [YouTube](https://www.youtube.com/playlist?list=PLMBnwIwFEFHcwuevhsNXkFTcadeX5R1Go), [SoundCloud](https://soundcloud.com/web-standards), [RSS](https://web-standards.ru/podcast/feed/).
 
 Читайте: [Твиттер](https://twitter.com/webstandards_ru), [ВКонтакте](https://vk.com/webstandards_ru), [Фейсбук](https://www.facebook.com/webstandardsru), [Телеграм](https://t.me/webstandards_ru).
 
@@ -92,4 +92,4 @@
 ## Подкаст жив!
 
 - [Пятиминутка React](http://5minreact.ru/)
-- [Веб-стандарты в iTunes](https://itunes.apple.com/podcast/id1080500016)
+- [Веб-стандарты в iTunes](https://podcasts.apple.com/podcast/id1080500016)
