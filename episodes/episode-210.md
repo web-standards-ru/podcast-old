@@ -41,7 +41,7 @@
 
 - [What a Year of Learning and Teaching Accessibility Taught Me](https://www.24a11y.com/2019/what-a-year-of-learning-and-teaching-accessibility-taught-me/)
 
-# Новогодние акции HTML Academy
+## Новогодние акции HTML Academy
 
 - [2019: Очень странный Новый год](https://htmlacademy.ru/blog/academy/events/stranger-new-year)
 - [2018: Остановили Рагнарёк](https://htmlacademy.ru/blog/academy/events/stop-ragnarok-new-year)
