@@ -11,7 +11,7 @@
         <atom:link href="https://web-standards.ru/podcast/feed/" rel="self" type="application/rss+xml"/>
 
         <itunes:subtitle>Новости фронтенда за неделю</itunes:subtitle>
-        <itunes:author>Ольга Алексашенко, Вадим Макеев, Мария Просвирнина, Алексей Симоненко</itunes:author>
+        <itunes:author>Ольга Алексашенко, Никита Дубко, Вадим Макеев, Мария Просвирнина, Алексей Симоненко</itunes:author>
         <itunes:explicit>no</itunes:explicit>
         <itunes:owner>
             <itunes:name>Веб-стандарты</itunes:name>
