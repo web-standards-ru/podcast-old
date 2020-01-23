@@ -1,6 +1,6 @@
 # Episode #200
 
-October 28th: CSS passion, Every Layout, why Sass, owls or gaps, Container Queries, BEM variations.
+October 28th, 2019: CSS passion, Every Layout, why Sass, owls or gaps, Container Queries, BEM variations.
 
 - Vadim Makeev
 - Andy Bell

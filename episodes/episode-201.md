@@ -1,6 +1,6 @@
 # Episode #201
 
-November 1st: Web standards work, CSS multi-column, CSS for printing, new display values, contributing.
+November 1st, 2019: Web standards work, CSS multi-column, CSS for printing, new display values, contributing.
 
 - Vadim Makeev
 - Rachel Andrew
